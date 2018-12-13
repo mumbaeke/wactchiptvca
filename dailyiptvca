@@ -2419,3 +2419,185 @@ http://maxptv.ddns.net:25461/live/MA020/0706/1191.ts
 http://maxptv.ddns.net:25461/live/MA020/0706/1192.ts
 #EXTINF:0,TV Universal
 http://maxptv.ddns.net:25461/live/MA020/0706/1193.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: A&E HD
+http://server.internext.tv:8080/gaurav/gaurav123/17138
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: ABC13
+http://server.internext.tv:8080/gaurav/gaurav123/37007
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: AFN MOVIES
+http://server.internext.tv:8080/gaurav/gaurav123/23291
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: AFN PRIME PACIFIC
+http://server.internext.tv:8080/gaurav/gaurav123/23294
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: AMC
+http://server.internext.tv:8080/gaurav/gaurav123/22612
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: BBC AMERICA HD
+http://server.internext.tv:8080/gaurav/gaurav123/23265
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: BET HER HD
+http://server.internext.tv:8080/gaurav/gaurav123/22616
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: BT SPORTS ESPN HD
+http://server.internext.tv:8080/gaurav/gaurav123/36427
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: BTN SPORTS HD
+http://server.internext.tv:8080/gaurav/gaurav123/8852
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Bein Sports US HD
+http://server.internext.tv:8080/gaurav/gaurav123/1687
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: CBN
+http://server.internext.tv:8080/gaurav/gaurav123/26833
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: CBSN HD
+http://server.internext.tv:8080/gaurav/gaurav123/22627
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: CNBC (nbc at 3pm)
+http://server.internext.tv:8080/gaurav/gaurav123/23276
+#EXTINF:0 tvg-id="CNN.us" group-title="Channels",USA: CNN FHD
+http://server.internext.tv:8080/gaurav/gaurav123/27953
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: COOKING CHANNEL
+http://server.internext.tv:8080/gaurav/gaurav123/15679
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: CW 11 HD
+http://server.internext.tv:8080/gaurav/gaurav123/15697
+#EXTINF:0 tvg-id="Discovery.us" group-title="Channels",USA: DISCOVERY CHANNEL HD
+http://server.internext.tv:8080/gaurav/gaurav123/36474
+#EXTINF:0 tvg-id="Discovery.us" group-title="Channels",USA: DISCOVERY SCIENCE HD
+http://server.internext.tv:8080/gaurav/gaurav123/17140
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: DISNEY CHANNEL HD
+http://server.internext.tv:8080/gaurav/gaurav123/29547
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Destination America
+http://server.internext.tv:8080/gaurav/gaurav123/19945
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: ELREY NETWORK HD
+http://server.internext.tv:8080/gaurav/gaurav123/22802
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: EPIX HD
+http://server.internext.tv:8080/gaurav/gaurav123/23287
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: ESPN 3
+http://server.internext.tv:8080/gaurav/gaurav123/15667
+#EXTINF:0 tvg-id="ESPNHD.us" group-title="Channels",USA: ESPN HD
+http://server.internext.tv:8080/gaurav/gaurav123/15668
+#EXTINF:0 tvg-id="ESPNews.us" group-title="Channels",USA: ESPN NEWS HD
+http://server.internext.tv:8080/gaurav/gaurav123/23289
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOOD NETWORK HD
+http://server.internext.tv:8080/gaurav/gaurav123/17127
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX 29
+http://server.internext.tv:8080/gaurav/gaurav123/36505
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX 81
+http://server.internext.tv:8080/gaurav/gaurav123/37014
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX 82
+http://server.internext.tv:8080/gaurav/gaurav123/37013
+#EXTINF:0 tvg-id="WNYWNewYorkFOXHDEast.us" group-title="Channels",USA: FOX HD
+http://server.internext.tv:8080/gaurav/gaurav123/16688
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="Channels",USA: FOX SPORTS 1 HD
+http://server.internext.tv:8080/gaurav/gaurav123/36506
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS 2
+http://server.internext.tv:8080/gaurav/gaurav123/17143
+#EXTINF:0 tvg-id="FOXSports2.us" group-title="Channels",USA: FOX SPORTS 2 HD
+http://server.internext.tv:8080/gaurav/gaurav123/36507
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS 3 HD
+http://server.internext.tv:8080/gaurav/gaurav123/36508
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: GAME OF THRONES SHOW
+http://server.internext.tv:8080/gaurav/gaurav123/35028
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: GLOBAL  HD
+http://server.internext.tv:8080/gaurav/gaurav123/17161
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: GRIT HD
+http://server.internext.tv:8080/gaurav/gaurav123/23249
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: HALLMARK CHANNEL HD
+http://server.internext.tv:8080/gaurav/gaurav123/16690
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: HBO EAST
+http://server.internext.tv:8080/gaurav/gaurav123/22617
+#EXTINF:0 tvg-id="HBOZoneHD.us" group-title="Channels",USA: HBO ZONE HD
+http://server.internext.tv:8080/gaurav/gaurav123/8068
+#EXTINF:0 tvg-id="HistoryHD.us" group-title="Channels",USA: HISTORY HD
+http://server.internext.tv:8080/gaurav/gaurav123/3382
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: HLN
+http://server.internext.tv:8080/gaurav/gaurav123/23270
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: INVESTIGATION DISCOVERY
+http://server.internext.tv:8080/gaurav/gaurav123/23278
+#EXTINF:0 tvg-id="Lifetime.us" group-title="Channels",USA: LIFETIME HD
+http://server.internext.tv:8080/gaurav/gaurav123/16683
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: MAV TV
+http://server.internext.tv:8080/gaurav/gaurav123/16699
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: MTV HD
+http://server.internext.tv:8080/gaurav/gaurav123/23255
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: MTV LIVE
+http://server.internext.tv:8080/gaurav/gaurav123/23253
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: TBN HD
+http://server.internext.tv:8080/gaurav/gaurav123/22618
+#EXTINF:0 tvg-id="TBSHD.us" group-title="Channels",USA: TBS HD
+http://server.internext.tv:8080/gaurav/gaurav123/22615
+#EXTINF:0 tvg-id="TennisChannel.us" group-title="Channels",USA: TENNIS CHANNEL HD
+http://server.internext.tv:8080/gaurav/gaurav123/26831
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: THE BLAZE
+http://server.internext.tv:8080/gaurav/gaurav123/23280
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: THE WEATHER CHANNEL
+http://server.internext.tv:8080/gaurav/gaurav123/22634
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: TLC HD
+http://server.internext.tv:8080/gaurav/gaurav123/17136
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: TRAVEL CHANNEL
+http://server.internext.tv:8080/gaurav/gaurav123/2110
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: TSN 1
+http://server.internext.tv:8080/gaurav/gaurav123/17123
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: TSN 2
+http://server.internext.tv:8080/gaurav/gaurav123/16692
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: TSN 3
+http://server.internext.tv:8080/gaurav/gaurav123/16693
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: TSN 4
+http://server.internext.tv:8080/gaurav/gaurav123/16694
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: TSN 5
+http://server.internext.tv:8080/gaurav/gaurav123/16695
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: UNIVISION DEP HD
+http://server.internext.tv:8080/gaurav/gaurav123/23261
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: USA CINEMAX EAST
+http://server.internext.tv:8080/gaurav/gaurav123/22604
+#EXTINF:0 tvg-id="USANetwork.us" group-title="Channels",USA: USA Network HD
+http://server.internext.tv:8080/gaurav/gaurav123/1700
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: VELOCITY
+http://server.internext.tv:8080/gaurav/gaurav123/17124
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: VH1 HD
+http://server.internext.tv:8080/gaurav/gaurav123/26832
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: WWE NETWORK HD
+http://server.internext.tv:8080/gaurav/gaurav123/22635
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: WZ
+http://server.internext.tv:8080/gaurav/gaurav123/37008
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: iON
+http://server.internext.tv:8080/gaurav/gaurav123/23279
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: MSNBC
+http://server.internext.tv:8080/gaurav/gaurav123/37609
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: CRIME AND INVESTIGATION HD
+http://server.internext.tv:8080/gaurav/gaurav123/37991
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: CINEMAX OUTERMAX
+http://server.internext.tv:8080/gaurav/gaurav123/37995
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: CINEMAX THRILLERMAX
+http://server.internext.tv:8080/gaurav/gaurav123/37996
+#EXTINF:0 tvg-id="HBO2East.us" group-title="Channels",USA: HBO 2
+http://server.internext.tv:8080/gaurav/gaurav123/37993
+#EXTINF:0 tvg-id="HBOFamilyEast.us" group-title="Channels",USA: HBO FAMILY
+http://server.internext.tv:8080/gaurav/gaurav123/37992
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SHOWCASE
+http://server.internext.tv:8080/gaurav/gaurav123/37994
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: BET INTERNATIONAL
+http://server.internext.tv:8080/gaurav/gaurav123/38183
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: BOOMERANG
+http://server.internext.tv:8080/gaurav/gaurav123/38182
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: LIFETIME MOVIES
+http://server.internext.tv:8080/gaurav/gaurav123/38180
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: HGTV
+http://server.internext.tv:8080/gaurav/gaurav123/38181
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS 1
+http://server.internext.tv:8080/gaurav/gaurav123/17142
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSP: SPORTS 1 HD
+http://server.internext.tv:8080/gaurav/gaurav123/17132
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSP: SPORTS 2 HD
+http://server.internext.tv:8080/gaurav/gaurav123/17131
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSP: SPORTS 3 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3569
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSP: SPORTS 4 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3570
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSP: SPORTS 5 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3571
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSP: SPORTS 6 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3572
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSP: SPORTS 7 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3573
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSP: SPORTS 8 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3574
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSP: SPORTS 9 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3575
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSP: SPORTS 10 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3576
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSP: SPORTS 11 HD
+http://server.internext.tv:8080/gaurav/gaurav123/10543
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSP: SPORTS 12 HD
+http://server.internext.tv:8080/gaurav/gaurav123/10541
