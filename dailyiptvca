@@ -1,128 +1,677 @@
 #EXTM3U
-#EXTINF:0,-canda server-
-#EXTINF:0,Canada: ABC SPARK CANADA
+#EXTINF:0 tvg-id="ext" group-title="Channels",A&E FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4960
+#EXTINF:0 tvg-id="ext" group-title="Channels",A&E HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14399
+#EXTINF:0 tvg-id="ext" group-title="Channels",ABC News US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6364
+#EXTINF:0 tvg-id="WABCNewYorkABCEast.us" group-title="Channels",ABC US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4925
+#EXTINF:0 tvg-id="ext" group-title="Channels",AFN Prime Pacific US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4933
+#EXTINF:0 tvg-id="ext" group-title="Channels",AFN Spectrum HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14396
+#EXTINF:0 tvg-id="ext" group-title="Channels",AFN Sport 1 US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14395
+#EXTINF:0 tvg-id="ext" group-title="Channels",AFN Sport 2 US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14394
+#EXTINF:0 tvg-id="ext" group-title="Channels",AFN Sports 2 US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4927
+#EXTINF:0 tvg-id="ext" group-title="Channels",AFN Sports HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4928
+#EXTINF:0 tvg-id="ext" group-title="Channels",AFN Sports US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14412
+#EXTINF:0 tvg-id="AMC.us" group-title="Channels",AMC HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4959
+#EXTINF:0 tvg-id="AMC.us" group-title="Channels",AMC  US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6363
+#EXTINF:0 tvg-id="ext" group-title="Channels",Weather Channel US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4900
+#EXTINF:0 tvg-id="ext" group-title="Channels",Action Max FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4869
+#EXTINF:0 tvg-id="AnimalPlanet.us" group-title="Channels",Animal Planet HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14393
+#EXTINF:0 tvg-id="AnimalPlanet.us" group-title="Channels",Animal Planet US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6362
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13759
+#EXTINF:0 tvg-id="ext" group-title="Channels",beiN Sports HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4902
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC America HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14392
+#EXTINF:0 tvg-id="ext" group-title="Channels",BTN Sport US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4884
+#EXTINF:0 tvg-id="ext" group-title="Channels",BYU Sports TV US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4910
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bet FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13764
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bet HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4958
+#EXTINF:0 tvg-id="ext" group-title="Channels",Big Ten US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6361
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bloomberg FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4940
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bloomberg HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6360
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bravo HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4883
+#EXTINF:0 tvg-id="CSPAN.us" group-title="Channels",C-Span 1 US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14391
+#EXTINF:0 tvg-id="CSPAN2.us" group-title="Channels",C-Span 2 US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14390
+#EXTINF:0 tvg-id="ext" group-title="Channels",C-Span 3 US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14389
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBN US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4920
+#EXTINF:0 tvg-id="WCBSNewYorkCBSEast.us" group-title="Channels",CBS FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13751
+#EXTINF:0 tvg-id="WCBSNewYorkCBSEast.us" group-title="Channels",CBS HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6348
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBS Sports Network HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14385
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBS US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4885
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBSN  HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6342
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBSN US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4939
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNBC HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4956
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4919
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN News FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13750
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN News HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14377
+#EXTINF:0 tvg-id="CNN.nws" group-title="Channels",CNN US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6359
+#EXTINF:0 tvg-id="ext" group-title="Channels",CW Central US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14401
+#EXTINF:0 tvg-id="ext" group-title="Channels",CW US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4955
+#EXTINF:0 tvg-id="CartoonNetworkHD.us" group-title="Channels",Cartoon Network FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4886
+#EXTINF:0 tvg-id="CartoonNetworkHD.us" group-title="Channels",Cartoon Network HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14387
+#EXTINF:0 tvg-id="ext" group-title="Channels",CineMax Action HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14382
+#EXTINF:0 tvg-id="ext" group-title="Channels",CineMax ActionMax East US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14381
+#EXTINF:0 tvg-id="ext" group-title="Channels",CineMax East US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14380
+#EXTINF:0 tvg-id="ext" group-title="Channels",CineMax MoreMax US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14378
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinemax 5 Starmax US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4911
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinemax Action US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14383
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinemax East FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4912
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinemax FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4914
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinemax More HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14379
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinemax Moremax FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4913
+#EXTINF:0 tvg-id="CinemÄx.us" group-title="Channels",Cinemax US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6693
+#EXTINF:0 tvg-id="ext" group-title="Channels",Comedy Central FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14376
+#EXTINF:0 tvg-id="ext" group-title="Channels",Comedy Central HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13823
+#EXTINF:0 tvg-id="ComedyCentral.us" group-title="Channels",Comedy Central US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4882
+#EXTINF:0 tvg-id="ext" group-title="Channels",Crime and Investigation US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4879
+#EXTINF:0 tvg-id="ext" group-title="Channels",Destination America FHD USA
+http://mypanel.tv:80/Johan_santana/v4ymonlek/17640
+#EXTINF:0 tvg-id="ext" group-title="Channels",DW US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14366
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Channel HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14373
+#EXTINF:0 tvg-id="Discovery.us" group-title="Channels",Discovery Channel US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/16988
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14372
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery ID FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4918
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Science US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4887
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Velocity FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4877
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Velocity US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14371
+#EXTINF:0 tvg-id="ext" group-title="Channels",Disney Channel FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14370
+#EXTINF:0 tvg-id="ext" group-title="Channels",Disney Channel HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14369
+#EXTINF:0 tvg-id="ext" group-title="Channels",Disney XD FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14368
+#EXTINF:0 tvg-id="ext" group-title="Channels",Disney XD HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14367
+#EXTINF:0 tvg-id="DIYNetworkHD.us" group-title="Channels",Diy Network HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/11373
+#EXTINF:0 tvg-id="ext" group-title="Channels",E! HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14365
+#EXTINF:0 tvg-id="ext" group-title="Channels",E! Network US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4951
+#EXTINF:0 tvg-id="ESPNHD.us" group-title="Channels",ESPN 1 US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14405
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13749
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4936
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 3 US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6708
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14363
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN News HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4935
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN Plus US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6707
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN U US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/33498
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4937
+#EXTINF:0 tvg-id="ext" group-title="Channels",El Rey Network FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13758
+#EXTINF:0 tvg-id="ext" group-title="Channels",El Rey Network HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14364
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14562
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="Channels",Fox Sports 1 US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/63735
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="Channels",Fox Sports 1 FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/137256
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="Channels",Fox Sports 1 HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/494720
+#EXTINF:0 tvg-id="FOXSports2.us" group-title="Channels",Fox Sports 2 US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/63365
+#EXTINF:0 tvg-id="FOXSports2.us" group-title="Channels",Fox Sports 2 HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/494259
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Soccer Plus HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14408
+#EXTINF:0 tvg-id="FX.us" group-title="Channels",FX FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13763
+#EXTINF:0 tvg-id="FX.us" group-title="Channels",FX HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4942
+#EXTINF:0 tvg-id="FXX.us" group-title="Channels",FXX FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13756
+#EXTINF:0 tvg-id="FXX.us" group-title="Channels",FXX HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14353
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fashion One HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14362
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fight Network FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13748
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fight Sport US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14361
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fine Living US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14360
+#EXTINF:0 tvg-id="ext" group-title="Channels",Food Network HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14359
+#EXTINF:0 tvg-id="ext" group-title="Channels",Food Network US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4949
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13757
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4948
+#EXTINF:0 tvg-id="FOXNewsChannel.us" group-title="Channels",Fox News FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14358
+#EXTINF:0 tvg-id="FOXNewsChannel.us" group-title="Channels",Fox News HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14357
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox News US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4943
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 506 FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4944
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports North HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14355
+#EXTINF:0 tvg-id="ext" group-title="Channels",Free Form US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4950
+#EXTINF:0 tvg-id="ext" group-title="Channels",Global BC US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14352
+#EXTINF:0 tvg-id="ext" group-title="Channels",Golf HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6340
+#EXTINF:0 tvg-id="H2.us" group-title="Channels",H2 US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4888
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Comedy FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4921
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Comedy HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13762
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Est FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13742
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14411
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Family FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13741
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4923
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Signature FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13761
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Signature HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6343
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14350
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Zone US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4922
+#EXTINF:0 tvg-id="ext" group-title="Channels",HGTV HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14348
+#EXTINF:0 tvg-id="HGTV.us" group-title="Channels",HGTV US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/10218
+#EXTINF:0 tvg-id="ext" group-title="Channels",HIFI HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4890
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hallmark FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4889
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hallmark Movies & Mysteries FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13746
+#EXTINF:0 tvg-id="ext" group-title="Channels",History Channel FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4880
+#EXTINF:0 tvg-id="ext" group-title="Channels",History FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13754
+#EXTINF:0 tvg-id="ext" group-title="Channels",History HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14346
+#EXTINF:0 tvg-id="ext" group-title="Channels",History US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14347
+#EXTINF:0 tvg-id="ext" group-title="Channels",ID HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14345
+#EXTINF:0 tvg-id="ext" group-title="Channels",IFC FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13739
+#EXTINF:0 tvg-id="Lifetime.us" group-title="Channels",Lifetime HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14343
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB Live US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4867
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB Network HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14402
+#EXTINF:0 tvg-id="MLBNetwork.us" group-title="Channels",MLB Network US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4868
+#EXTINF:0 tvg-id="ext" group-title="Channels",MSNBC FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13738
+#EXTINF:0 tvg-id="ext" group-title="Channels",MSNBC HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14398
+#EXTINF:0 tvg-id="ext" group-title="Channels",MSNBC US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4904
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14342
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14341
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV Rocks US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14340
+#EXTINF:0 tvg-id="ext" group-title="Channels",NASA US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4941
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14338
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA TV HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6355
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Golf FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13753
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Golf HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4953
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Golf US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14410
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC News HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14337
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC SN HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14336
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Sport FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4952
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Sports Network HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14403
+#EXTINF:0 tvg-id="WNBCNewYorkNBCEast.us" group-title="Channels",NBC US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4954
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBCSN HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14330
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL  HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6345
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4917
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL Network HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14329
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL Now HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14328
+#EXTINF:0 tvg-id="ext" group-title="Channels",NHL Network FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4875
+#EXTINF:0 tvg-id="ext" group-title="Channels",NHL Network HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14409
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nat Geo Wild FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13745
+#EXTINF:0 tvg-id="ext" group-title="Channels",National Geographic FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4881
+#EXTINF:0 tvg-id="ext" group-title="Channels",National Geographic HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14339
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nick FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13744
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nick HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14327
+#EXTINF:0 tvg-id="ext" group-title="Channels",OWN FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13760
+#EXTINF:0 tvg-id="ext" group-title="Channels",OWN HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/11255
+#EXTINF:0 tvg-id="ext" group-title="Channels",OWN US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14326
+#EXTINF:0 tvg-id="ext" group-title="Channels",Outdoor Channel HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14325
+#EXTINF:0 tvg-id="ext" group-title="Channels",PAC Arizona HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4866
+#EXTINF:0 tvg-id="ext" group-title="Channels",PAC Los Angeles FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4864
+#EXTINF:0 tvg-id="ext" group-title="Channels",PAC Oregon FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4863
+#EXTINF:0 tvg-id="ext" group-title="Channels",PAC Washington FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4862
+#EXTINF:0 tvg-id="ext" group-title="Channels",PAC-12 Los Angeles FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13737
+#EXTINF:0 tvg-id="ext" group-title="Channels",PAC-12 Oregon FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13752
+#EXTINF:0 tvg-id="ext" group-title="Channels",PAC-12 Washington FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13736
+#EXTINF:0 tvg-id="ext" group-title="Channels",PAC12 Bay Area HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4865
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pick TV US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14323
+#EXTINF:0 tvg-id="ext" group-title="Channels",RT Documentary HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4906
+#EXTINF:0 tvg-id="ext" group-title="Channels",Showtime FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13735
+#EXTINF:0 tvg-id="ext" group-title="Channels",Showtime Showcase HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4891
+#EXTINF:0 tvg-id="ShowtimeE.us" group-title="Channels",Showtime US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4926
+#EXTINF:0 tvg-id="ShowtimeW.us" group-title="Channels",Showtime West US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14321
+#EXTINF:0 tvg-id="ext" group-title="Channels",Smile Of A Child US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14320
+#EXTINF:0 tvg-id="ext" group-title="Channels",Spike FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4892
+#EXTINF:0 tvg-id="ext" group-title="Channels",Spike HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14319
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sportnet Ontario US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14406
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sports Net 360 FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4915
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sports Net One HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4916
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sports Net One HD. US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4894
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sports Net West HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4861
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sportsnet East HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14318
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sports net Ontario HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14317
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sportsnet 360 HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14388
+#EXTINF:0 tvg-id="StarzCinemaHD.us" group-title="Channels",Starz Cinema US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4898
+#EXTINF:0 tvg-id="StarzComedyHD.us" group-title="Channels",Starz Comedy US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4899
+#EXTINF:0 tvg-id="StarzEast.us" group-title="Channels",Starz East US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4895
+#EXTINF:0 tvg-id="StarzEdge.us" group-title="Channels",Starz Edge US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4897
+#EXTINF:0 tvg-id="StarzEncore.us" group-title="Channels",Starz Encore US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4896
+#EXTINF:0 tvg-id="StarzHDWest.us" group-title="Channels",Starz West US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4907
+#EXTINF:0 tvg-id="ext" group-title="Channels",TBS FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6341
+#EXTINF:0 tvg-id="TBSHD.us" group-title="Channels",TBS US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4908
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLC Discovery US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6747
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLC FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/13734
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLC HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14397
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLC US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4924
+#EXTINF:0 tvg-id="TNT.us" group-title="Channels",TNT HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6354
+#EXTINF:0 tvg-id="TNT.us" group-title="Channels",TNT US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4876
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSN 1 SD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6353
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSN 2 HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6352
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSN 3 HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6351
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSN 4 HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6350
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSN 5 HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6349
+#EXTINF:0 tvg-id="truTV.us" group-title="Channels",Tru TV US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/629081
+#EXTINF:0 tvg-id="USANetwork.us" group-title="Channels",USA Network HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/4901
+#EXTINF:0 tvg-id="ext" group-title="Channels",VH1 HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/11254
+#EXTINF:0 tvg-id="VH1.us" group-title="Channels",VH1 US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6753
+#EXTINF:0 tvg-id="ext" group-title="Channels",WWE HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14404
+#EXTINF:0 tvg-id="ext" group-title="Channels",WWE US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/6347
+#EXTINF:0 tvg-id="ext" group-title="Channels",UFC Fight Pass (Live Events Only) US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/16617
+#EXTINF:0 tvg-id="ext" group-title="Channels",LMN HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/17513
+#EXTINF:0 tvg-id="ext" group-title="Channels",SEC Network US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/32382
+#EXTINF:0 tvg-id="TravelChannel.us" group-title="Channels",Travel Channel US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/32381
+#EXTINF:0 tvg-id="ext" group-title="Channels",NESN HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/34415
+#EXTINF:0 tvg-id="ext" group-title="Channels",Reelz Channel US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/51014
+#EXTINF:0 tvg-id="ext" group-title="Channels",Oxygen HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/51015
+#EXTINF:0 tvg-id="ext" group-title="Channels",GSN HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/14351
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL RedZone HD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/53157
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tennis FHD US
+http://mypanel.tv:80/Johan_santana/v4ymonlek/7084
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: ABC SPARK CANADA
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11372.ts
-#EXTINF:0,Canada: AMC
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: AMC
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11531.ts
-#EXTINF:0,Canada: ANIMAL PLANET
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: ANIMAL PLANET
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11530.ts
-#EXTINF:0,Canada: APTN
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: APTN
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11421.ts
-#EXTINF:0,Canada: BBC CANADA
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: BBC CANADA
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11419.ts
-#EXTINF:0,Canada: BBC KIDS
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: BBC KIDS
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11418.ts
-#EXTINF:0,Canada: BBC WORLD NEWS
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: BBC WORLD NEWS
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11467.ts
-#EXTINF:0,Canada: BNN
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: BNN
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11417.ts
-#EXTINF:0,Canada: BOOK TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: BOOK TV
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11465.ts
-#EXTINF:0,Canada: BRAVO
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: BRAVO
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11416.ts
-#EXTINF:0,Canada: CANAL D
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CANAL D
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11445.ts
-#EXTINF:0,Canada: CANAL SAVOIR
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CANAL SAVOIR
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11529.ts
-#EXTINF:0,Canada: CMT CANADA
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CMT CANADA
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11462.ts
-#EXTINF:0,Canada: CNBC
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CNBC
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11409.ts
-#EXTINF:0,Canada: CNN
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CNN
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11525.ts
-#EXTINF:0,Canada: CNN INTERNATIONAL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CNN INTERNATIONAL
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11408.ts
-#EXTINF:0,Canada: COMEDY EAST
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: COMEDY EAST
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11360.ts
-#EXTINF:0,Canada: COMEDY GOLD
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: COMEDY GOLD
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11524.ts
-#EXTINF:0,Canada: COOKING CHANNEL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: COOKING CHANNEL
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11523.ts
-#EXTINF:0,Canada: COSMO
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: COSMO
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11460.ts
-#EXTINF:0,Canada: COTTAGE LIFE
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: COTTAGE LIFE
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11459.ts
-#EXTINF:0,Canada: CP24
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CP24
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11522.ts
-#EXTINF:0,Canada: CRIME   INVEST
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CRIME   INVEST
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11461.ts
-#EXTINF:0,Canada: CTV 2 VANCOUVER
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CTV 2 VANCOUVER
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11519.ts
-#EXTINF:0,Canada: CTV NEWS NETWORK
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CTV NEWS NETWORK
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11518.ts
-#EXTINF:0,Canada: CTV OTTAWA
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CTV OTTAWA
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11517.ts
-#EXTINF:0,Canada: CTV TORONTO
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CTV TORONTO
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11516.ts
-#EXTINF:0,Canada: CTV VANCOUVER
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CTV VANCOUVER
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11342.ts
-#EXTINF:0,Canada: CTV2 OTTAWA
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CTV2 OTTAWA
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11359.ts
-#EXTINF:0,Canada: DISNEY CANADA
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: DISNEY CANADA
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11357.ts
-#EXTINF:0,Canada: FOOD NETWORK
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: FOOD NETWORK
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11509.ts
-#EXTINF:0,Canada: FOX NEWS
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: FOX NEWS
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11508.ts
-#EXTINF:0,Canada: GLOBAL TORONTO
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: GLOBAL TORONTO
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11505.ts
-#EXTINF:0,Canada: GLOBAL VANCOUVER
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: GLOBAL VANCOUVER
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11395.ts
-#EXTINF:0,Canada: GOLF
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: GOLF
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11456.ts
-#EXTINF:0,Canada: HBO 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: HBO 1
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11503.ts
-#EXTINF:0,Canada: HBO 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: HBO 2
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11403.ts
-#EXTINF:0,Canada: HGTV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: HGTV
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11502.ts
-#EXTINF:0,Canada: HISTORIO
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: HISTORIO
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11343.ts
-#EXTINF:0,Canada: OMNI 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: OMNI 1
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11491.ts
-#EXTINF:0,Canada: OMNI 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: OMNI 2
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11364.ts
-#EXTINF:0,Canada: ONE
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: ONE
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11352.ts
-#EXTINF:0,Canada: OUTTV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: OUTTV
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11490.ts
-#EXTINF:0,Canada: OWN
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: OWN
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11489.ts
-#EXTINF:0,Canada: PBS EAST
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: PBS EAST
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11488.ts
-#EXTINF:0,Canada: PEACH TREE
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: PEACH TREE
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11351.ts
-#EXTINF:0,Canada: PRISE
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: PRISE
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11389.ts
-#EXTINF:0,Canada: RDI
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: RDI
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11487.ts
-#EXTINF:0,Canada: RDS
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: RDS
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11388.ts
-#EXTINF:0,Canada: RDS 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: RDS 2
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11350.ts
-#EXTINF:0,Canada: SERIS
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canada |  TSN 4 HD
-http://149.56.241.86:25461/eliplextv/eliplex9202tv/7913
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canada | Sportsnet 360 HD
-http://149.56.241.86:25461/eliplextv/eliplex9202tv/8155
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canada | Sportsnet East HD
-http://149.56.241.86:25461/eliplextv/eliplex9202tv/8161
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canada | Sportsnet One
-http://149.56.241.86:25461/eliplextv/eliplex9202tv/8160
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canada | Sportsnet Ontario HD
-http://149.56.241.86:25461/eliplextv/eliplex9202tv/8158
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canada | Sportsnet West HD
-http://149.56.241.86:25461/eliplextv/eliplex9202tv/8157
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canada | Sportsnet World
-http://149.56.241.86:25461/eliplextv/eliplex9202tv/8156
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canada | TSN 1
-http://149.56.241.86:25461/eliplextv/eliplex9202tv/7916
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canada | TSN 2
-http://149.56.241.86:25461/eliplextv/eliplex9202tv/7915
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canada | TSN 3
-http://149.56.241.86:25461/eliplextv/eliplex9202tv/7914
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canada | Sportsnet Ontario
-http://149.56.241.86:25461/eliplextv/eliplex9202tv/8159
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: SERIS
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11387.ts
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11372.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: AMC
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11531.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: ANIMAL PLANET
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11530.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: APTN
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11421.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: BBC CANADA
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11419.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: BBC KIDS
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11418.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: BBC WORLD NEWS
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11467.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: BNN
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11417.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: BOOK TV
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11465.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: BRAVO
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11416.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CANAL D
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11445.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CANAL SAVOIR
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11529.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CMT CANADA
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11462.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CNBC
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11409.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CNN
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11525.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CNN INTERNATIONAL
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11408.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: COMEDY EAST
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11360.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: COMEDY GOLD
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11524.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: COOKING CHANNEL
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11523.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: COSMO
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11460.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: COTTAGE LIFE
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11459.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CP24
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11522.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CRIME   INVEST
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11461.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CTV 2 VANCOUVER
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11519.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CTV NEWS NETWORK
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11518.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CTV OTTAWA
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11517.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CTV TORONTO
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11516.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CTV VANCOUVER
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11342.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: CTV2 OTTAWA
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11359.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: DISNEY CANADA
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11357.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: FOOD NETWORK
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11509.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: FOX NEWS
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11508.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: GLOBAL TORONTO
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11505.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: GLOBAL VANCOUVER
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11395.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: GOLF
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11456.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: HBO 1
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11503.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: HBO 2
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11403.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: HGTV
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11502.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: HISTORIO
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11343.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: OMNI 1
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11491.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: OMNI 2
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11364.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: ONE
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11352.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: OUTTV
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11490.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: OWN
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11489.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: PBS EAST
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11488.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: PEACH TREE
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11351.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: PRISE
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11389.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: RDI
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11487.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: RDS
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11388.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: RDS 2
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11350.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canada: SERIS
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11387.ts
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11387.ts
 #EXTINF:0,Walf TV ( Senegal )
 http://185.132.179.43:8000/live/OG82YHlMmyo4e2T/HAlIrAIpqdfhEuH/815.ts
