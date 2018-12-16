@@ -1,0 +1,1885 @@
+#EXTM3U
+#EXTINF:0 tvg-id="Rai1.it" group-title="Channels",RAI 1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1364
+#EXTINF:0 tvg-id="Rai2.it" group-title="Channels",RAI 2 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1365
+#EXTINF:0 tvg-id="Rai3.it" group-title="Channels",RAI 3 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1366
+#EXTINF:0 tvg-id="Rete4.it" group-title="Channels",RETE 4 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1367
+#EXTINF:0 tvg-id="Canale5.it" group-title="Channels",CANALE 5 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1368
+#EXTINF:0 tvg-id="Italia1.it" group-title="Channels",ITALIA 1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1369
+#EXTINF:0 tvg-id="LA5.it" group-title="Channels",LA 5
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1585
+#EXTINF:0 tvg-id="MediasetExtra.it" group-title="Channels",MEDIASET EXTRA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1571
+#EXTINF:0 tvg-id="ext" group-title="Channels",GF REGIA 1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55792
+#EXTINF:0 tvg-id="ext" group-title="Channels",GF REGIA 2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55793
+#EXTINF:0 tvg-id="ext" group-title="Channels",GF 1 ORA FA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55794
+#EXTINF:0 tvg-id="20Mediaset.it" group-title="Channels",MEDIASET 20
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/52068
+#EXTINF:0 tvg-id="Italia2.it" group-title="Channels",MEDIASET ITALIA 2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1572
+#EXTINF:0 tvg-id="alpha.gr" group-title="Channels",ALPHA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47301
+#EXTINF:0 tvg-id="CineSony.us" group-title="Channels",CINE SONY
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47300
+#EXTINF:0 tvg-id="TopCrime.it" group-title="Channels",TOP CRIME
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1575
+#EXTINF:0 tvg-id="ext" group-title="Channels",C NAPOLI 24
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54365
+#EXTINF:0 tvg-id="MotorTrend.it" group-title="Channels",MOTOR TREND
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54631
+#EXTINF:0 tvg-id="ext" group-title="Channels",TOP CALCIO24
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/24779
+#EXTINF:0 tvg-id="Iris.it" group-title="Channels",IRIS
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1576
+#EXTINF:0 tvg-id="Giallo.it" group-title="Channels",GIALLO
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1577
+#EXTINF:0 tvg-id="Cielo.it" group-title="Channels",CIELO
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1578
+#EXTINF:0 tvg-id="La7.it" group-title="Channels",LA 7 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1370
+#EXTINF:0 tvg-id="La7d.it" group-title="Channels",LA 7D HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47304
+#EXTINF:0 tvg-id="La7d.it" group-title="Channels",LA 7D
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1583
+#EXTINF:0 tvg-id="Italia7Gold.it" group-title="Channels",ITALIA 7 GOLD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1584
+#EXTINF:0 tvg-id="RSILa1.ch" group-title="Channels",RSI LA1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1373
+#EXTINF:0 tvg-id="RSILa2.ch" group-title="Channels",RSI LA2 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1374
+#EXTINF:0 tvg-id="tv8-lt" group-title="Channels",TV8
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1735
+#EXTINF:0 tvg-id="RaiPremium.it" group-title="Channels",RAI PREMIUM
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1573
+#EXTINF:0 tvg-id="RaiMovie.it" group-title="Channels",RAI MOVIE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1574
+#EXTINF:0 tvg-id="Rai4.it" group-title="Channels",RAI 4 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1579
+#EXTINF:0 tvg-id="Rai5.it" group-title="Channels",RAI 5 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1580
+#EXTINF:0 tvg-id="RaiScuola.it" group-title="Channels",RAI SCUOLA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47315
+#EXTINF:0 tvg-id="ext" group-title="Channels",RAI NETTUNO
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47314
+#EXTINF:0 tvg-id="RaiStoria.it" group-title="Channels",RAI STORIA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44951
+#EXTINF:0 tvg-id="Nove.it" group-title="Channels",NOVE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1372
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELE PACE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47317
+#EXTINF:0 tvg-id="PadrePio.it" group-title="Channels",PADRE PIO TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/48160
+#EXTINF:0 tvg-id="Spike.uk" group-title="Channels",SPIKE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/48161
+
+#EXTINF:0 tvg-id="ext" group-title="SKY CINEMA",---- SKY CINEMA ----
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1376
+#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="SKY CINEMA",SKY CINEMA 1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1625
+#EXTINF:0 tvg-id="SkyCinemaPlus1.it" group-title="SKY CINEMA",SKY CINEMA +1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1626
+#EXTINF:0 tvg-id="SkyCinemaPlus24.it" group-title="SKY CINEMA",SKY CINEMA +24 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1627
+#EXTINF:0 tvg-id="SkyCinemaHits.uk" group-title="SKY CINEMA",SKY CINEMA HITS HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1628
+#EXTINF:0 tvg-id="ext" group-title="SKY CINEMA",SKY CINEMA HITS +1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/26181
+#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="SKY CINEMA",SKY CINEMA COMEDY HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1632
+#EXTINF:0 tvg-id="ext" group-title="SKY CINEMA",SKY CINEMA COMEDY +1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47313
+#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="SKY CINEMA",SKY CINEMA FAMILY HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1630
+#EXTINF:0 tvg-id="SkyCinemaFamilyPlus1.it" group-title="SKY CINEMA",SKY CINEMA FAMILY +1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1631
+#EXTINF:0 tvg-id="SkyCinemaMax.it" group-title="SKY CINEMA",SKY CINEMA MAX HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1633
+#EXTINF:0 tvg-id="SkyCinemaMaxPlus1.it" group-title="SKY CINEMA",SKY CINEMA MAX +1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1634
+#EXTINF:0 tvg-id="SkyCinemaCult.it" group-title="SKY CINEMA",SKY CINEMA CULT HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1635
+#EXTINF:0 tvg-id="SkyCinemaPassion.it" group-title="SKY CINEMA",SKY CINEMA PASSION HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1629
+#EXTINF:0 tvg-id="SkyCinemaClassics.it" group-title="SKY CINEMA",SKY CINEMA CLASSIC HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1636
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="SKY CINEMA",SKY COMEDY CENTRAL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/26172
+
+#EXTINF:0 tvg-id="ext" group-title="NOTIZIARI H24",---- NOTIZIARI H24 ----
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1526
+#EXTINF:0 tvg-id="TG24.it" group-title="NOTIZIARI H24",SKY TG24
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1527
+#EXTINF:0 tvg-id="Tgcom24.it" group-title="NOTIZIARI H24",TGCOM 24
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1264
+#EXTINF:0 tvg-id="RaiNews.it" group-title="NOTIZIARI H24",RAI NEWS24
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1263
+#EXTINF:0 tvg-id="Euronews.uk" group-title="NOTIZIARI H24",EURONEWS
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1611
+#EXTINF:0 tvg-id="ext" group-title="NOTIZIARI H24",SENATO
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/43315
+#EXTINF:0 tvg-id="TG24Norba.it" group-title="NOTIZIARI H24",TG NORBA 24
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1529
+#EXTINF:0 tvg-id="ext" group-title="NOTIZIARI H24",IL METEO.IT OGGI
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/31966
+#EXTINF:0 tvg-id="ext" group-title="NOTIZIARI H24",IL METEO.IT DOMANI
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/31965
+#EXTINF:0 tvg-id="ext" group-title="NOTIZIARI H24",IL METEO.IT DOPODOMANI
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/31964
+
+#EXTINF:0 tvg-id="ext" group-title="INTRATTENIMENTO",---- INTRATTENIMENTO ----
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1427
+#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="INTRATTENIMENTO",SKY ATLANTIC HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1670
+#EXTINF:0 tvg-id="SkyAtlanticPlus1.it" group-title="INTRATTENIMENTO",SKY ATLANTIC HD +1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1875
+#EXTINF:0 tvg-id="ext" group-title="INTRATTENIMENTO",SKY MTV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/43304
+#EXTINF:0 tvg-id="SKYUno.it" group-title="INTRATTENIMENTO",SKY UNO HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1669
+#EXTINF:0 tvg-id="SKYUnoPlus1.it" group-title="INTRATTENIMENTO",SKY UNO +1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1876
+#EXTINF:0 tvg-id="Classica.it" group-title="INTRATTENIMENTO",SKY CLASSICA HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1779
+#EXTINF:0 tvg-id="BLAZE.uk" group-title="INTRATTENIMENTO",BLAZE HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/36486
+#EXTINF:0 tvg-id="FX.uk" group-title="INTRATTENIMENTO",FOX HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1672
+#EXTINF:0 tvg-id="FoxPlus1.it" group-title="INTRATTENIMENTO",FOX +1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47309
+#EXTINF:0 tvg-id="FoxLife.sp" group-title="INTRATTENIMENTO",FOX LIFE HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1673
+#EXTINF:0 tvg-id="FoxLifePlus1.it" group-title="INTRATTENIMENTO",FOX LIFE +1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47310
+#EXTINF:0 tvg-id="FoxCrime.it" group-title="INTRATTENIMENTO",FOX CRIME HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1674
+#EXTINF:0 tvg-id="FoxCrimePlus1.it" group-title="INTRATTENIMENTO",FOX CRIME +1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47308
+#EXTINF:0 tvg-id="FoxComedy.it" group-title="INTRATTENIMENTO",FOX COMEDY HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1680
+#EXTINF:0 tvg-id="FoxAnimation.it" group-title="INTRATTENIMENTO",FOX ANIMATION HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1681
+#EXTINF:0 tvg-id="CrimeInvestigation.it" group-title="INTRATTENIMENTO",CI CRIME+INVESTIGATION HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1671
+#EXTINF:0 tvg-id="Investigation.uk" group-title="INTRATTENIMENTO",INVESTIGATION DISCOVERY
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/43305
+#EXTINF:0 tvg-id="LEI.it" group-title="INTRATTENIMENTO",LEI
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1677
+#EXTINF:0 tvg-id="RealTime.it" group-title="INTRATTENIMENTO",REAL TIME HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1675
+#EXTINF:0 tvg-id="RealTimePlus1.it" group-title="INTRATTENIMENTO",REAL TIME +1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/26167
+#EXTINF:0 tvg-id="LaEffe.it" group-title="INTRATTENIMENTO",LA EFFE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/43306
+#EXTINF:0 tvg-id="Alice.it" group-title="INTRATTENIMENTO",ALICE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1997
+#EXTINF:0 tvg-id="DoveTv.it" group-title="INTRATTENIMENTO",DOVE TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/34813
+
+#EXTINF:0 tvg-id="ext" group-title="SKY SPORT",---- SKY SPORT ----
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1469
+#EXTINF:0 tvg-id="SKYSport24.it" group-title="SKY SPORT",SKY SPORT 24 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1646
+#EXTINF:0 tvg-id="SkySports1.uk" group-title="SKY SPORT",SKY SPORT 1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1647
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="SKY SPORT",SKY SPORT FOOTBALL HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1649
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="SKY SPORT",SKY SPORT ARENA HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1648
+#EXTINF:0 tvg-id="SkySportGolf.it" group-title="SKY SPORT",SKY SPORT GOLF HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54356
+#EXTINF:0 tvg-id="SkySportNBA.it" group-title="SKY SPORT",SKY SPORT NBA HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1650
+#EXTINF:0 tvg-id="SkySportPlus.it" group-title="SKY SPORT",SKY SPORT PLUS HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1651
+#EXTINF:0 tvg-id="SkySportMix.it" group-title="SKY SPORT",SKY SPORT MIX HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/26164
+#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="SKY SPORT",SKY SPORT F1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1652
+#EXTINF:0 tvg-id="SkySportMotoGP.it" group-title="SKY SPORT",SKY MOTOGP HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1653
+#EXTINF:0 tvg-id="BikeChannel.it" group-title="SKY SPORT",BIKE CHANNEL HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1660
+#EXTINF:0 tvg-id="NBA.blt" group-title="SKY SPORT",NBA TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/48159
+#EXTINF:0 tvg-id="SuperTennis.it" group-title="SKY SPORT",SUPER TENNIS HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1654
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="SKY SPORT",EUROSPORT 1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1655
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="SKY SPORT",EUROSPORT 2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1656
+#EXTINF:0 tvg-id="Sportitalia.it" group-title="SKY SPORT",SPORTITALIA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1659
+#EXTINF:0 tvg-id="RaiSportPlus.it" group-title="SKY SPORT",RAI SPORT + HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1734
+#EXTINF:0 tvg-id="CacciaePESCA.it" group-title="SKY SPORT",CACCIA E PESCA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1666
+#EXTINF:0 tvg-id="PescaeCaccia.it" group-title="SKY SPORT",PESCA E CACCIA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1667
+#EXTINF:0 tvg-id="ext" group-title="SKY SPORT",ITALIAN FISHING
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/24509
+#EXTINF:0 tvg-id="ClassHorse.it" group-title="SKY SPORT",CLASS HORSE TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1780
+#EXTINF:0 tvg-id="AutoMotoTV.it" group-title="SKY SPORT",AUTOMOTO TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1657
+#EXTINF:0 tvg-id="UnireSat.it" group-title="SKY SPORT",UNIRESAT
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1782
+#EXTINF:0 tvg-id="Fightnetwork.gr" group-title="SKY SPORT",FIGHT NETWORK
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/43316
+#EXTINF:0 tvg-id="ext" group-title="SKY SPORT",WWE CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/36125
+#EXTINF:0 tvg-id="ext" group-title="SKY SPORT",WWE USA NETWORK
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/36128
+#EXTINF:0 tvg-id="ext" group-title="SKY SPORT",WWE PPV ARB HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/36129
+
+#EXTINF:0 tvg-id="ext" group-title="SKY CALCIO",---- SKY CALCIO ----
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1513
+#EXTINF:0 tvg-id="ext" group-title="SKY CALCIO",SKY EVENTO LIVE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/12090
+#EXTINF:0 tvg-id="SkySportSerieA.it" group-title="SKY CALCIO",SKY SPORT SERIE A HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1867
+#EXTINF:0 tvg-id="SkySportSerieA.it" group-title="SKY CALCIO",SKY SPORT SERIE A HD*
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1792
+#EXTINF:0 tvg-id="SkySportSerieA.it" group-title="SKY CALCIO",SKY SPORT SERIE A SD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45688
+#EXTINF:0 tvg-id="ext" group-title="SKY CALCIO",SKY SPORT 251 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1866
+#EXTINF:0 tvg-id="SkySport251.it" group-title="SKY CALCIO",SKY SPORT 251 SD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45689
+#EXTINF:0 tvg-id="ext" group-title="SKY CALCIO",SKY SPORT 252 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1865
+#EXTINF:0 tvg-id="SkySport252.it" group-title="SKY CALCIO",SKY SPORT 252 SD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45690
+#EXTINF:0 tvg-id="ext" group-title="SKY CALCIO",SKY SPORT 253 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1864
+#EXTINF:0 tvg-id="ext" group-title="SKY CALCIO",SKY SPORT 254 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1863
+#EXTINF:0 tvg-id="ext" group-title="SKY CALCIO",SKY SPORT 255 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1862
+#EXTINF:0 tvg-id="ext" group-title="SKY CALCIO",SKY SPORT 256 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1861
+#EXTINF:0 tvg-id="ext" group-title="SKY CALCIO",SKY SPORT 257 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1860
+#EXTINF:0 tvg-id="ext" group-title="SKY CALCIO",SKY SPORT 258 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1859
+#EXTINF:0 tvg-id="ext" group-title="SKY CALCIO",SKY SPORT 259 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1858
+#EXTINF:0 tvg-id="ext" group-title="SKY CALCIO",SKY SPORT 260 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1857
+#EXTINF:0 tvg-id="ext" group-title="SKY CALCIO",SKY SPORT 261 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/37297
+#EXTINF:0 tvg-id="ext" group-title="SKY CALCIO",SKY SPORT 262 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47307
+#EXTINF:0 tvg-id="InterChannel.it" group-title="SKY CALCIO",INTER CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1661
+#EXTINF:0 tvg-id="MilanTV.it" group-title="SKY CALCIO",MILAN CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1662
+#EXTINF:0 tvg-id="LazioStyleChannel.it" group-title="SKY CALCIO",LAZIO STYLE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1665
+#EXTINF:0 tvg-id="RomaChannel.it" group-title="SKY CALCIO",ROMA CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1664
+#EXTINF:0 tvg-id="ext" group-title="SKY CALCIO",TORINO CHANEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44294
+#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="SKY CALCIO",REAL MADRID TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/48158
+
+#EXTINF:0 tvg-id="ext" group-title="DAZN",---- DAZN ----
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54647
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN ZONA GOAL HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/56106
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN EVENTO 1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55789
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN EVENTO 2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55788
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN EVENTO 3
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55790
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN EVENTO 4
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55791
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN EXTRA 1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55538
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN EXTRA 1 SD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55540
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN EXTRA 2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55539
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN 1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54646
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN 2 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54645
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN 3 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54644
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN 4 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54643
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN 5 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54642
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN 6 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54641
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN 7 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54640
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN 8 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54639
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN 9 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54638
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN 10 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54637
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN 11 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54636
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN 12 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54635
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN 13 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54634
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN 14 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54633
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN (DE) 1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/56104
+#EXTINF:0 tvg-id="ext" group-title="DAZN",DAZN (DE) 2 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/56105
+
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",---- ELEVEN SPORT ----
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/53969
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",PL: Eleven Sports 1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55521
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",PL: Eleven Sports 2 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55520
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",PL: Eleven Sports 3 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55519
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",PL: Eleven Sports 4
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55518
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",PL: Eleven Sports 4 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55517
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN  Pro Piacenza
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55461
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN  Pro vercelli
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55462
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN  Robur Siena
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55463
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Albinoleffe
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55464
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Albissola
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55465
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Alessandria
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55466
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Arezzo
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55467
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Arzachena
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55468
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Bisceglie
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55469
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Carrarese
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55470
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Casertana
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55471
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Catania
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55796
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Catanzaro
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55472
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Cuneo
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55473
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Fano
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55474
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Feralpisal
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55475
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Fermana
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55476
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Francavilla
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55477
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Giana Erminio
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55478
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Gozzano
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55479
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Gubbio
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55480
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Imolese
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55481
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Juve Stabia
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55482
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Juventus 23
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55483
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Lucchese
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55484
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Matera
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55485
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Monopoli
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55486
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Monza
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55487
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Novara
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55488
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Olbia
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55489
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Paganese
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55490
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Pisa
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55491
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Pistoiese
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55492
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Pontedera
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55493
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Pordenone
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55494
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Potenza
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55495
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Propatria
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55496
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Ravenna
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55497
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Reggina
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55498
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Renate
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55499
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Rende
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55500
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Rieti
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55501
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Rimini
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55502
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Sambenedettese
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55503
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Sicula Leonzio
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55504
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Siracusa
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55505
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Sudtirol
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55506
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Teramo
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55507
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Ternana
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55508
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Trapani
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55509
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Triestina
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55510
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Vibonese
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55511
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Vicenza
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55512
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Virtus Entella
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55513
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Virtus Verona
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55514
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Vis Pesaro
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55515
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORT",ELEVEN Viterbese Castrese
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55516
+
+#EXTINF:0 tvg-id="ext" group-title="MONDO & CULTURA",---- MONDO & CULTURA ----
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1453
+#EXTINF:0 tvg-id="History.uk" group-title="MONDO & CULTURA",HISTORY HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1703
+#EXTINF:0 tvg-id="HistoryPlus1.it" group-title="MONDO & CULTURA",HISTORY +1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47311
+#EXTINF:0 tvg-id="NationalGeo.it" group-title="MONDO & CULTURA",NATIONAL GEO HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1697
+#EXTINF:0 tvg-id="NationalGeoPlus1.it" group-title="MONDO & CULTURA",NATIONAL GEO +1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47312
+#EXTINF:0 tvg-id="NatGeoWildHD.ro" group-title="MONDO & CULTURA",NATGEO WILD HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1701
+#EXTINF:0 tvg-id="NatGeoPeople.it" group-title="MONDO & CULTURA",NATGEO PEOPLE HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1702
+#EXTINF:0 tvg-id="Discovery.uk" group-title="MONDO & CULTURA",DISCOVERY CHANNEL HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1698
+#EXTINF:0 tvg-id="Discoveryplus1.uk" group-title="MONDO & CULTURA",DISCOVERY CHANNEL +1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1878
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="MONDO & CULTURA",DISCOVERY SCIENCE HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1700
+#EXTINF:0 tvg-id="DiscoveryTravel.it" group-title="MONDO & CULTURA",DISCOVERY TRAVEL LIVING
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1699
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="MONDO & CULTURA",ANIMAL PLANET
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1708
+#EXTINF:0 tvg-id="SkyArte.it" group-title="MONDO & CULTURA",SKY ARTE HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1707
+#EXTINF:0 tvg-id="DMAX.it" group-title="MONDO & CULTURA",DMAX HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1705
+#EXTINF:0 tvg-id="GamberoRosso.it" group-title="MONDO & CULTURA",GAMBERO ROSSO HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1704
+#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="MONDO & CULTURA",FOOD NETWORK
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47303
+#EXTINF:0 tvg-id="Focus.it" group-title="MONDO & CULTURA",FOCUS
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1709
+#EXTINF:0 tvg-id="Marcopolo.it" group-title="MONDO & CULTURA",MARCOPOLO
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/8219
+#EXTINF:0 tvg-id="RetEconomy.it" group-title="MONDO & CULTURA",RETECONOMY
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47316
+
+#EXTINF:0 tvg-id="ext" group-title="BAMBINI",---- BAMBINI ----
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1532
+#EXTINF:0 tvg-id="Boing.it" group-title="BAMBINI",BOING
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1696
+#EXTINF:0 tvg-id="RaiYoyo.it" group-title="BAMBINI",RAI YOYO
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1692
+#EXTINF:0 tvg-id="RaiGulp.it" group-title="BAMBINI",RAI GULP
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1693
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="BAMBINI",BABY TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/37310
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="BAMBINI",CARTOONITO
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1873
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="BAMBINI",CARTOON NETWORK
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1687
+#EXTINF:0 tvg-id="DEAjr.it" group-title="BAMBINI",DEA JUNIOR
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44945
+#EXTINF:0 tvg-id="DeAKids.it" group-title="BAMBINI",DEAKIDS
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44944
+#EXTINF:0 tvg-id="Super!.it" group-title="BAMBINI",SUPER!
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1695
+#EXTINF:0 tvg-id="ManGa.it" group-title="BAMBINI",MAN-GA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1691
+#EXTINF:0 tvg-id="PopTV.svn" group-title="BAMBINI",POP TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47305
+#EXTINF:0 tvg-id="K2.blt" group-title="BAMBINI",K2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1694
+#EXTINF:0 tvg-id="Frisbee.it" group-title="BAMBINI",FRISBEE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1690
+#EXTINF:0 tvg-id="Nickelodeon.it" group-title="BAMBINI",NIKELODEON
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1821
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="BAMBINI",NICK JUNIOR
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1822
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="BAMBINI",BOOMERANG
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1871
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="BAMBINI",DISNEY XD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1683
+#EXTINF:0 tvg-id="DisneyXDPlus1.it" group-title="BAMBINI",DISNEY XD +1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/48295
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="BAMBINI",DISNEY JUNIOR
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1688
+#EXTINF:0 tvg-id="Disney.uk" group-title="BAMBINI",DISNEY CHANNEL HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1818
+#EXTINF:0 tvg-id="DisneyCh.Plus1.it" group-title="BAMBINI",DISNEY CHANNEL +1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/48294
+
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",=== KIDS TV ===
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/24619
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",ALVARO E CAMILLA CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/53137
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",ANNA DAI CAPELLI ROSSI CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/53136
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",BARBAPAPA CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47352
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",BIA CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/53139
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",BOB IL TRENO CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/24613
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",CANDY CANDY CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/43332
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",CAPITAN HARLOCK CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47556
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",CARLETTO CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47557
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",CONAN RAGAZZO DEL FUTURO CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47555
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",DEVILMAN CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/52058
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",DOLCE REMI CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/53140
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",DRAGONBALL CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/48268
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",DRAGNA BALL SUPER CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/52057
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",ESPLORANDO IL CORPO UMANO CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47558
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",GIGI LA TROTTOLA CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/53141
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",GOLDRAKE CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/48267
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",GRIFFIN CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/43310
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",GUNDAM CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/53138
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",HELLO SPANK CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47560
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",I CAVALIERI DELLO ZODIACO CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47561
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",IL GRANDE MAZINGA CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/52056
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",I PUFFI CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/43803
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",KEN CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47524
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",KIDS ITALIA CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/24614
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",KIDS CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/43311
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",KIDS ANIMATION CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/43325
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",LA CASA DI TOPOLINO CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/43330
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",LADY OSCAR CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47562
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",LAMU CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47351
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",LUPIN III CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45790
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",MASHA E ORSO CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/3138
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",MAZINGAZ CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47350
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",NARUTO CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47712
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",ONE PIECE CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47713
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",PAW PATROL CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/43309
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",PEPPA PIG CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/3141
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",PETER PAN CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/3139
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",PJ MASKS SUPER PIGIAMINI CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47753
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",RYU CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47525
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",SAMPEI CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47559
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",SIMPSON CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47540
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",TOPOLINO / PAPERINO CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1819
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",TOM E JERRY CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/24618
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",TOME E JERRY EXTRA CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/43328
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",TRENINO THOMAS CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/43353
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",UOMOTIGRE CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47349
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",WACKY RACES CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47348
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",WALT DISNEY CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/43327
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",WARNER BROS CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/31997
+#EXTINF:0 tvg-id="ext" group-title="KIDS TV",GARFIELD CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/43308
+
+#EXTINF:0 tvg-id="ext" group-title="FULL HD",---- FULL HD ----
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/43758
+#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="FULL HD",SKY CINEMA FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44283
+#EXTINF:0 tvg-id="SkyCinemaPlus1.it" group-title="FULL HD",SKY CINEMA +1 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47953
+#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="FULL HD",SKY CINEMA COMEDY FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44282
+#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="FULL HD",SKY CINEMA FAMILY FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44281
+#EXTINF:0 tvg-id="SkyCinemaMax.it" group-title="FULL HD",SKY CINEMA MAX FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44280
+#EXTINF:0 tvg-id="SkyCinemaMaxPlus1.it" group-title="FULL HD",SKY CINEMA MAX +1 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47954
+#EXTINF:0 tvg-id="SkyCinemaHits.uk" group-title="FULL HD",SKY CINEMA HITS FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44279
+#EXTINF:0 tvg-id="SkyCinemaPlus24.it" group-title="FULL HD",SKY CINEMA 24 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/48152
+#EXTINF:0 tvg-id="SkyCinemaPassion.it" group-title="FULL HD",SKY CINEMA PASSION FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44276
+#EXTINF:0 tvg-id="SkyCinemaCult.it" group-title="FULL HD",SKY CINEMA CULT FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44278
+#EXTINF:0 tvg-id="SkyCinemaClassics.it" group-title="FULL HD",SKY CINEMA CLASSIC FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44277
+#EXTINF:0 tvg-id="Disney.uk" group-title="FULL HD",DISNEY CHANNEL FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47961
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="FULL HD",DISNEY XD FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47962
+#EXTINF:0 tvg-id="TG24.it" group-title="FULL HD",SKY TG24 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47967
+#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="FULL HD",SKY ATLANTIC FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44274
+#EXTINF:0 tvg-id="SKYUno.it" group-title="FULL HD",SKY UNO FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44272
+#EXTINF:0 tvg-id="SkyArte.it" group-title="FULL HD",SKY ARTE FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44273
+#EXTINF:0 tvg-id="History.uk" group-title="FULL HD",HISTORY FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47965
+#EXTINF:0 tvg-id="Discovery.uk" group-title="FULL HD",DISCOVERY CHANNEL FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47959
+#EXTINF:0 tvg-id="DiscoverySci.it" group-title="FULL HD",DISCOVERY SCI FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47960
+#EXTINF:0 tvg-id="DiscoveryTravel.it" group-title="FULL HD",DISCOVERY TRAVEL LIVING FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/48288
+#EXTINF:0 tvg-id="NationalGeo.it" group-title="FULL HD",NATIONAL GEO FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47966
+#EXTINF:0 tvg-id="NatGeoPeople.it" group-title="FULL HD",NATGEO PEOPLE FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/48293
+#EXTINF:0 tvg-id="NatGeoWildHD.ro" group-title="FULL HD",NATGEO WILD FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/48292
+#EXTINF:0 tvg-id="GamberoRosso.it" group-title="FULL HD",GAMBERO ROSSO FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47964
+#EXTINF:0 tvg-id="FX.uk" group-title="FULL HD",FOX FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44256
+#EXTINF:0 tvg-id="CrimeInvestigation.it" group-title="FULL HD",CI CRIME INVESTIGATION FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44254
+#EXTINF:0 tvg-id="FoxComedy.it" group-title="FULL HD",FOX COMEDY FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47963
+#EXTINF:0 tvg-id="FoxAnimation.it" group-title="FULL HD",FOX ANIMATION FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44258
+#EXTINF:0 tvg-id="FoxCrime.it" group-title="FULL HD",FOX CRIME FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44257
+#EXTINF:0 tvg-id="FoxLife.sp" group-title="FULL HD",FOX LIFE FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44255
+#EXTINF:0 tvg-id="Blaze.it" group-title="FULL HD",SKY BLAZE FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44275
+#EXTINF:0 tvg-id="SKYSport24.it" group-title="FULL HD",SKY SPORT 24 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44266
+#EXTINF:0 tvg-id="SkySportGolf.it" group-title="FULL HD",SKY SPORT GOLF FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44262
+#EXTINF:0 tvg-id="SkySportSerieA.it" group-title="FULL HD",SKY SPORT SERIE A FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44269
+#EXTINF:0 tvg-id="ext" group-title="FULL HD",SKY SPORT 251 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44268
+#EXTINF:0 tvg-id="ext" group-title="FULL HD",SKY SPORT 252 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44267
+#EXTINF:0 tvg-id="ext" group-title="FULL HD",SKY SPORT 253 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47955
+#EXTINF:0 tvg-id="ext" group-title="FULL HD",SKY SPORT 254 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47956
+#EXTINF:0 tvg-id="ext" group-title="FULL HD",SKY SPORT 255 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47957
+#EXTINF:0 tvg-id="ext" group-title="FULL HD",SKY SPORT 256 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47958
+#EXTINF:0 tvg-id="ext" group-title="FULL HD",SKY SPORT 257 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/48290
+#EXTINF:0 tvg-id="ext" group-title="FULL HD",SKY SPORT 258 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/48291
+#EXTINF:0 tvg-id="ext" group-title="FULL HD",SKY SPORT 259 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/48289
+#EXTINF:0 tvg-id="SkySports1.uk" group-title="FULL HD",SKY SPORT 1 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44265
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="FULL HD",SKY SPORT ARENA  FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44264
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="FULL HD",SKY SPORT FOOTBALL FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44263
+#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="FULL HD",SKY F1 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44261
+#EXTINF:0 tvg-id="SkySportMotoGP.it" group-title="FULL HD",SKY MOTOGP FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44260
+#EXTINF:0 tvg-id="SkySportNBA.it" group-title="FULL HD",SKY SPORT NBA FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44259
+#EXTINF:0 tvg-id="ext" group-title="FULL HD",DAZN EXTRA 1 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55541
+#EXTINF:0 tvg-id="ext" group-title="FULL HD",DAZN 1 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55017
+#EXTINF:0 tvg-id="ext" group-title="FULL HD",DAZN 2 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55016
+#EXTINF:0 tvg-id="ext" group-title="FULL HD",DAZN 3 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55015
+#EXTINF:0 tvg-id="ext" group-title="FULL HD",DAZN 4 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55014
+#EXTINF:0 tvg-id="ext" group-title="FULL HD",DAZN 5 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55013
+#EXTINF:0 tvg-id="ext" group-title="FULL HD",DAZN 6 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55012
+#EXTINF:0 tvg-id="ext" group-title="FULL HD",DAZN 7 FHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55011
+
+
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latino ARG : CANAL 26
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54506
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latino ARG : CANAL 4
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54505
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latino ARG : CANAL 9
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54504
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latino ARG : FOX SPORT
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54503
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latino ARG : FOX SPORT 2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54502
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latino ARG : LTN CANAL 26 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54501
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latino ARG : TELEFE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54500
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latino ARG : TELPIN
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54499
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latino ARG : TV PUBLICA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54498
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latino ARG : TYC
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54497
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latino: Antiestres
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54524
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latino: Canal 4 Argentina
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54523
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latino: CBN Espanol
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54522
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latino: El Pinguino
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54521
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latino: Globo TV Musica
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54520
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latino: Logos Bolivia
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54519
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latino: NIU HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54518
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latino: NIU Tv Santiago
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54517
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latino: TV All Sports
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54516
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latino: TV Peru
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54515
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latino: VTV Chile
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54514
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latino: Willax Peru
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54513
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:A&E
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54621
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:ADN 40
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54620
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:AMC
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54619
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Animal Planet
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54618
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:AXN
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54617
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:AZCinema
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54616
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:AzCorazon
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54615
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Azteca Siete
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54614
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Azteca Trece
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54613
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Baby TV HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54612
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Bandamax
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54611
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Boomerang
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54610
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Canal 5
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54609
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Canal El Gourmet
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54608
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Canal Once
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54607
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Cartoon Network
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54606
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Cinecanal
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54605
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Cinecanal 2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54604
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Cinemax
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54603
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Comedy Central
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54602
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:De Pelicula
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54601
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Discovery Channel
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54600
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Discovery Civilization
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54599
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Discovery Home & Health
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54598
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Discovery Kids
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54597
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Discovery Science
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54596
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Discovery Theater
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54595
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Discovery Turbo
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54594
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Discovery World
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54593
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Disney Channel
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54592
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Disney Junior
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54591
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Disney XD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54590
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Distrito Comedia
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54589
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:E!
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54588
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:ESPN
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54587
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:ESPN 2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54586
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:ESPN 3
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54585
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:ESPN Plus
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54584
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Estrellas
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54583
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Foro TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54582
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Fox
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54581
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Fox Action
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54580
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Fox Cinema
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54579
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Fox Classics
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54578
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:FOX Comedy
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54577
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:FOX Family
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54576
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Fox Life
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54575
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Fox Movies
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54574
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Fox SD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54573
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Fox Series
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54572
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Fox Sports
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54571
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Fox Sports 2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54570
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Fox Sports 3
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54569
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:FX
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54568
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:FX Movies
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54567
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:FX SD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54566
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Gala TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54565
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Glitz
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54564
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Golden
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54563
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Golden Edge
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54562
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:History
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54561
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Investigation Discovery
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54560
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:iSat
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54559
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Lifetime
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54558
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:MTV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54557
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:MTV hits
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54556
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:MTV Live HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54555
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Multimedios
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54554
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:NatGeo Wild
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54553
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:National Geographic Channel
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54552
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Nick Jr
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54551
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Nick2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54550
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Nickelodeon
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54549
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:NickToons
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54548
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Ritmoson
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54547
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Sony
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54546
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Space
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54545
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Space SD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54544
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Studio Universal
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54543
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:SyFy
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54542
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:TBS
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54541
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:TCM
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54540
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Teleformula
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54539
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Telehit
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54538
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:TeNeTe
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54537
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:TeNeTe Series
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54536
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:TIIN
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54535
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:TLC Discovery
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54534
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:TLnovelas
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54533
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Tooncast
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54532
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:TruTV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54531
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Unicable
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54530
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Universal
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54529
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Universal Channel
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54528
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:VH1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54527
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:VH1 Classics
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54526
+#EXTINF:0 tvg-id="ext" group-title="LATINO",LaTino:Warner Channel
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54525
+#EXTINF:0 tvg-id="ext" group-title="LATINO",VIP:Latino: Ameerica TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54627
+#EXTINF:0 tvg-id="ext" group-title="LATINO",VIP:Latino: América TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54512
+#EXTINF:0 tvg-id="ext" group-title="LATINO",VIP:Latino: C5N
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54626
+#EXTINF:0 tvg-id="ext" group-title="LATINO",VIP:Latino: Canal 3 Rosario
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54511
+#EXTINF:0 tvg-id="ext" group-title="LATINO",VIP:Latino: Canal Trece
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54510
+#EXTINF:0 tvg-id="ext" group-title="LATINO",VIP:Latino: Cr?nica TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54625
+#EXTINF:0 tvg-id="ext" group-title="LATINO",VIP:Latino: ESPN
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54624
+#EXTINF:0 tvg-id="ext" group-title="LATINO",VIP:Latino: Fox Sports 1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54509
+#EXTINF:0 tvg-id="ext" group-title="LATINO",VIP:Latino: Fox Sports 2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54508
+#EXTINF:0 tvg-id="ext" group-title="LATINO",VIP:Latino: TELEFE HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54507
+#EXTINF:0 tvg-id="ext" group-title="LATINO",VIP:Latino: TV Publica
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54623
+#EXTINF:0 tvg-id="ext" group-title="LATINO",VIP:Latino: Tyc Sports (Argentina)
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/54622
+#EXTINF:0 tvg-id="ext" group-title="LATINO",CHILE: Calan 26 LAM
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51438
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Chile: Canal 13
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51437
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Chile: CDF Premiun
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51436
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Chile: CDO
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51435
+#EXTINF:0 tvg-id="ext" group-title="LATINO",CHILE: CDO PREMIUM
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51434
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Chile: Chilevision
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51433
+#EXTINF:0 tvg-id="ext" group-title="LATINO",CHILE: CINE DINAMITA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51432
+#EXTINF:0 tvg-id="ext" group-title="LATINO",CHILE: CNN CHILE HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51431
+#EXTINF:0 tvg-id="ext" group-title="LATINO",CHILE: EL PINGUINO TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51430
+#EXTINF:0 tvg-id="ext" group-title="LATINO",CHILE: Enlace
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51429
+#EXTINF:0 tvg-id="ext" group-title="LATINO",CHILE: HBO LAM
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51428
+#EXTINF:0 tvg-id="ext" group-title="LATINO",CHILE: La Red TV HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51427
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Chile: Mega
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51426
+#EXTINF:0 tvg-id="ext" group-title="LATINO",CHILE: Mega HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51425
+#EXTINF:0 tvg-id="ext" group-title="LATINO",CHILE: NIU HD Chile
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51424
+#EXTINF:0 tvg-id="ext" group-title="LATINO",CHILE: NIU TV Santiago Chile
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51423
+#EXTINF:0 tvg-id="ext" group-title="LATINO",CHILE: REC TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51422
+#EXTINF:0 tvg-id="ext" group-title="LATINO",CHILE: SextaVisi?n TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51421
+#EXTINF:0 tvg-id="ext" group-title="LATINO",CHILE: TV 5 Linares
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51420
+#EXTINF:0 tvg-id="ext" group-title="LATINO",CHILE: TV Red Chile
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51419
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Chile: TVN
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51418
+#EXTINF:0 tvg-id="ext" group-title="LATINO",CHILE: TVN Chile HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51417
+#EXTINF:0 tvg-id="ext" group-title="LATINO",CHILE: VALLE TELEVISION HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51416
+#EXTINF:0 tvg-id="ext" group-title="LATINO",CHILE: VTV Chile
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51415
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: A3SERIES
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45663
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: AMC HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45662
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: ATRESERIES HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45661
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: CABLENOTICIAS HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45660
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: CANAL 3 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45659
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: CANAL CAPITAL HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45658
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: CANAL U TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45657
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: CANAL UNO HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45656
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: CANAL WOW TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45655
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: CANTINAZO HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45654
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: CARACOL HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45653
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: CAROLINA TV HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45652
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: COSMOVISION HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45651
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: DX TV HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45650
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: EFEKTO TV HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45649
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: EL CORREO TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45648
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: EL TIEMPO HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45647
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: FOX MOVIES PREMIUM HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45646
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: FOX SERIES PREMIUM HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45645
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: FOX SPORTS 1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45644
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: FOX SPORTS 2 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45643
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: FX HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45642
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: HISTORY CHANNEL HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45641
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: LAOTRA HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45640
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: LAS ESTRELLAS HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45639
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: MELLO TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45638
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: MELODY TV HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45637
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: MIGENTE TV HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45636
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: MOLA TV TARRAGONA HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45635
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: NEOXTV HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45634
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: ORBE 21
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45633
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: OROMARTV HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45632
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: SONY HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45631
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: SPACE HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45630
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: TEC TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45629
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: TELE ANTILLAS HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45628
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: TELE5 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45627
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: TELEANTIOQUIA HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45626
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: TELEMAX HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45625
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: TELEMEDELLIN HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45624
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: TELERITMO HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45623
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: TELESISTEMA CANAL 11 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45622
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: TELEUNO HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45621
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: TELEVIDA HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45620
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: UFC HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45619
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: UNA VOZ CON TODOS
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45618
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: UNIMAS PACIFICO HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45617
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: UNIVERSAL CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45614
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: UNIVISION HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45616
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: VITATO HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45615
+#EXTINF:0 tvg-id="ext" group-title="LATINO",COLOMBIA: WARNER BROSS HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45613
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Mex: Azteca Noticias
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51414
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Mex: ESPN 1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51413
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Mex: ESPN 2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51412
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Mex: ESPN 3
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51411
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Mex: Fox Sports 1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51410
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Mex: Fox Sports 2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51409
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Mex: Las Estrellas
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51408
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Mex: TDN
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51407
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Mex: Univision HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51406
+#EXTINF:0 tvg-id="ext" group-title="LATINO",PE: AMERICA TELEVISION
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51405
+#EXTINF:0 tvg-id="ext" group-title="LATINO",PE: ATV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51404
+#EXTINF:0 tvg-id="ext" group-title="LATINO",PE: Panamericana
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51403
+#EXTINF:0 tvg-id="ext" group-title="LATINO",PE: Peru Magico
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51402
+#EXTINF:0 tvg-id="ext" group-title="LATINO",PE: TV Peru
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51401
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Bolivia: Bolivia TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51440
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Bolivia: Pat
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/51439
+
+#EXTINF:0 tvg-id="ext" group-title="SVIZZERA",---- SVIZZERA ----
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/24325
+#EXTINF:0 tvg-id="ext" group-title="SVIZZERA",CH:  TELECLUB SPORT 1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32769
+#EXTINF:0 tvg-id="ext" group-title="SVIZZERA",CH: KANAL 9
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32764
+#EXTINF:0 tvg-id="ext" group-title="SVIZZERA",CH: RSI LA2 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32770
+#EXTINF:0 tvg-id="ext" group-title="SVIZZERA",CH: TELE ZURICH
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32765
+#EXTINF:0 tvg-id="ext" group-title="SVIZZERA",CH: TELEBAERN
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32766
+#EXTINF:0 tvg-id="ext" group-title="SVIZZERA",CH: TELEBIELINGUE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32767
+#EXTINF:0 tvg-id="TCStar.ch" group-title="SVIZZERA",CH: TELECLUB STAR
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32775
+#EXTINF:0 tvg-id="TCPrime.ch" group-title="SVIZZERA",CH: TELECLUB PRIME
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32772
+#EXTINF:0 tvg-id="TeleclubCinema.de" group-title="SVIZZERA",CH: TELECLUB CINEMA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32771
+#EXTINF:0 tvg-id="ext" group-title="SVIZZERA",CH: TELECLUB SPORT 2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32773
+#EXTINF:0 tvg-id="ext" group-title="SVIZZERA",CH: TELECLUB SPORT 3
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32774
+#EXTINF:0 tvg-id="ext" group-title="SVIZZERA",CH: TVO
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32768
+
+#EXTINF:0 tvg-id="ext" group-title="BELGIO",---- BELGIO ----
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/31706
+#EXTINF:0 tvg-id="ext" group-title="BELGIO",BE: RTC HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33444
+#EXTINF:0 tvg-id="RTLTVI.be" group-title="BELGIO",BE: RTL TVI
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33467
+#EXTINF:0 tvg-id="ext" group-title="BELGIO",BE: TV LUX
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33468
+#EXTINF:0 tvg-id="ext" group-title="BELGIO",BE: TVL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33469
+#EXTINF:0 tvg-id="ext" group-title="BELGIO",BE: TVO
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33470
+#EXTINF:0 tvg-id="ext" group-title="BELGIO",BE: BE 1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33459
+#EXTINF:0 tvg-id="ext" group-title="BELGIO",BE: BE CINE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33460
+#EXTINF:0 tvg-id="ext" group-title="BELGIO",BE: BE SERIE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33461
+#EXTINF:0 tvg-id="ext" group-title="BELGIO",BE TELE VESDRE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33454
+#EXTINF:0 tvg-id="ext" group-title="BELGIO",BE: 192 TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33453
+#EXTINF:0 tvg-id="ext" group-title="BELGIO",BE: 2BE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33455
+#EXTINF:0 tvg-id="Q2.be" group-title="BELGIO",BE: 2BE HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33452
+#EXTINF:0 tvg-id="Canvas.be" group-title="BELGIO",BE: CANVAS HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33451
+#EXTINF:0 tvg-id="ext" group-title="BELGIO",BE: CINEMA 1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33450
+#EXTINF:0 tvg-id="ext" group-title="BELGIO",BE: CINEMA 2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33449
+#EXTINF:0 tvg-id="ext" group-title="BELGIO",BE: CINEMA KIDS
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33448
+#EXTINF:0 tvg-id="ClubRTL.be" group-title="BELGIO",BE: CLUB RTL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33462
+#EXTINF:0 tvg-id="ext" group-title="BELGIO",BE: DO IT TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33471
+#EXTINF:0 tvg-id="een.be" group-title="BELGIO",BE: EEN HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33458
+#EXTINF:0 tvg-id="ext" group-title="BELGIO",BE: KADET
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33447
+#EXTINF:0 tvg-id="ext" group-title="BELGIO",BE: KETOP12
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33446
+#EXTINF:0 tvg-id="LaDeux.be" group-title="BELGIO",BE: LA DEUX
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33463
+#EXTINF:0 tvg-id="LaTrois.be" group-title="BELGIO",BE: LA TROIS
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33464
+#EXTINF:0 tvg-id="LaUne.be" group-title="BELGIO",BE: LA UNE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33465
+#EXTINF:0 tvg-id="ext" group-title="BELGIO",BE: NAT GEO HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33445
+#EXTINF:0 tvg-id="PlugRTL.be" group-title="BELGIO",BE: PLUG RTL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33466
+#EXTINF:0 tvg-id="ext" group-title="BELGIO",BE: VIER HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33443
+#EXTINF:0 tvg-id="ext" group-title="BELGIO",BE: VOO FOOT
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33457
+#EXTINF:0 tvg-id="Vtm.be" group-title="BELGIO",BE: VTM HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33456
+#EXTINF:0 tvg-id="ext" group-title="BELGIO",BE: VTMKAZOOM/ KANAL Z
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33472
+#EXTINF:0 tvg-id="ext" group-title="BELGIO",BE:BX1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33442
+
+
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",---- AFRICA ----
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/31711
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF_AFRICA_TV1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32818
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF: AFRICA TV2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32817
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF: AFRICA TV3
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32816
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF: AFRICA TV4
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32815
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF: AFRICA24
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32779
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF: RTS1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32776
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF: STV2 CAMEROUN
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32777
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF: TCHAD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32778
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:AFRICA NEWS NETWORK 7
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32814
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:AFRICABLE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32813
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:AFRIQUE MEDIA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32812
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:CRTV TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32811
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:DIGITAL CONGO
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32810
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:EQUINOXE TV CAMEROUN
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32809
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:MAISHA-TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32808
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:NOLLYWOOD MOVIES
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32807
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:ORTM
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32806
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:RTI1 COTE D'IVOIRE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32805
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:RTI2 COTE D'IVOIRE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32804
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:RTNC
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32803
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:SN 2STV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32802
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:SN 2STV (1)
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32801
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:SN 2STV (2)
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32800
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:SN ALAZHAR TOUBA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32799
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:SN ALAZHAR TOUBA TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32798
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:SN DIASPORA24
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32797
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:SN KEDU TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32796
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:SN LAMP FALL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32795
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:SN LAMP FALL (BACKUP)
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32794
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:SN MUSIC TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32793
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:SN MUSIC TV (BACKUP)
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32792
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:SN RTI2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32791
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:SN RTS1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32790
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:SN RTS1 (1)
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32789
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:SN RTS1 (2)
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32788
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:SN RTS2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32787
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:SN SENEGAL TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32786
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:SN TFM
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32785
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:SN TFM HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32784
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:SN WALF TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32783
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:TELE CONGO
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32782
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:TELE TCHAD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32781
+#EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:TM2 MALI
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32780
+
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",---- ALBANIA ----
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/24316
+#EXTINF:0 tvg-id="TopChannel.al" group-title="ALBANIA",AL: TOP CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33198
+#EXTINF:0 tvg-id="TopChannelHD.al" group-title="ALBANIA",AL: TOP CHANNEL HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33199
+#EXTINF:0 tvg-id="KlanTVHD.al" group-title="ALBANIA",AL: KLAN HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33197
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="ALBANIA",AL: VIZION PLUS HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33201
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: IN TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32876
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: IN  TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33183
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: KLAN PLUS
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33195
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: RTSH HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33187
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: RTSH 2 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32871
+#EXTINF:0 tvg-id="ext" group-title="ALBANIA",AL: CHANNEL ONE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33174
+#EXTINF:0 tvg-id="KlanTV.al" group-title="ALBANIA",AL: KLAN TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33196
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="ALBANIA",AL: VIZION PLUS TOKSOR
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33200
+
+#EXTINF:0 tvg-id="ext" group-title="LAJME",====LAJME====
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/53310
+#EXTINF:0 tvg-id="ext" group-title="LAJME",AL: TOP NEWS HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33180
+#EXTINF:0 tvg-id="ext" group-title="LAJME",AL: NEWS 24 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33178
+#EXTINF:0 tvg-id="ext" group-title="LAJME",AL : FAX NEWS
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/56683
+#EXTINF:0 tvg-id="OraNews.al" group-title="LAJME",AL: ORA NEWS
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33175
+#EXTINF:0 tvg-id="ext" group-title="LAJME",AL: REPORT TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33173
+#EXTINF:0 tvg-id="ext" group-title="LAJME",AL: TV SUNO
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32940
+#EXTINF:0 tvg-id="ext" group-title="LAJME",AL: KANALI 7 NEWS
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33236
+#EXTINF:0 tvg-id="ext" group-title="LAJME",AL: SCAN TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33172
+#EXTINF:0 tvg-id="ext" group-title="LAJME",AL: ART
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32857
+#EXTINF:0 tvg-id="TopNews.al" group-title="LAJME",AL: TOP NEWS
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33181
+#EXTINF:0 tvg-id="News24.al" group-title="LAJME",AL: NEWS 24
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33177
+
+#EXTINF:0 tvg-id="ext" group-title="DIGITALB FILMA",====DIGITALB FILMA====
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/53311
+#EXTINF:0 tvg-id="ext" group-title="DIGITALB FILMA",AL: FILM NJ
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33054
+#EXTINF:0 tvg-id="FilmDyHD.al" group-title="DIGITALB FILMA",AL: FILM DY HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33052
+#EXTINF:0 tvg-id="FilmDyHD.al" group-title="DIGITALB FILMA",AL: FILM DY UHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33053
+#EXTINF:0 tvg-id="ext" group-title="DIGITALB FILMA",AL: PLUS HD(DIGITALB)
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33094
+#EXTINF:0 tvg-id="FilmAutor.al" group-title="DIGITALB FILMA",AL: FILM AUTOR
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33056
+#EXTINF:0 tvg-id="FilmHits+1.al" group-title="DIGITALB FILMA",AL: FILM HITS
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33061
+#EXTINF:0 tvg-id="FilmHits+1.al" group-title="DIGITALB FILMA",AL: FILM HITS  1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33060
+#EXTINF:0 tvg-id="FilmThriller.al" group-title="DIGITALB FILMA",AL: FILM THRILLER
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33057
+#EXTINF:0 tvg-id="FilmDrame.al" group-title="DIGITALB FILMA",AL: FILM DRAM
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33055
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="DIGITALB FILMA",AL: FILM AKSION
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33058
+#EXTINF:0 tvg-id="FilmKomedi.al" group-title="DIGITALB FILMA",AL: FILM KOMEDI
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33059
+
+#EXTINF:0 tvg-id="ext" group-title="PPV",====PPV ====
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/53312
+#EXTINF:0 tvg-id="DigiGold.al" group-title="PPV",AL: DIGI GOLD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33050
+#EXTINF:0 tvg-id="ext" group-title="PPV",AL: DIGI GOLD HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33023
+#EXTINF:0 tvg-id="ext" group-title="PPV",AL: DIGI GOLD 1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33028
+#EXTINF:0 tvg-id="ext" group-title="PPV",AL: DIGI GOLD 1HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33022
+#EXTINF:0 tvg-id="ext" group-title="PPV",AL: DIGI GOLD 2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33027
+#EXTINF:0 tvg-id="ext" group-title="PPV",AL: DIGI GOLD 2HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33021
+#EXTINF:0 tvg-id="ext" group-title="PPV",AL: DIGI GOLD 3
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33026
+#EXTINF:0 tvg-id="ext" group-title="PPV",AL: DIGI GOLD 3HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33020
+#EXTINF:0 tvg-id="ext" group-title="PPV",AL: DIGI GOLD 4
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33025
+#EXTINF:0 tvg-id="ext" group-title="PPV",AL: DIGI GOLD 4HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33019
+#EXTINF:0 tvg-id="ext" group-title="PPV",AL: DIGI GOLD 5
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33024
+
+#EXTINF:0 tvg-id="ext" group-title="TRING FILMA",====TRING FILMA====
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/53313
+#EXTINF:0 tvg-id="JollyHD.al" group-title="TRING FILMA",AL: TRING JOLLY HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33038
+#EXTINF:0 tvg-id="TringSuper.al" group-title="TRING FILMA",AL: TRING SUPER
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33036
+#EXTINF:0 tvg-id="TringMax.al" group-title="TRING FILMA",AL: TRING MAX
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33035
+#EXTINF:0 tvg-id="TringFantazi.al" group-title="TRING FILMA",AL: TRING FANTASY
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33034
+#EXTINF:0 tvg-id="TringLife.al" group-title="TRING FILMA",AL: TRING LIFE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33033
+#EXTINF:0 tvg-id="TringComedy.al" group-title="TRING FILMA",AL: TRING COMEDY
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33032
+
+#EXTINF:0 tvg-id="ext" group-title="FILMA",====FILMA====
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/53314
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: FOKUS TV USA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33151
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL:FILMA24 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33017
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: 7HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33041
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: FILM BOX HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33016
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KINO PREMIERE 1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33009
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KINO PREMIERE 2 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33008
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KINO PREMIERE 3 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33007
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KINO ACTION HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33006
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KINO COMEDY HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33004
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KINO DARK HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33000
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KINO THRILLER HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33005
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KINO DRAMA HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33002
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KINO FAMILY HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33001
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KINO ROMANC
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33003
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KINO SCIFI HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32999
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: ALB MOVIE HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32993
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: ALB THRILLER
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32995
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="FILMA",AL: SKY AKSION
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33014
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL:SKY AL MAX
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33013
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: SKY NOVELA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33010
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL:SKY DRAM
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33011
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL:SKY KOMEDI
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33012
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL:ALB AKSION
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32992
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL:ZANA ACTION HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33018
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: FILM SHQIP
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33064
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL:SHQIPTV HUMOR HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32982
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL:SHQIPTV JETA HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32902
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: SHQIPTV FILM HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32975
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL:SHQIPTV FILM HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32981
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL:SHQIPTV AKSION
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32978
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL:ALB ACTION
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32996
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: SHQIPTV FANTAZI
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32985
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL:SHQIPTV FANTASYHD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32979
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL:SHQIPTV HORROR HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32984
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: SHQIPTV WESTERN HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32977
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL:SHQIPTV KOMEDI HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32986
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL:SHQIPTV MIMI HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32983
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL:SHQIPTV HINDI HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32980
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KS FILM SHQIP
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33077
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KS FILM THRILLER
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33080
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KS FILM AKSION
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33078
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KS FILM KOMEDI
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33079
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KS FILM BABY
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33103
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KSPORT ANIMATION CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33117
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KSPORT ANIMATION FILM
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33067
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KSPORT MISSION IMPOSSIBLE CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33076
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KSPORT MUMMY SCORPION CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33070
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KSPORT PIRATES OF THE CARIBBEAN CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33075
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KSPORT ROCKY BALBOA CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33074
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KSPORT SUPERHERO CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33073
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KSPORT THE EXPENDABLES CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33072
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KSPORT VAMPIRES AND LYCANS CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33071
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: KSPORT RELAX TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33068
+#EXTINF:0 tvg-id="ext" group-title="FILMA",AL: RTSH FILM
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33186
+
+#EXTINF:0 tvg-id="ext" group-title="ARGETIM",====ARGETIM====
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/53315
+#EXTINF:0 tvg-id="Living.al" group-title="ARGETIM",AL: LIVING HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33095
+#EXTINF:0 tvg-id="ext" group-title="ARGETIM",AL: STAR  TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32885
+#EXTINF:0 tvg-id="Smile.al" group-title="ARGETIM",AL: TRING SMILE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33039
+#EXTINF:0 tvg-id="ext" group-title="ARGETIM",AL: KINO PRANK
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32998
+#EXTINF:0 tvg-id="ext" group-title="ARGETIM",AL: ALB HUMOR 1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32990
+#EXTINF:0 tvg-id="ext" group-title="ARGETIM",AL: ALB HUMOR 2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32989
+#EXTINF:0 tvg-id="ext" group-title="ARGETIM",AL: KAFENEJA JONE 24/7
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32987
+#EXTINF:0 tvg-id="Muse.al" group-title="ARGETIM",AL: MUSE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33086
+#EXTINF:0 tvg-id="ext" group-title="ARGETIM",AL:TRING MUSE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33030
+#EXTINF:0 tvg-id="ext" group-title="ARGETIM",AL: KSPORT PORTOKALLI
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33069
+#EXTINF:0 tvg-id="T.al" group-title="ARGETIM",AL: T HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33049
+#EXTINF:0 tvg-id="ext" group-title="ARGETIM",AL: T SD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33048
+#EXTINF:0 tvg-id="TringShqip.al" group-title="ARGETIM",AL: TRING SHQIP
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33040
+#EXTINF:0 tvg-id="ext" group-title="ARGETIM",AL: FILM STINET
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33051
+#EXTINF:0 tvg-id="ext" group-title="ARGETIM",AL: TRING 3
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33031
+#EXTINF:0 tvg-id="ext" group-title="ARGETIM",AL: FOX (DIGITALB)
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33045
+#EXTINF:0 tvg-id="ext" group-title="ARGETIM",AL: FOX CRIME (DIGITALB)
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33043
+#EXTINF:0 tvg-id="ext" group-title="ARGETIM",AL: FOX LIFE SHQIP
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33044
+#EXTINF:0 tvg-id="ext" group-title="ARGETIM",AL: COMEDY CENTRAL EXTRA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33042
+#EXTINF:0 tvg-id="ext" group-title="ARGETIM",AL: KITCHEN24 SHQIP
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33083
+#EXTINF:0 tvg-id="ext" group-title="ARGETIM",AL: ALBANIAN CULTURE NY
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33150
+
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTARE",====DOCUMENTARE====
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/53317
+#EXTINF:0 tvg-id="EXPShkence.al" group-title="DOCUMENTARE",AL: EXPLORER SHKENCE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33093
+#EXTINF:0 tvg-id="EXPHistori.al" group-title="DOCUMENTARE",AL: EXPLORER HISTORI
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33091
+#EXTINF:0 tvg-id="EXPNatyra.al" group-title="DOCUMENTARE",AL: EXPLORER NATYRA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33092
+#EXTINF:0 tvg-id="T-Hist.al" group-title="DOCUMENTARE",AL: TRING HISTORI
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33088
+#EXTINF:0 tvg-id="TringPlanet.al" group-title="DOCUMENTARE",AL: TRING PLANET
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33089
+#EXTINF:0 tvg-id="TringWorld.al" group-title="DOCUMENTARE",AL: TRING WORLD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33090
+#EXTINF:0 tvg-id="EXPShkence.al" group-title="DOCUMENTARE",AL: SKY SHKENCE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33085
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTARE",AL:SKY HISTORI
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33084
+#EXTINF:0 tvg-id="DiscoveryChannel.al" group-title="DOCUMENTARE",AL: DISCOVERY CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33097
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTARE",AL: NATIONAL GEOGRAPHIC AL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33098
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTARE",AL: TRAVEL CHANNEL SHQIP
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33096
+
+#EXTINF:0 tvg-id="ext" group-title="FEMIJET",====FEMIJET====
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/53318
+#EXTINF:0 tvg-id="BangBang.al" group-title="FEMIJET",AL: BANG BANG
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33119
+#EXTINF:0 tvg-id="CufoTV.al" group-title="FEMIJET",AL: CUFO
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33120
+#EXTINF:0 tvg-id="JuniorTV.al" group-title="FEMIJET",AL: JUNIOR TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33121
+#EXTINF:0 tvg-id="TringTring.al" group-title="FEMIJET",AL: TRING TRING
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33115
+#EXTINF:0 tvg-id="ext" group-title="FEMIJET",AL:TRING SOFIA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33116
+#EXTINF:0 tvg-id="ext" group-title="FEMIJET",AL: ENIGMA&MISTERE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33100
+#EXTINF:0 tvg-id="ext" group-title="FEMIJET",AL: TRING KIDS
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33113
+#EXTINF:0 tvg-id="ext" group-title="FEMIJET",AL: KS F
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33104
+#EXTINF:0 tvg-id="ext" group-title="FEMIJET",AL: KSPORT KIDS
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33118
+#EXTINF:0 tvg-id="ext" group-title="FEMIJET",AL: PLAYCINEMA HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33066
+#EXTINF:0 tvg-id="ext" group-title="FEMIJET",AL: TIBO KIDS 1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33110
+#EXTINF:0 tvg-id="ext" group-title="FEMIJET",AL: TIBO KIDS 2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33109
+#EXTINF:0 tvg-id="ext" group-title="FEMIJET",AL: TIBO KIDS 3
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33108
+
+
+#EXTINF:0 tvg-id="ext" group-title="LOKALE",====LOKALE===
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/53320
+#EXTINF:0 tvg-id="ext" group-title="LOKALE",AL: ZJARR TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32962
+#EXTINF:0 tvg-id="ext" group-title="LOKALE",AL: TV SCAMPA ELBASAN
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32956
+#EXTINF:0 tvg-id="ext" group-title="LOKALE",AL:EGNATIA TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33087
+#EXTINF:0 tvg-id="ext" group-title="LOKALE",AL: ALPO TV GJIROKAST
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32958
+#EXTINF:0 tvg-id="ext" group-title="LOKALE",AL: ANTENA NORD HD SHKOD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32954
+#EXTINF:0 tvg-id="ext" group-title="LOKALE",AL: TV ROZAFA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32965
+#EXTINF:0 tvg-id="ext" group-title="LOKALE",AL:TV KOPLIKU
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32938
+#EXTINF:0 tvg-id="ext" group-title="LOKALE",AL:DIBRA TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32937
+#EXTINF:0 tvg-id="ext" group-title="LOKALE",AL: APOLLON TV FIER
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32955
+#EXTINF:0 tvg-id="ext" group-title="LOKALE",AL: TV SOT 7 POGRADEC
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32952
+#EXTINF:0 tvg-id="ext" group-title="LOKALE",AL: GLOBITV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32971
+#EXTINF:0 tvg-id="ext" group-title="LOKALE",AL: JUG TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32963
+#EXTINF:0 tvg-id="ext" group-title="LOKALE",AL: LEZHA TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32951
+#EXTINF:0 tvg-id="ext" group-title="LOKALE",AL: VLORA 6 1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32964
+#EXTINF:0 tvg-id="ext" group-title="LOKALE",AL: VLORA CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32957
+
+
+#EXTINF:0 tvg-id="ext" group-title="CANADA",---- CANADA ----
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/31715
+#EXTINF:0 tvg-id="ext" group-title="CANADA",C.T.S TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/31905
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : ABC HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33584
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : ABC SPARK
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33533
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : BET -  BLACK ENTERTAINMENT TELEVISION
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33534
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : BNN
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33536
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : BRAVO HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33535
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : CBC TORONTO
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33538
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : CHCH
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33539
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : CITY VANCOUVER
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33540
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : COMEDY GOLD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33541
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : COTTAGE LIFE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33542
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : COUNTRY MUSIC TELEVISION
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33543
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : CP24
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33544
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : CTV TORONTO
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33545
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : DEJA VIEW
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33546
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : E!
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33547
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : FOX 25 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33548
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : FOX NEWS
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33549
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : FXX HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33550
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : FYI
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33551
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : G4
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33552
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : GOLF CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33553
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : GSN
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33554
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : HBO 2_CA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33585
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : HBO_CA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33586
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : HISTORY_HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33555
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : ICI ARTV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33556
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : ICI RDI
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33557
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : MOVIE TIME
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33558
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : MTV CANADA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33559
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : MTV_CANADA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33587
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : MUCH MUSIC
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33560
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : NBA TV_CA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33588
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : NICK
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33561
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : OMNI 1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33562
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : OMNI 2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33563
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : OWN (OPRAH WINFREW NETWORK)
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33564
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : PEACHTREE TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33565
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : RDS 2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33566
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : RDS2 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33567
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : SHOPPING CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33568
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : SILVER SCREEN CLASSICS
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33569
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : SLICE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33570
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : SPIKE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33571
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : SPORTNET ONTARIO HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33572
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : SPORTSNET ONE HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33573
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : SPORTSNET WEST HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33574
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : SPORTSNET WORLD HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33575
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : TELETOON
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33576
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : TMN
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33577
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : TRAVEL CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33578
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : TREE HOUSE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33579
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : VRAK TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33580
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : W NETWORK
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33581
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : WORLD FISHING
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33582
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA : YTV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33583
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA SPORTNET PACIFIC HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33589
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CA/USA : CARTOONNETWORK
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/33537
