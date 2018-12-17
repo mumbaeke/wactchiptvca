@@ -121,7 +121,7 @@ http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1527
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1264
 #EXTINF:0 tvg-id="RaiNews.it" group-title="NOTIZIARI H24",RAI NEWS24
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1263
-#EXTINF:0 tvg-id="Euronews.nws" group-title="NOTIZIARI H24",EURONEWS
+#EXTINF:0 tvg-id="Euronews.uk" group-title="NOTIZIARI H24",EURONEWS
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1611
 #EXTINF:0 tvg-id="ext" group-title="NOTIZIARI H24",SENATO
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/43315
@@ -154,11 +154,11 @@ http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/36486
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1672
 #EXTINF:0 tvg-id="FoxPlus1.it" group-title="INTRATTENIMENTO",FOX +1 HD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47309
-#EXTINF:0 tvg-id="foxlife.pt" group-title="INTRATTENIMENTO",FOX LIFE HD
+#EXTINF:0 tvg-id="FoxLife.sp" group-title="INTRATTENIMENTO",FOX LIFE HD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1673
 #EXTINF:0 tvg-id="FoxLifePlus1.it" group-title="INTRATTENIMENTO",FOX LIFE +1 HD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47310
-#EXTINF:0 tvg-id="fox-crime" group-title="INTRATTENIMENTO",FOX CRIME HD
+#EXTINF:0 tvg-id="FoxCrime.it" group-title="INTRATTENIMENTO",FOX CRIME HD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1674
 #EXTINF:0 tvg-id="FoxCrimePlus1.it" group-title="INTRATTENIMENTO",FOX CRIME +1 HD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47308
@@ -187,7 +187,7 @@ http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/34813
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1469
 #EXTINF:0 tvg-id="SKYSport24.it" group-title="SKY SPORT",SKY SPORT 24 HD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1646
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="SKY SPORT",SKY SPORT 1 HD
+#EXTINF:0 tvg-id="SkySports1.uk" group-title="SKY SPORT",SKY SPORT 1 HD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1647
 #EXTINF:0 tvg-id="SkySpFball.uk" group-title="SKY SPORT",SKY SPORT FOOTBALL HD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1649
@@ -475,7 +475,7 @@ http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1453
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1703
 #EXTINF:0 tvg-id="HistoryPlus1.it" group-title="MONDO & CULTURA",HISTORY +1 HD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47311
-#EXTINF:0 tvg-id="NatGeoHD.de" group-title="MONDO & CULTURA",NATIONAL GEO HD
+#EXTINF:0 tvg-id="NationalGeo.it" group-title="MONDO & CULTURA",NATIONAL GEO HD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1697
 #EXTINF:0 tvg-id="NationalGeoPlus1.it" group-title="MONDO & CULTURA",NATIONAL GEO +1 HD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47312
@@ -499,7 +499,7 @@ http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1707
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1705
 #EXTINF:0 tvg-id="GamberoRosso.it" group-title="MONDO & CULTURA",GAMBERO ROSSO HD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1704
-#EXTINF:0 tvg-id="FoodNetwork.eu" group-title="MONDO & CULTURA",FOOD NETWORK
+#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="MONDO & CULTURA",FOOD NETWORK
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47303
 #EXTINF:0 tvg-id="Focus.it" group-title="MONDO & CULTURA",FOCUS
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1709
@@ -658,7 +658,7 @@ http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/43308
 
 #EXTINF:0 tvg-id="ext" group-title="FULL HD",---- FULL HD ----
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/43758
-#EXTINF:0 tvg-id="SkyCinema.de" group-title="FULL HD",SKY CINEMA FHD
+#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="FULL HD",SKY CINEMA FHD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44283
 #EXTINF:0 tvg-id="SkyCinemaPlus1.it" group-title="FULL HD",SKY CINEMA +1 FHD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47953
@@ -700,7 +700,7 @@ http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47959
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47960
 #EXTINF:0 tvg-id="DiscoveryTravel.it" group-title="FULL HD",DISCOVERY TRAVEL LIVING FHD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/48288
-#EXTINF:0 tvg-id="NatGeoHD.de" group-title="FULL HD",NATIONAL GEO FHD
+#EXTINF:0 tvg-id="NationalGeo.it" group-title="FULL HD",NATIONAL GEO FHD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47966
 #EXTINF:0 tvg-id="NatGeoPeople.it" group-title="FULL HD",NATGEO PEOPLE FHD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/48293
@@ -716,9 +716,9 @@ http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44254
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47963
 #EXTINF:0 tvg-id="FoxAnimation.it" group-title="FULL HD",FOX ANIMATION FHD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44258
-#EXTINF:0 tvg-id="fox-crime" group-title="FULL HD",FOX CRIME FHD
+#EXTINF:0 tvg-id="FoxCrime.it" group-title="FULL HD",FOX CRIME FHD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44257
-#EXTINF:0 tvg-id="foxlife.pt" group-title="FULL HD",FOX LIFE FHD
+#EXTINF:0 tvg-id="FoxLife.sp" group-title="FULL HD",FOX LIFE FHD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44255
 #EXTINF:0 tvg-id="Blaze.it" group-title="FULL HD",SKY BLAZE FHD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44275
@@ -746,7 +746,7 @@ http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/48290
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/48291
 #EXTINF:0 tvg-id="ext" group-title="FULL HD",SKY SPORT 259 FHD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/48289
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="FULL HD",SKY SPORT 1 FHD
+#EXTINF:0 tvg-id="SkySports1.uk" group-title="FULL HD",SKY SPORT 1 FHD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44265
 #EXTINF:0 tvg-id="SkySpArena.uk" group-title="FULL HD",SKY SPORT ARENA  FHD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/44264
@@ -777,7 +777,6 @@ http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/55011
 
 #EXTINF:0 tvg-id="ext" group-title="SKY PRIMAFILA",---- SKY PRIMAFILA ----
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1333
-
 #EXTINF:0 tvg-id="ext" group-title="VETRINA PRIMAFILA",=== VETRINA PRIMAFILA ===
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/49073
 #EXTINF:0 tvg-id="ext" group-title="VETRINA PRIMAFILA",SKY TRAILER PRIMAFILA 1 HD
@@ -1102,7 +1101,7 @@ http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1561
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1252
 #EXTINF:0 tvg-id="ext" group-title="RADIO & MUSICA TV",RADIO 51 TV
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47319
-#EXTINF:0 tvg-id="ext" group-title="RADIO & MUSICA TV",RADIO CAPITAL TIVÙ
+#EXTINF:0 tvg-id="ext" group-title="RADIO & MUSICA TV",RADIO CAPITAL TIVÃ™
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/46637
 #EXTINF:0 tvg-id="ext" group-title="RADIO & MUSICA TV",RADIO ITALIANA TV
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/47320
@@ -1126,7 +1125,7 @@ http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/11976
 http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="RADIO & MUSICA TV",RADIO TAORMINA TV
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/31909
-#EXTINF:0 tvg-id="ext" group-title="RADIO & MUSICA TV",RADIO TIVÙ AZZURRA
+#EXTINF:0 tvg-id="ext" group-title="RADIO & MUSICA TV",RADIO TIVÃ™ AZZURRA
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/31911
 #EXTINF:0 tvg-id="ext" group-title="RADIO & MUSICA TV",RADIO UNIVERSAL TV
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/31910
@@ -1272,7 +1271,7 @@ http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/1182
 
 #EXTINF:0 tvg-id="ext" group-title="GERMANY",---- GERMANY ----
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/24324
-#EXTINF:0 tvg-id="ARD.de" group-title="GERMANY",DE: ARD HD
+#EXTINF:0 tvg-id="ARD-alpha.de" group-title="GERMANY",DE: ARD HD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/35532
 #EXTINF:0 tvg-id="ARD.de" group-title="GERMANY",DE: DAS ERSTE
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32247
@@ -1428,7 +1427,6 @@ http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32199
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/31614
 #EXTINF:0 tvg-id="ext" group-title="INFORMATIONEN",DE: EURONEWS DE
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32106
-
 #EXTINF:0 tvg-id="ext" group-title="KINO GERMANY",=== KINO GERMANY ===
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/31687
 #EXTINF:0 tvg-id="SkyCinema.de" group-title="KINO GERMANY",DE: SKY CINEMA  1 HD
@@ -1514,13 +1512,13 @@ http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32423
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32546
 #EXTINF:0 tvg-id="ext" group-title="SPORT",UK:SKY SPORTS 1
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32538
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="SPORT",UK: SKY SPORT 2 HD
+#EXTINF:0 tvg-id="SkySports2.uk" group-title="SPORT",UK: SKY SPORT 2 HD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32545
 #EXTINF:0 tvg-id="SkySports2.uk" group-title="SPORT",UK: SKY SPORT 2
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32544
 #EXTINF:0 tvg-id="SkySports2.uk" group-title="SPORT",UK:SKY SPORTS 2
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32537
-#EXTINF:0 tvg-id="SkySports3.uk" group-title="SPORT",UK: SKY SPORT 3 HD
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="SPORT",UK: SKY SPORT 3 HD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32543
 #EXTINF:0 tvg-id="SkySports3.uk" group-title="SPORT",UK:SKY SPORTS 3
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32536
@@ -1532,7 +1530,7 @@ http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32541
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32535
 #EXTINF:0 tvg-id="SkySpPL.uk" group-title="SPORT",UK: SKY SPORT 5 HD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32540
-#EXTINF:0 tvg-id="SkySports5.uk" group-title="SPORT",UK:SKY SPORTS 5
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="SPORT",UK:SKY SPORTS 5
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32534
 #EXTINF:0 tvg-id="SkySpF1.uk" group-title="SPORT",UK: SKY SPORT F1 HD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32422
@@ -1693,7 +1691,7 @@ http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32187
 
 #EXTINF:0 tvg-id="ext" group-title="SKY SELECT DE",=== SKY SELECT DE ===
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32104
-#EXTINF:0 tvg-id="SkySelect1.de" group-title="SKY SELECT DE",DE: SKY SELECT 1 HD
+#EXTINF:0 tvg-id="SkySelect.de" group-title="SKY SELECT DE",DE: SKY SELECT 1 HD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32186
 #EXTINF:0 tvg-id="SkySelect2.de" group-title="SKY SELECT DE",DE: SKY SELECT 2 HD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32185
@@ -2120,7 +2118,7 @@ http://178.132.3.65:8000/movie/UkjKB8aPh6/poDdoy9aH3/51197.mkv
 http://178.132.3.65:8000/movie/UkjKB8aPh6/poDdoy9aH3/51199.mkv
 #EXTINF:0 tvg-id="avi" group-title="GERMANY *VOD*",Deutsch Western The Hateful 8
 http://178.132.3.65:8000/movie/UkjKB8aPh6/poDdoy9aH3/51207.mkv
-#EXTINF:0 tvg-id="avi" group-title="GERMANY *VOD*",Deutsch Western The Revenant Der Rückkehrer
+#EXTINF:0 tvg-id="avi" group-title="GERMANY *VOD*",Deutsch Western The Revenant Der RÃ¼ckkehrer
 http://178.132.3.65:8000/movie/UkjKB8aPh6/poDdoy9aH3/51212.mkv
 #EXTINF:0 tvg-id="avi" group-title="GERMANY *VOD*",Deutsch Western Viva Pancho Villa
 http://178.132.3.65:8000/movie/UkjKB8aPh6/poDdoy9aH3/51214.mkv
@@ -2186,7 +2184,7 @@ http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32366
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32358
 #EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="CINEMA FR.",FR: CINE  EMOTION HD.
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32365
-#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="CINEMA FR.",FR: CINÉ PLUS EMOTION HD
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="CINEMA FR.",FR: CINÃ‰ PLUS EMOTION HD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32355
 #EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="CINEMA FR.",FR: CINE  CLASSIC HD.
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32363
@@ -2483,21 +2481,21 @@ http://178.132.3.65:8000/movie/UkjKB8aPh6/poDdoy9aH3/53657.mkv
 http://178.132.3.65:8000/movie/UkjKB8aPh6/poDdoy9aH3/53587.mkv
 #EXTINF:0 tvg-id="avi" group-title="FRANCE *VOD*",[fr]brigsby Bear
 http://178.132.3.65:8000/movie/UkjKB8aPh6/poDdoy9aH3/53677.mkv
-#EXTINF:0 tvg-id="avi" group-title="FRANCE *VOD*",[fr]bruce Lee : Itinéraire D'un Combattant
+#EXTINF:0 tvg-id="avi" group-title="FRANCE *VOD*",[fr]bruce Lee : ItinÃ©raire D'un Combattant
 http://178.132.3.65:8000/movie/UkjKB8aPh6/poDdoy9aH3/53530.mkv
 #EXTINF:0 tvg-id="avi" group-title="FRANCE *VOD*",[fr]bruce Lee : La Fureur De Vaincre
 http://178.132.3.65:8000/movie/UkjKB8aPh6/poDdoy9aH3/53529.mkv
 #EXTINF:0 tvg-id="avi" group-title="FRANCE *VOD*",[fr]bruce Lee : La Fureur Du Dragon
 http://178.132.3.65:8000/movie/UkjKB8aPh6/poDdoy9aH3/53528.mkv
-#EXTINF:0 tvg-id="avi" group-title="FRANCE *VOD*",[fr]bruce Lee : La LÉgende De Bruce Lee Part 1
+#EXTINF:0 tvg-id="avi" group-title="FRANCE *VOD*",[fr]bruce Lee : La LÃ‰gende De Bruce Lee Part 1
 http://178.132.3.65:8000/movie/UkjKB8aPh6/poDdoy9aH3/53526.mkv
-#EXTINF:0 tvg-id="avi" group-title="FRANCE *VOD*",[fr]bruce Lee : La LÉgende De Bruce Lee Part 2
+#EXTINF:0 tvg-id="avi" group-title="FRANCE *VOD*",[fr]bruce Lee : La LÃ‰gende De Bruce Lee Part 2
 http://178.132.3.65:8000/movie/UkjKB8aPh6/poDdoy9aH3/53525.mkv
 #EXTINF:0 tvg-id="avi" group-title="FRANCE *VOD*",[fr]bruce Lee : Le Jeu De La Mort
 http://178.132.3.65:8000/movie/UkjKB8aPh6/poDdoy9aH3/53524.mkv
 #EXTINF:0 tvg-id="avi" group-title="FRANCE *VOD*",[fr]bruce Lee : Le Jeu De La Mort 2
 http://178.132.3.65:8000/movie/UkjKB8aPh6/poDdoy9aH3/53523.mkv
-#EXTINF:0 tvg-id="avi" group-title="FRANCE *VOD*",[fr]bruce Lee : OpÉration Dragon
+#EXTINF:0 tvg-id="avi" group-title="FRANCE *VOD*",[fr]bruce Lee : OpÃ‰ration Dragon
 http://178.132.3.65:8000/movie/UkjKB8aPh6/poDdoy9aH3/53527.mkv
 #EXTINF:0 tvg-id="avi" group-title="FRANCE *VOD*",[fr]bruce Lee: Le Voyage D'un Guerrier
 http://178.132.3.65:8000/movie/UkjKB8aPh6/poDdoy9aH3/53522.mkv
@@ -2603,7 +2601,7 @@ http://178.132.3.65:8000/movie/UkjKB8aPh6/poDdoy9aH3/53651.mkv
 http://178.132.3.65:8000/movie/UkjKB8aPh6/poDdoy9aH3/53650.mkv
 #EXTINF:0 tvg-id="avi" group-title="FRANCE *VOD*",[fr]meet The Blacks
 http://178.132.3.65:8000/movie/UkjKB8aPh6/poDdoy9aH3/53649.mkv
-#EXTINF:0 tvg-id="avi" group-title="FRANCE *VOD*",[fr]miséricorde
+#EXTINF:0 tvg-id="avi" group-title="FRANCE *VOD*",[fr]misÃ©ricorde
 http://178.132.3.65:8000/movie/UkjKB8aPh6/poDdoy9aH3/53549.mkv
 #EXTINF:0 tvg-id="avi" group-title="FRANCE *VOD*",[fr]miss Peregrines Home For Peculiar Children
 http://178.132.3.65:8000/movie/UkjKB8aPh6/poDdoy9aH3/53648.mkv
@@ -3958,7 +3956,7 @@ http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/41046
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/41045
 #EXTINF:0 tvg-id="rtp1.pt" group-title="PORTOGALLO",VIP PT: RTP 1
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/41101
-#EXTINF:0 tvg-id="rtpHD" group-title="PORTOGALLO",VIP PT: RTP 1 HD
+#EXTINF:0 tvg-id="rtp1.pt" group-title="PORTOGALLO",VIP PT: RTP 1 HD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/41044
 #EXTINF:0 tvg-id="rtp2.pt" group-title="PORTOGALLO",VIP PT: RTP 2
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/41043
@@ -4088,17 +4086,17 @@ http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32610
 #EXTINF:0 tvg-id="ext" group-title="CINE PORTUGAL",PT: EURONEWS
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32563
 
-#EXTINF:0 tvg-id="ext" group-title="NIGNO´PORTUGAL",=== NIGNO´PORTUGAL ===
+#EXTINF:0 tvg-id="ext" group-title="NIGNOÂ´PORTUGAL",=== NIGNOÂ´PORTUGAL ===
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/37296
-#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="NIGNO´PORTUGAL",PT: NICKELODEON
+#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="NIGNOÂ´PORTUGAL",PT: NICKELODEON
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32605
-#EXTINF:0 tvg-id="ext" group-title="NIGNO´PORTUGAL",PT:JIM JAM
+#EXTINF:0 tvg-id="ext" group-title="NIGNOÂ´PORTUGAL",PT:JIM JAM
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32603
-#EXTINF:0 tvg-id="ext" group-title="NIGNO´PORTUGAL",PT:CARTOON  NETWORK
+#EXTINF:0 tvg-id="ext" group-title="NIGNOÂ´PORTUGAL",PT:CARTOON  NETWORK
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32607
-#EXTINF:0 tvg-id="ext" group-title="NIGNO´PORTUGAL",PT: DISNEY JR
+#EXTINF:0 tvg-id="ext" group-title="NIGNOÂ´PORTUGAL",PT: DISNEY JR
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32604
-#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="NIGNO´PORTUGAL",PT:NICKELODEON
+#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="NIGNOÂ´PORTUGAL",PT:NICKELODEON
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32606
 
 #EXTINF:0 tvg-id="ext" group-title="SIC PORTUGAL",===   SIC PORTUGAL  ===
@@ -4146,7 +4144,7 @@ http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32598
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32600
 #EXTINF:0 tvg-id="ext" group-title="INTRATTENIMIENTO",PT:BIGGS
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32575
-#EXTINF:0 tvg-id="ext" group-title="INTRATTENIMIENTO",PT:CAÇA E PESCA
+#EXTINF:0 tvg-id="ext" group-title="INTRATTENIMIENTO",PT:CAÃ‡A E PESCA
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32577
 #EXTINF:0 tvg-id="ext" group-title="INTRATTENIMIENTO",PT:CACAVISION HD
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32578
@@ -4494,7 +4492,7 @@ http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45603
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45604
 #EXTINF:0 tvg-id="ext" group-title="BRASILE",BR: CANAL TV RIO
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45578
-#EXTINF:0 tvg-id="ext" group-title="BRASILE",BR: CANÇAO NOVA
+#EXTINF:0 tvg-id="ext" group-title="BRASILE",BR: CANÃ‡AO NOVA
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45609
 #EXTINF:0 tvg-id="ext" group-title="BRASILE",BR: CARTOON NETWORK BRASIL
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/45598
@@ -4687,6 +4685,7 @@ http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32782
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32781
 #EXTINF:0 tvg-id="ext" group-title="AFRICA",AF:TM2 MALI
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32780
+
 
 #EXTINF:0 tvg-id="ext" group-title="CANADA",---- CANADA ----
 http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/31715
