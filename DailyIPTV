@@ -525,3 +525,860 @@ http://185.132.179.43:8000/live/OG82YHlMmyo4e2T/HAlIrAIpqdfhEuH/881.ts
 http://185.132.179.43:8000/live/OG82YHlMmyo4e2T/HAlIrAIpqdfhEuH/879.ts
 #EXTINF:0,2STV ( Senegal )
 http://185.132.179.43:8000/live/OG82YHlMmyo4e2T/HAlIrAIpqdfhEuH/816.ts
+
+#EXTINF:0,AF: 218 NEWS 
+http://95.85.47.43/218news/tracks-v1a1/index.m3u8
+#EXTINF:0,AF: AL JAZEERA MUBASHER 
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/300.m3u8
+#EXTINF:0,AF: BBC 
+http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8
+#EXTINF:0,AF: MIHAN TV NEWS PERSIAN 
+http://watch.mihantv.com/mihantvlive.isml/QualityLevels(864000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,AF: NEWS OPT 2 
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8
+#EXTINF:0,AF: SHARQIYA NEWS 
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:0,AF: SMASH 7 NEWS 
+http://144.76.182.50:25461/live/smash/smash/10.m3u8
+#EXTINF:0,AFR: ECHOUROUK NEWS 
+http://tv-live.echoroukonline.com/echo/EchoroukNews_SD/playlist.m3u8
+#EXTINF:0,AFR: NEWS NETWORK 
+https://tvjlocal.akamaized.net/univ_video_jnn/abr/playlist.m3u8
+#EXTINF:0,AL: NEWS 24 
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:0,AL: ORIENNEWS 
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3497.m3u8
+#EXTINF:0,AR: AL BAGHDADIA 2 NEWS IQ 
+http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
+#EXTINF:0,AR: AL JAZEERA OPT 1 
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
+#EXTINF:0,AR: AL JAZEERA OPT 2 
+http://199.167.151.237:1935/live/sp15_1.stream/gmswf.m3u8
+#EXTINF:0,AR: AL SHARQIYA NEWS IQ 
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:0,AR: ALALAM NEWS 
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/97.m3u8
+#EXTINF:0,AR: ALALAM NEWS (1+) 
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/97.m3u8
+#EXTINF:0,AR: ALJAZEERA 
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2493.m3u8
+#EXTINF:0,AR: BBC 
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/17.m3u8
+#EXTINF:0,AR: BUSINESS OPT 2 
+http://z5ams.akamaized.net/zeebusiness/tracks-v1a1/index.m3u8
+#EXTINF:0,AR: CBC 
+http://www.elahmad.com/tv/m3u8/tele_du.ts
+#EXTINF:0,AR: CBC DRAMA 
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/42.m3u8
+#EXTINF:0,AR: CHANNEL 10 NEWS HEBREW 
+http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_%2C500%2C1000%2C1200%2C2400%2C/playlist.m3u8
+#EXTINF:0,AR: HIWAR NEWS 
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/67.m3u8
+#EXTINF:0,AR: HIWAR NEWS (1+) 
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/67.m3u8
+#EXTINF:0,AR: I24 NEWS NEWS 
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
+#EXTINF:0,AR: ISRAELI CHANNEL 20 NEWS HEBREW 
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+#EXTINF:0,AR: ISRAELI CHANNEL 22 NEWS NEWS HEBREW 
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+#EXTINF:0,AR: KALINGA NEWS 
+http://z5ams.akamaized.net/kalinga/tracks-v1a1/index.m3u8
+#EXTINF:0,AR: NEWS 
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8
+#EXTINF:0,AR: NEWS OPT 2 
+http://z5ams.akamaized.net/zeenews/tracks-v1a1/index.m3u8
+#EXTINF:0,AR: SKY NEWS ARABIC 
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/45.m3u8
+#EXTINF:0,CA: ABC SPARK 
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11372.ts
+#EXTINF:0,CA: BBC 
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11419.ts
+#EXTINF:0,CA: CBC TELEVISION 
+http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
+#EXTINF:0,CA: CNBC 
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11409.ts
+#EXTINF:0,CA: CNN 
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11525.ts
+#EXTINF:0,CA: CTV 2 VANCOUVER 
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11519.ts
+#EXTINF:0,CA: CTV NEWS LIVE 1 
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+#EXTINF:0,CA: CTV NEWS LIVE 2 
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+#EXTINF:0,CA: CTV NEWS LIVE 3 
+http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
+#EXTINF:0,CA: CTV NEWS LIVE 4 
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
+#EXTINF:0,CA: CTV NEWS NETWORK 
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11518.ts
+#EXTINF:0,CA: CTV OTTAWA 
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11517.ts
+#EXTINF:0,CA: CTV TORONTO 
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11516.ts
+#EXTINF:0,CA: CTV VANCOUVER 
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11342.ts
+#EXTINF:0,CA: CTV2 OTTAWA 
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11359.ts
+#EXTINF:0,CA: FOX NEWS 
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11508.ts
+#EXTINF:0,FR: 24 NEWS ARABIC 
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+#EXTINF:0,FR: 24 NEWS NEWS 
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+#EXTINF:0,FR: AFRICABLE NEWS CF/CG 
+http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-p.m3u8
+#EXTINF:0,FR: ASSEMBLE NATIONALE NEWS CA 
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:0,FR: BFM BUSINESS 
+http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/master.m3u8
+#EXTINF:0,FR: BFM BUSINESS NEWS 
+http://bfmlive-i.akamaihd.net/hls/live/218341/876450612001/bfmbusiness/index.m3u8
+#EXTINF:0,FR: BFMTV NEWS 
+http://bfmtv-i.akamaihd.net/hls/live/218332/876450610001/bfmtv/index.m3u8
+#EXTINF:0,FR: CANAL SAVOIR NEWS CA 
+http://stream.canalsavoir.tv/livestream/stream.m3u8
+#EXTINF:0,FR: EURO NEWS NEWS PT PORTUGUESE 
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
+#EXTINF:0,FR: EURONEWS NEWS 
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_ar.m3u8
+#EXTINF:0,DE: ALJAZEERA MUBASHER 
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2504.m3u8
+#EXTINF:0,DE: CBC 
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3533.m3u8
+#EXTINF:0,DE: CBC DREAME 
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3545.m3u8
+#EXTINF:0,DE: NEWS 
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2351.m3u8
+#EXTINF:0,DE: PL POLSAT NEWS HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2047.ts
+#EXTINF:0,DE: PL POLSAT NEWS 2 
+http://37.59.34.182:8000/live/POLAND/POLAND/2046.ts
+#EXTINF:0,DE: PL POLSAT SPORT NEWS HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2054.ts
+#EXTINF:0,DE: PL POLSAT SPORT NEWS (1+) HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/2054.ts
+#EXTINF:0,IN: ABP ASMITA NEWS GUJARATI 
+http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
+#EXTINF:0,IN: ABP NEWS 
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+#EXTINF:0,IN: ARY NEWS 
+http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
+#EXTINF:0,IN: ASIANET NEWS 
+http://asianetcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+#EXTINF:0,IN: BBC TORONTO GAUNDA PUNJAB 
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:0,IN: BLOOMBERG QUINT 
+https://d1j33l0xltpapp.cloudfront.net/bqmain_2.m3u8
+#EXTINF:0,IN: CNBC AWAAZ OPT 1 
+http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_1_av-p.m3u8
+#EXTINF:0,IN: CNBC BAJAR 
+http://b_cnbcprimehd_dv-lh.akamaihd.net/i/b_cnbcprimehd_dvr_1@100511/master.m3u8
+#EXTINF:0,IN: CNN NEWS 18 OPT 2 
+http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5.m3u8
+#EXTINF:0,IN: DD NEWS 
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:0,IN: DUNYA NEWS OPT 1 
+http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
+#EXTINF:0,IN: DUNYA NEWS OPT 3 
+http://199.167.151.237:1935/live/sp15_7.stream/gmswf.m3u8
+#EXTINF:0,IN: DY365 NEWS ASSAMESE/HINDI 
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh1.stream_aac/playlist.m3u8
+#EXTINF:0,IN: GARSHOM NEWS 
+http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:0,IN: GEO NEWS 
+http://stream.jeem.tv/geo/geonews/playlist.m3u8
+#EXTINF:0,IN: IBN LOKMAT NEWS MARATHI/HINDI 
+http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
+#EXTINF:0,IN: JK CHANNEL NEWS HINDI 
+http://edge-ind.inapcdn.in:1935/device2/camera2.stream/playlist.m3u8
+#EXTINF:0,IN: K21 NEWS MAIN 
+http://stream.tapmad.com:1935/pitvlive/k213.stream/chunklist.m3u8
+#EXTINF:0,IN: LAHORE NEWS 
+http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
+#EXTINF:0,IN: NDTV NEWS HINDI 
+http://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/index_736_av-b.m3u8
+#EXTINF:0,IN: NEWS 18 LOKMAT 
+http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_5.m3u8
+#EXTINF:0,IN: NEWS HARYANA 
+https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:newsharyana_all/master.m3u8
+#EXTINF:0,IN: NEWS MADHYA PRADESH & CHHATTISGARH 
+https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:newsmp_all/master.m3u8
+#EXTINF:0,IN: NEWS PUNJAB 
+https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newspunjab_all/master.m3u8
+#EXTINF:0,IN: NEWS RAJASTHAN 
+https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newsrajasthan_all/master.m3u8
+#EXTINF:0,IN: NEWS UTTAR PRADESH 
+https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newsup_all/master.m3u8
+#EXTINF:0,IN: NEWSX OPT 2 
+https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newsx_all/master.m3u8
+#EXTINF:0,IN: PTC NEWS 
+http://50.7.198.170:8081/PB/PTCNEWS/playlist.m3u8
+#EXTINF:0,IN: PTV NEWS 
+http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
+#EXTINF:0,IN: RPLUS NEWS 
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh4.stream_aac/playlist.m3u8
+#EXTINF:0,IN: SADHNA PLUS NEWS 
+http://live.wmncdn.net/sadhanaplus1/live.stream/index.m3u8
+#EXTINF:0,IN: TAMIL ARUVI NEWS TAMIL 
+http://91.82.85.44:1935/scr8174/lives078.sdp/playlist.m3u8
+#EXTINF:0,IN: TV NEWS HINDI 
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
+#EXTINF:0,IT: CANALE 7 NEWS ITALIAN 
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+#EXTINF:0,IT: REG 
+http://193.200.164.153:80/live/enzapaesano/fVV0T9nnSB/25726.ts
+#EXTINF:0,IT: TELE SONDRIO NEWS 
+http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
+#EXTINF:0,IT: TELEROMAGNA NEWS 
+http://livetr.teleromagna.it/news/live/playlist.m3u8
+#EXTINF:0,MX: ABC JAZZ 
+http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
+#EXTINF:0,MX: CBN USA 
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:0,MX: EURONEWS 
+http://play-rock-tv.co:8000/live/vince10/295vince10/1611.m3u8
+#EXTINF:0,MX: ONDA TV 10 
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
+#EXTINF:0,MX: RAI NEWS24 
+http://play-rock-tv.co:8000/live/vince10/295vince10/1263.ts
+#EXTINF:0,MX: RAI NEWS24 (1+) 
+http://play-rock-tv.co:8000/live/vince10/295vince10/1263.m3u8
+#EXTINF:0,MX: RCN COLUMBIA NEWS SPANISH 
+http://canalrcn-mobile-encoder.4cloud.co/livercn/AppSenalRcn/playlist.m3u8
+#EXTINF:0,MX: RED CCTV 
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14709.ts
+#EXTINF:0,NL: OMROEP WEST NEWS DUTCH 
+http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
+#EXTINF:0,NL: RTV RIJNMOND NEWS DUTCH 
+http://d1eexm99gmxi2a.cloudfront.net/live/rijnmond/ngrp:TV-Rijnmond_all/playlist.m3u8
+#EXTINF:0,NL: SCHIE TV PUBLIC NEWS DUTCH 
+http://ms2.mx-cd.net/tv/111-475837/LookTV.smil/playlist.m3u8
+#EXTINF:0,PT: BAND NEWS 
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13147.ts
+#EXTINF:0,PT: CNBC BAJAR 
+https://cnbc_gujrati_hls-lh.akamaihd.net/i/cnbc_gujrati_hls_n_1@178933/index_5_av-p.m3u8
+#EXTINF:0,PT: GLOBO NEWS 
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13174.ts
+#EXTINF:0,PT: RECORD NEWS 
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
+#EXTINF:0,RO: ON AIR NEWS BG BULGARIAN 
+http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+#EXTINF:0,RU: RBC TV NEWS 
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:0,EX-YU: BERITA SATU NEWS ID INDONESIAN HD
+http://beritasatulive-lh.akamaihd.net/i/b1english_1@50428/index_720_av-p.m3u8
+#EXTINF:0,EX-YU: BUSINESS NETWORK OPT 2 
+http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/cbn/as/live/cbn_3.m3u8
+#EXTINF:0,EX-YU: HRT2 PUBLIC NEWS CROATIAN 
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:0,SP: CANAL PARLAMENTO 
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13238.ts
+#EXTINF:0,SP: CANAL PARLAMENTO (1+) 
+http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
+#EXTINF:0,SP: ONDA AZUL 
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13193.ts
+#EXTINF:0,SP: XTREMO CHANNEL NEWS SPANISH 
+http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
+#EXTINF:0,SE: LIVE GAMING NEWS 
+http://swf.x10.bz/swe/twich.php?canal=allkeyshop_tv&f=.ts
+#EXTINF:0,TR: CNN HD
+http://ulusaltr.dyndns.tv:2018/live/selcuk720p/H4WOJepjLv/1936.m3u8
+#EXTINF:0,TR: CNN (1+) HD
+http://ulusaltr.dyndns.tv:2018/live/selcuk720p/H4WOJepjLv/2022.m3u8
+#EXTINF:0,TR: CNN OPT 1 
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.ts
+#EXTINF:0,TR: CNN OPT 2 
+https://cdn.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.ts
+#EXTINF:0,UA: 100 
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:0,UA: NEWSONE TV 
+http://77.120.104.64/hls/newsone-hd/stream.m3u8
+#EXTINF:0,UK: 92 NEWS OPT 1 
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:0,UK: 92 NEWS OPT 2 
+http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8
+#EXTINF:0,UK: AL JAZEERA DOCUMENTARY OPT 1 
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:0,UK: AL JAZEERA DOCUMENTARY OPT 2 
+http://199.167.151.237:1935/live/sp15_8.stream/gmswf.m3u8
+#EXTINF:0,UK: AL JAZEERA NEWS QA ARABIC 
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/160.m3u8
+#EXTINF:0,UK: AL JAZEERA OPT 1 
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:0,UK: AL JAZEERA OPT 2 
+http://199.167.151.237:1935/live/sp15_9.stream/gmswf.m3u8
+#EXTINF:0,UK: ARISE NEWS 
+http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:0,UK: BBC ARABIC OPT 1 
+http://199.167.151.237:1935/live/sp15_6.stream/gmswf.m3u8
+#EXTINF:0,UK: BBC ARABIC OPT 2 
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:0,UK: BBC ONE 
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_hd.m3u8
+#EXTINF:0,UK: BBC ONE PUBLIC ENTERTAINMENT HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
+#EXTINF:0,UK: BLOOMBERG TV 
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:0,UK: CNBC ARABIA 
+http://199.167.151.237:1935/live/sp15_20.stream/gmswf.m3u8
+#EXTINF:0,UK: CNN INDONESIA 
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:0,UK: CTV NEWS NEWS CA /PORTUGUESE 
+http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
+#EXTINF:0,UK: CVR NEWS 
+https://dbgz3a72bx1vv.cloudfront.net/yuppenc2/ngrp:cvrnewseng_all/chunklist_b2179072.m3u8
+#EXTINF:0,UK: DAWN NEWS 
+http://199.167.151.237:1935/live/sp15_23.stream/gmswf.m3u8
+#EXTINF:0,UK: DIGI 24 NEWS RO 
+http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:0,UK: INDIA NEWS 
+https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
+#EXTINF:0,UK: NEWS 18 MALAYALAM 
+https://kerala_nws18_hls-lh.akamaihd.net/i/kerala_news18_hls_1@526583/index_5_av-p.m3u8
+#EXTINF:0,UK: O2TV NEWS RU /RUSSIAN 
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8
+#EXTINF:0,UK: RTE NEWS NOW 
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+#EXTINF:0,UK: SKY NEWS OPT 1 
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:0,UK: SKY NEWS OPT 2 
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:0,UK: SKY SPORTS NEWS HD
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13327.ts
+#EXTINF:0,UK: THE WEATHER NETWORK NEWS CA 
+https://bcsecurelivehls-i.akamaihd.net/hls/live/261940/1942203455001/nat/master.m3u8
+#EXTINF:0,US: ABC HD
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14514.ts
+#EXTINF:0,US: ABC (1+) HD
+http://deluxeplay.live:25461/live/wxarhpon/rnh86C1v6O/14514.ts
+#EXTINF:0,US: ABC 6 ACTION NEWS PHILADELPHIA PUBLIC NEWS ENGLISH 
+https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/WPVIwatch.m3u8
+#EXTINF:0,US: ABC 7 NEWS CHICAGO PUBLIC NEWS ENGLISH 
+https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/WLSwatch.m3u8
+#EXTINF:0,US: ABC 7 NEWS SAN FRANCISCO PUBLIC NEWS ENGLISH 
+https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/KGOwatch.m3u8
+#EXTINF:0,US: ABC NEWS HD
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14513.ts
+#EXTINF:0,US: ABC NEWS (1+) HD
+http://deluxeplay.live:25461/live/wxarhpon/rnh86C1v6O/14513.ts
+#EXTINF:0,US: ABC NEWS OPT 1 
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
+#EXTINF:0,US: ABC NEWS OPT 2 
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:0,US: ABC OPT 2 
+http://atlas.its.virginia.edu:8088/hls/m3u8/ABC.m3u8
+#EXTINF:0,US: ABC OPT 3 
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:0,US: ACTV 
+http://granicusliveus12-a.akamaihd.net/azleg/G0247_012/chunklist.m3u8
+#EXTINF:0,US: AL HURRA 
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:0,US: AL JAZEERA TEST ENGLISH 
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:0,US: BLOOMBERG NEWS PUBLIC ENTERTAINMENT ENGLISH 
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+#EXTINF:0,US: BLOOMBERG TV 
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:0,US: BLOOMBERG TV (1+) 
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+#EXTINF:0,US: CBN 
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:0,US: CBN NEWS 
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
+#EXTINF:0,US: CBS 4 NEWS INDIANAPOLIS 
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+#EXTINF:0,US: CBS NEWS OPT 1 
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:0,US: CBS NEWS OPT 2 
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:0,US: CHANNEL 11 NEWS WPXI PITTSBURGH 
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+#EXTINF:0,US: CNBC HD
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11121.ts
+#EXTINF:0,US: CNBC (1+) HD
+http://deluxeplay.live:25461/live/wxarhpon/rnh86C1v6O/11121.ts
+#EXTINF:0,US: CNBC 
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14505.ts
+#EXTINF:0,US: CNBC (1+) 
+http://deluxeplay.live:25461/live/wxarhpon/rnh86C1v6O/14505.ts
+#EXTINF:0,US: CNEWS 
+http://stream-03.nyc.dailymotion.com/25/dm/3/x3b68jn/live-3.m3u8
+#EXTINF:0,US: CNN 
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:0,US: ESPN NEWS HD
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14498.ts
+#EXTINF:0,US: ESPN NEWS (1+) HD
+http://deluxeplay.live:25461/live/wxarhpon/rnh86C1v6O/14498.ts
+#EXTINF:0,US: ESPN NEWS ENGLISH 
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:0,US: EURONEWS OPT 2 
+https://stream-03.nyc.dailymotion.com/25/dm/3/x2j4h4m/live-3.m3u8
+#EXTINF:0,US: FACTV COMMUNITY 
+http://69.147.212.188:8083/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:0,US: FACTV GOVERNMENT 
+http://69.147.212.188:8082/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:0,US: FOX NEWS HD
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14491.ts
+#EXTINF:0,US: FOX NEWS (1+) HD
+http://deluxeplay.live:25461/live/wxarhpon/rnh86C1v6O/14491.ts
+#EXTINF:0,US: FTV NEWS FRANCE 
+http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
+#EXTINF:0,US: HELLRAISER JUDGEMENT 2018 PUBLIC NEWS ENGLISH 
+https://bobmovies.net/hl/Hellraiser.Judgment.2018.m3u8
+#EXTINF:0,US: I24 NEWS NEWS ENGLISH 
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+#EXTINF:0,US: INFOWARS NEWS ENGLISH 
+https://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:0,US: KIRO 7 NEWS SEATTLE 
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8
+#EXTINF:0,US: KOMO 4 NEWS SEATTLE 
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:0,US: ME TVBLAZE NEWS ENGLISH 
+https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
+#EXTINF:0,US: NBCSN HD
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11098.ts
+#EXTINF:0,US: NBCSN (1+) HD
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14476.ts
+#EXTINF:0,US: NBCSN (2+) HD
+http://deluxeplay.live:25461/live/wxarhpon/rnh86C1v6O/11098.ts
+#EXTINF:0,US: NBCSN (3+) HD
+http://deluxeplay.live:25461/live/wxarhpon/rnh86C1v6O/14476.ts
+#EXTINF:0,US: NEWS CENTER 7 OHIO 
+http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
+#EXTINF:0,US: NEWSMAX PUBLIC NEWS ENGLISH 
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0,US: NEWSMAX TV 
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0,US: NEWSY 
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:0,US: REAL NEWS 
+https://infowarslive-lh.akamaihd.net/i/RealNews_1@561924/master.m3u8
+#EXTINF:0,US: THE WEATHER CHANNEL 
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:0,US: WEATHER NATION 
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.ts
+#EXTINF:0,US: WGN 9 NEWS CHICAGO 
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+#EXTINF:0,US: WSJ PUBLIC NEWS ENGLISH 
+http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+#EXTINF:0,US: WTVD 11 EYEWITNESS NEWS PUBLIC NEWS ENGLISH 
+https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/WTVDwatch.m3u8
+#EXTINF:0,WW: BBC ASIAN NETWORK 
+http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio=320000.norewind.m3u8
+#EXTINF:0,WW: CANADA 
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11408.ts
+#EXTINF:0,WW: CANADA (1+) 
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11467.ts
+#EXTINF:0,WW: CNBC 
+http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
+#EXTINF:0,WW: CNN 
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14341.ts
+#EXTINF:0,WW: CNN (1+) 
+http://srv.elitehdbr.vip:8880/live/ricardolopesipt/HUcmKBh4Zg/8172.m3u8
+#EXTINF:0,WW: CNN HQ 
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11270.ts
+#EXTINF:0,WW: TRT NEWS TR ENGLISH 
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:0,WW: USA HD
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11120.ts
+#EXTINF:0,WW: USA (1+) HD
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11145.ts
+#EXTINF:0,WW: USA (2+) HD
+http://deluxeplay.live:25461/live/wxarhpon/rnh86C1v6O/11120.ts
+#EXTINF:0,WW: USA (3+) HD
+http://deluxeplay.live:25461/live/wxarhpon/rnh86C1v6O/11145.ts
+
+#EXTINF:0,********GENERAL UK**********
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/386.ts
+#EXTINF:0,Watch
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/358.ts
+#EXTINF:0,Universal
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/359.ts
+#EXTINF:0,Really
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/360.ts
+#EXTINF:0,Quest
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/356.ts
+#EXTINF:0,Pick Tv
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/361.ts
+#EXTINF:0,Lifetime
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/362.ts
+#EXTINF:0,Eden
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/365.ts
+#EXTINF:0,E4
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/348.ts
+#EXTINF:0,E!! !!
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/381.ts
+#EXTINF:0,DRAMA
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/350.ts
+#EXTINF:0,Dmax
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/357.ts
+#EXTINF:0,DAVE
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/349.ts
+#EXTINF:0,Comedy Central Extraa
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/372.ts
+#EXTINF:0,Channel 5
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/352.ts
+#EXTINF:0,Channel 4
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/351.ts
+#EXTINF:0,CBS Reality
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/370.ts
+#EXTINF:0,5 Star
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/364.ts
+#EXTINF:0,4seven
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/353.ts
+#EXTINF:0,ITV 4
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/309.ts
+#EXTINF:0,ITV 2
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/307.ts
+#EXTINF:0,ITV 1
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/306.ts
+#EXTINF:0,TLC
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/248.ts
+#EXTINF:0,Sky Two
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/324.ts
+#EXTINF:0,SKY ONE
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/325.ts
+#EXTINF:0,rte 2
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/250.ts
+#EXTINF:0,RTE 1
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/294.ts
+#EXTINF:0,ITV3
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/308.ts
+#EXTINF:0,Good Food
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/251.ts
+#EXTINF:0,gold
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/291.ts
+#EXTINF:0,FOX
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/261.ts
+#EXTINF:0,FOOD Network
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/331.ts
+#EXTINF:0,COMEDY CENTRAL
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/253.ts
+#EXTINF:0,BBC Two HD
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/311.ts
+#EXTINF:0,BBC Three HD
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/312.ts
+#EXTINF:0,BBC One HD
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/310.ts
+#EXTINF:0,BBC Four HD
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/313.ts
+#EXTINF:0,alibi
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/268.ts
+#EXTINF:0,UK |  CBS DRAMA
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/304.ts
+#EXTINF:0,UK |  CBS ACTION
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/305.ts
+#EXTINF:0,Spike
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/366.ts
+#EXTINF:0,*********KIDS*********
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/389.ts
+#EXTINF:0,Nick Jr
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/368.ts
+#EXTINF:0,Nicktoons
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/336.ts
+#EXTINF:0,NICKLEODON
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/330.ts
+#EXTINF:0,Disney XD
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/332.ts
+#EXTINF:0,Disney Channel UK
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/334.ts
+#EXTINF:0,BabyTV GB
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/255.ts
+#EXTINF:0,UK |  DISNEY JR
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/257.ts
+#EXTINF:0,Cartoon Net
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/265.ts
+#EXTINF:0,***********DISCOVERY***********
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/390.ts
+#EXTINF:0,ANIMAL PLANET
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/273.ts
+#EXTINF:0,Crime & Investigiation
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/259.ts
+#EXTINF:0,Discovery Channel
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/272.ts
+#EXTINF:0,DISCOVERY HISTORY
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/277.ts
+#EXTINF:0,Discovery Science HD
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/276.ts
+#EXTINF:0,Discovery Turbo
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/271.ts
+#EXTINF:0,ID INVESTIGATION
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/258.ts
+#EXTINF:0,National Geographic
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/274.ts
+#EXTINF:0,Nat Geo Wild
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/275.ts
+#EXTINF:0,HISTORY 2
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/383.ts
+#EXTINF:0,HISTORY
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/382.ts
+#EXTINF:0,********MOVIE*********
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/387.ts
+#EXTINF:0,Sky Sport Arena
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/377.ts
+#EXTINF:0,Sky Movies Comedy
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/371.ts
+#EXTINF:0,Sky Movies Thriller
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/279.ts
+#EXTINF:0,Sky Movies Select
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/281.ts
+#EXTINF:0,Sky Movies Premiere
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/282.ts
+#EXTINF:0,Sky Movies Greats
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/283.ts
+#EXTINF:0,Sky Movies Family
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/284.ts
+#EXTINF:0,Sky Movies Drama & Romance
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/285.ts
+#EXTINF:0,Sky Movies Disney
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/286.ts
+#EXTINF:0,Sky Movies Action
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/278.ts
+#EXTINF:0,Sky witness
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/301.ts
+#EXTINF:0,Sky Movies ShowCase
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/280.ts
+#EXTINF:0,Sky Movies Sci-Fi & Horror
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/290.ts
+#EXTINF:0,Movies 4men
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/293.ts
+#EXTINF:0,Sony Movie
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/376.ts
+#EXTINF:0,Sky Art
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/367.ts
+#EXTINF:0,True Movie 1
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/288.ts
+#EXTINF:0,True Entertainemant
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/374.ts
+#EXTINF:0,True Drama
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/375.ts
+#EXTINF:0,**********SPORTS**********
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/388.ts
+#EXTINF:0,Sky Sport News
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/269.ts
+#EXTINF:0,sky sport golf
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/346.ts
+#EXTINF:0,sky sport football
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/345.ts
+#EXTINF:0,SKY SPORT CRICKET
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/343.ts
+#EXTINF:0,Sky sport action
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/344.ts
+#EXTINF:0,Sky Sports Premier League HD
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/328.ts
+#EXTINF:0,sky sport f1
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/329.ts
+#EXTINF:0,Sky Sport MAIN EVENT
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/326.ts
+#EXTINF:0,Boxnation
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/264.ts
+#EXTINF:0,ESPN
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/380.ts
+#EXTINF:0,CNN
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/378.ts
+#EXTINF:0,BT Sport 1
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/318.ts
+#EXTINF:0,BT Sport 2
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/317.ts
+#EXTINF:0,BT Sport 3HD
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/316.ts
+#EXTINF:0,BT Sport Europe
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/263.ts
+#EXTINF:0,Premier Sport
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/267.ts
+#EXTINF:0,Racing
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/302.ts
+#EXTINF:0,MUTV
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/260.ts
+#EXTINF:0,British Eurosport 1
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/315.ts
+#EXTINF:0,British Eurosport 2
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/314.ts
+#EXTINF:0,At The Races UK
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/256.ts
+#EXTINF:0,Chelsea FC
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/266.ts
+#EXTINF:0,tnh
+http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/341.ts
+#EXTINF:0,telemetropole
+
+#EXTINF:0,Bein1 1M
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1286
+#EXTINF:0,Bein2 1M
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1285
+#EXTINF:0,Bein3 1M
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1284
+#EXTINF:0,Bein4 1M
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1283
+#EXTINF:0,Bein5 1M
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1282
+#EXTINF:0,Bein6 1M
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1281
+#EXTINF:0,Bein7 1M
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1280
+#EXTINF:0,Bein8 1M
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1279
+#EXTINF:0,Bein9 1M
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1278
+#EXTINF:0,Bein10 1M
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1277
+#EXTINF:0,Bein1 2M
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1296
+#EXTINF:0,Bein2 2M
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1295
+#EXTINF:0,Bein3 2M
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1294
+#EXTINF:0,Bein4 2M
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1293
+#EXTINF:0,Bein5 2M
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1292
+#EXTINF:0,Bein6 2M
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1291
+#EXTINF:0,Bein7 2M
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1290
+#EXTINF:0,Bein8 2M
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1289
+#EXTINF:0,Bein9 2M
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1288
+#EXTINF:0,Bein10 2M
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1287
+#EXTINF:0,BEIN_SPORT1
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1336
+#EXTINF:0,BEIN_SPORT2
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1335
+#EXTINF:0,BEIN_SPORT3
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1334
+#EXTINF:0,BEIN_SPORT4
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1333
+#EXTINF:0,BEIN_SPORT5
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1332
+#EXTINF:0,BEIN_SPORT6
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1331
+#EXTINF:0,BEIN_SPORT7
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1330
+#EXTINF:0,BEIN_SPORT8
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1329
+#EXTINF:0,BEIN_SPORT9
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1328
+#EXTINF:0,BEIN_SPORT10
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1327
+#EXTINF:0,BEIN_SPORT 1
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1356
+#EXTINF:0,BEIN_SPORT 2
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1355
+#EXTINF:0,BEIN_SPORT 3
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1354
+#EXTINF:0,BEIN_SPORT 4
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1353
+#EXTINF:0,BEIN_SPORT 5
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1352
+#EXTINF:0,BEIN_SPORT 6
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1351
+#EXTINF:0,BEIN_SPORT 7
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1350
+#EXTINF:0,BEIN_SPORT 8
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1349
+#EXTINF:0,BEIN_SPORT 9
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1348
+#EXTINF:0,BEIN_SPORT 10
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1347
+#EXTINF:0,Bein__Sport1
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1326
+#EXTINF:0,BEIN__SPORT2
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1325
+#EXTINF:0,BEIN__SPORT3
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1324
+#EXTINF:0,BEIN__SPORT4
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1323
+#EXTINF:0,BEIN__SPORT5
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1322
+#EXTINF:0,BEIN__SPORT6
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1321
+#EXTINF:0,BEIN__SPORT7
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1320
+#EXTINF:0,BEIN__SPORT8
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1319
+#EXTINF:0,BEIN__SPORT9
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1318
+#EXTINF:0,BEIN__SPORT10
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1317
+#EXTINF:0,BEIN_SPORT__1
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1346
+#EXTINF:0,BEIN_SPORT__2
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1345
+#EXTINF:0,BEIN_SPORT__3
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1344
+#EXTINF:0,BEIN_SPORTS__4
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1343
+#EXTINF:0,BEIN_SPORT__5
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1342
+#EXTINF:0,BEIN_SPORT__6
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1341
+#EXTINF:0,BEIN_SPORT__7
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1340
+#EXTINF:0,BEIN_SPORT__8
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1339
+#EXTINF:0,BEIN_SPORT__9
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1338
+#EXTINF:0,BEIN_SPORT__10
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1337
+#EXTINF:0,BeinSport1 FULL HD
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1316
+#EXTINF:0,BeinSport2 FULL HD
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1315
+#EXTINF:0,BeinSport3 FULL HD
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1314
+#EXTINF:0,BeinSport4 FULL HD
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1313
+#EXTINF:0,BeinSport5 FULL HD
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1312
+#EXTINF:0,BeinSport6 FULL HD
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1311
+#EXTINF:0,BeinSport7 FULL HD
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1310
+#EXTINF:0,BeinSport8 FULL HD
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1309
+#EXTINF:0,BeinSport9 FULL HD
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1308
+#EXTINF:0,BeinSport10 FULL HD
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1307
+#EXTINF:0,BeinSport1 4KB PLUSE
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1306
+#EXTINF:0,BeinSport2 4KB PLUSE
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1305
+#EXTINF:0,BeinSport3 4KB PLUSE
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1304
+#EXTINF:0,BeinSport4 4KB PLUSE
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1303
+#EXTINF:0,BeinSport5 4KB PLUSE
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1302
+#EXTINF:0,BeinSport6 4KB PLUSE
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1301
+#EXTINF:0,BeinSport7 4KB PLUSE
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1300
+#EXTINF:0,BeinSport8 4KB PLUSE
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1299
+#EXTINF:0,BeinSport9 4KB PLUSE
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1298
+#EXTINF:0,BeinSport10 4KB PLUSE
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1297
+#EXTINF:0,Bein Sports1 EX
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1276
+#EXTINF:0,Bein Sports2 EX
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1275
+#EXTINF:0,Bein Sports3 EX
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1274
+#EXTINF:0,Bein Sports4 EX
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1273
+#EXTINF:0,Bein Sports5 EX
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1272
+#EXTINF:0,Bein Sports6 EX
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1271
+#EXTINF:0,Bein Sports7 EX
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1270
+#EXTINF:0,Bein Sports8 EX
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1269
+#EXTINF:0,Bein Sports9 EX
+http://93.190.138.205:25461/admin_184374/O8zkriFl/1268
+#EXTINF:0,Bein Sports10 EX
