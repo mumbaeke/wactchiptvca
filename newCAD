@@ -1,11 +1,8 @@
 #EXTM3U
 
-#EXTINF:0,3ABN
-https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
+
 #EXTINF:0,ABN KIDS
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:0,Africanews english
-https://www.youtube.com/embed/j6Nm2lXM4AA
 #EXTINF:0,DW-TV English
 http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 #EXTINF:0,EbS Live (Europe by Satellite)
@@ -22,8 +19,6 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8?
 #EXTINF:0,NRB Network [USA]
 https://uni10rtmp.tulix.tv/nrbtvlive/nrbtvlive.stream/playlist.m3u8
-#EXTINF:0,Sky News Extra 2
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master960x540_v2.m3u8
 #EXTINF:0,Sky News Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master960x540_v2.m3u8
 #EXTINF:0,uctv
@@ -79,26 +74,3 @@ http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:60,ICI T�l� HD
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
-
-#EXTINF:0,Agent 327: Operation Barbershop
-https://video.blender.org/static/webseed/264ff760-803e-430e-8d81-15648e904183-720.mp4
-#EXTINF:0,Big Buck Bunny Movie (Official Blender Foundation Short film)
-https://video.blender.org/static/webseed/bf1f3fb5-b119-4f9f-9930-8e20e892b898-720.mp4
-#EXTINF:0,Caminandes 2: Gran Dillama - Blender Animated Short
-https://video.blender.org/static/webseed/fb70d459-48d2-4db5-adba-813c84f9200a-720.mp4
-#EXTINF:0,Caminandes 3: Llamigos - Funny 3D Animated Short
-https://video.blender.org/static/webseed/23f3ef79-15dc-44c5-aa45-cf92e78a4509-720.mp4
-#EXTINF:0,Coffee Run - Blender Open Movie
-https://video.blender.org/static/webseed/ff8fe61b-026f-4f07-b66b-2a790d6f6ab1-720.mp4
-#EXTINF:0,Cosmos Laundromat - First Cycle. Official Blender Foundation release
-https://video.blender.org/static/webseed/f507dfdc-e73e-45a4-9778-d758cbe1ce96-720.mp4
-#EXTINF:0,Elephants Dream
-https://video.blender.org/static/webseed/cccc3e60-0291-4ecc-aa56-39b2e2c7d0d5-720.mp4
-#EXTINF:0,Glass Half - Blender animated cartoon
-https://video.blender.org/static/webseed/64222c8a-c4c7-4b3b-9850-7fb2078edcf6-720.mp4
-#EXTINF:0,Sintel - Third Open Movie by Blender Foundation
-https://video.blender.org/static/webseed/0eb052d0-fd51-43e6-aa33-ecdbf77a5d40-720.mp4
-#EXTINF:0,Spring (Blender Open Movie)
-https://video.blender.org/static/webseed/3d95fb3d-c866-42c8-9db1-fe82f48ccb95-720.mp4
-#EXTINF:0,Tears of Steel - Blender VFX Open Movie
-https://video.blender.org/static/webseed/8533ea43-4271-4a57-9694-e9d0b35e1aa1-720.mp4
