@@ -2,24 +2,14 @@
 
 #EXTINF:-1 tvg-id="Fine Living" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="Lifestyle",Fine Living
 http://5.135.92.133:52841/out/u/498_1.m3u8
-EXTINF:-1 tvg-id="National Geographic" tvg-name="" tvg-language="" tvg-logo="https://drive.google.com/uc?export=download&id=1jiKfAB2jcuC7oDDEbpr8vGXi8IsYV9VX" tvg-country="UNSORTED" tvg-url="" group-title="Lifestyle",National Geographic
-http://5.135.92.133:52841/out/u/83_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/KNXV_Logo.png" tvg-country="UNSORTED" tvg-url="" group-title="News",ABC 15
 https://content.uplynk.com/61fb4f9811b64bddaf2cfb0e2e4a32db.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/11llLr1.jpg" tvg-country="UA" tvg-url="" group-title="News",100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1,  Real Madrid TV HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 #EXTINF:-1, NBC 5 News (Chicago)
 http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
-#EXTINF:0,ABN KIDS
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:0,DW-TV English
 http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-#EXTINF:0,EbS Live (Europe by Satellite)
-https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8
-#EXTINF:0,EbS+ Live (Europe by Satellite)
-https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=2600000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="FRANCE",TV5 Monde Info (Opt-2)
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
 #EXTINF:0,France 24
@@ -34,28 +24,10 @@ https://uni10rtmp.tulix.tv/nrbtvlive/nrbtvlive.stream/playlist.m3u8
 http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
 #EXTINF:0,Sky News Extra 2
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master960x540_v2.m3u8
-#EXTINF:0,Sky News Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master960x540_v2.m3u8
-#EXTINF:0,Sky News Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master960x540_v2.m3u8
-#EXTINF:0,uctv
-https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
-#EXTINF:-1,CA : CBC VANCOUVER
-http://mains.vip:2086/demouser/demouser/15284
-#EXTINF:-1,CA : CBC ST JOHNS
-http://mains.vip:2086/demouser/demouser/15282
-#EXTINF:-1,CA : CBC OTTAWA
-http://mains.vip:2086/demouser/demouser/15280
-#EXTINF:-1,CA : CBC TORONTO
-http://mains.vip:2086/demouser/demouser/15283
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-2)
 http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-3)
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="NEWS",CBS News (Opt-1)
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="NEWS",CBS News (Opt-2)
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24 (FR) (Opt-1)
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24 (FR) (Opt-2)
@@ -66,18 +38,10 @@ https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
 http://ott-cdn.ucom.am/s96/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="24/7 WORLD NEWS",RT America (RU) (Opt-3)
 http://45.126.83.51/qwr9ew/s/s23/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="24/7 WORLD NEWS",NHK World (JP) (Opt-1)
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="24/7 WORLD NEWS",NHK World (JP) (Opt-2)
-http://45.126.83.51/uq2663/h/h23/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="24/7 WORLD NEWS",TeleSUR (VE)
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="24/7 WORLD NEWS",RT UK (RU)
 https://rt-uk.secure.footprint.net/1106.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oitvOug.png" group-title="SPORTS",World of Free Sports
-https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vLdszKt.png" group-title="SPORTS",Fox Sports News AU
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="SPORTS",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" group-title="SPORTS",Racing.com
@@ -98,3 +62,2437 @@ http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-id="LCI" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:0,ICI Télé HD
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0RQvs8y.png" group-title="",Alpe d’Huez TV
+https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/cThInij.png" group-title="",D5 TV
+https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist.m3u8
+#EXTINF:-1,Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1,CD | Congo Planet Television 2, Congo Planet Television 2
+https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist_1080.m3u8
+#EXTINF:-1,Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1,SPORT TV 1 HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4643
+#EXTINF:-1,SPORT TV 2 HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4647
+#EXTINF:-1,SPORT TV 3 HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4646
+#EXTINF:-1,SPORT TV 4 HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4645
+#EXTINF:-1,SPORT TV 5 HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4644
+#EXTINF:-1,ABOLA TV (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/606
+#EXTINF:-1,EURO SPORT 1 HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4707
+#EXTINF:-1,EURO SPORT 2 XTRA HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4708
+#EXTINF:-1,TV RECORD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4788
+#EXTINF:-1,PFC SPORTS HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/530
+#EXTINF:-1,BENFICA TV HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/545
+#EXTINF:-1,SPORT TV+ (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/553
+#EXTINF:-1,SPORTING TV HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/547
+#EXTINF:-1,MOTOR VISION HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/605
+#EXTINF:-1,MOTORS TV (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/610
+#EXTINF:-1,FUEL TV (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/609
+#EXTINF:-1,RTP ACORES 24 (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/80473
+#EXTINF:-1,RTP 1 (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/42672
+#EXTINF:-1,RTP 2 (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/525
+#EXTINF:-1,RTP 3 (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/527
+#EXTINF:-1,RTP AFRICA (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4794
+#EXTINF:-1,RTP MADEIRA (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/81597
+#EXTINF:-1,RTP MEMORIA (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/528
+#EXTINF:-1,TPA INTERNACIONAL (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/89602
+#EXTINF:-1,TVI (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/531
+#EXTINF:-1,TVI FICCAO (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/533
+#EXTINF:-1,TVI REALITY (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/534
+#EXTINF:-1,TVI REALITY MOSAICO (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65828
+#EXTINF:-1,TVI 24 (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/532
+#EXTINF:-1,SIC HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/535
+#EXTINF:-1,SIC NOTICIAS (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/536
+#EXTINF:-1,SIC MULHER (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/538
+#EXTINF:-1,SIC RADICAL (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/539
+#EXTINF:-1,SIC KIDS (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/540
+#EXTINF:-1,SIC CARAS (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/537
+#EXTINF:-1,24 KITCHEN (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/62384
+#EXTINF:-1,TV SERIES (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/598
+#EXTINF:-1,TVC1 HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/602
+#EXTINF:-1,TVC2 HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/601
+#EXTINF:-1,TVC3 HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/600
+#EXTINF:-1,TVC4 HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/599
+#EXTINF:-1,EURO NEWS (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/612
+#EXTINF:-1,FOX HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/593
+#EXTINF:-1,FOX MOVIES (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/590
+#EXTINF:-1,FOX LIFE HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/592
+#EXTINF:-1,FOX CRIME HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/591
+#EXTINF:-1,FOX COMEDY (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/589
+#EXTINF:-1,FOX NEWS (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4791
+#EXTINF:-1,AMC (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/542
+#EXTINF:-1,PORTO CANAL (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/616
+#EXTINF:-1,ODISSEIA (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/573
+#EXTINF:-1,CINEMUNDO (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/596
+#EXTINF:-1,HOLLYWOOD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/81598
+#EXTINF:-1,AXN BLACK HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/586
+#EXTINF:-1,AXN HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/588
+#EXTINF:-1,AXN WHITE HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/587
+#EXTINF:-1,HISTORIA (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/574
+#EXTINF:-1,CBS REALITY (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/576
+#EXTINF:-1,TLC (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/579
+#EXTINF:-1,VH1 (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/570
+#EXTINF:-1,E! (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/584
+#EXTINF:-1,CM TV (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/614
+#EXTINF:-1,NOVA (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4709
+#EXTINF:-1,CANAL Q (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4710
+#EXTINF:-1,NAT GEO HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/582
+#EXTINF:-1,NAT GEO WILD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/581
+#EXTINF:-1,DISCOVERY (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/583
+#EXTINF:-1,DISCOVERY SHOWCASE HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/580
+#EXTINF:-1,AFRO MUSIC (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/565
+#EXTINF:-1,MTV (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/567
+#EXTINF:-1,CACA EPESCA (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/604
+#EXTINF:-1,FTV (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4792
+#EXTINF:-1,GALICIA TV (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/558
+#EXTINF:-1,MCM POP (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4793
+#EXTINF:-1,MEZZO (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4787
+#EXTINF:-1,TRACE TV (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4795
+#EXTINF:-1,TRAVEL CHANNEL HD (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/577
+#EXTINF:-1,BABY FIRST (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4789
+#EXTINF:-1,CARTOON NETWORK (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/560
+#EXTINF:-1,DISNEY (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/563
+#EXTINF:-1,NICKELODEON (PT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/561
+#EXTINF:-1,*FAIRCHILD EAST
+http://66.northerniptv.ca:8000/burke2020/2020burke/402
+#EXTINF:-1,FAIRCHILD WEST
+http://66.northerniptv.ca:8000/burke2020/2020burke/403
+#EXTINF:-1,FAIRCHILD 2 HD
+http://66.northerniptv.ca:8000/burke2020/2020burke/404
+#EXTINF:-1,TALENT TV
+http://66.northerniptv.ca:8000/burke2020/2020burke/62363
+#EXTINF:-1,PHOENIX (NA)
+http://66.northerniptv.ca:8000/burke2020/2020burke/8109
+#EXTINF:-1,PHOENIX HONG KONG HD
+http://66.northerniptv.ca:8000/burke2020/2020burke/10377
+#EXTINF:-1,PHOENIX INFO NEWS HD
+http://66.northerniptv.ca:8000/burke2020/2020burke/10376
+#EXTINF:-1,翡翠台 (TVB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/773
+#EXTINF:-1,TVB CLASSIC
+http://66.northerniptv.ca:8000/burke2020/2020burke/774
+#EXTINF:-1,無綫新聞 (TVBNEWS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/772
+#EXTINF:-1,翡翠明珠 (TVB PEARL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/776
+#EXTINF:-1,香港開電視 (HK OPEN TV)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72391
+#EXTINF:-1,600 NEWS
+http://66.northerniptv.ca:8000/burke2020/2020burke/86263
+#EXTINF:-1,CCTV1
+http://66.northerniptv.ca:8000/burke2020/2020burke/793
+#EXTINF:-1,CCTV2
+http://66.northerniptv.ca:8000/burke2020/2020burke/794
+#EXTINF:-1,CCTV3
+http://66.northerniptv.ca:8000/burke2020/2020burke/795
+#EXTINF:-1,CCTV4
+http://66.northerniptv.ca:8000/burke2020/2020burke/796
+#EXTINF:-1,CCTV5+
+http://66.northerniptv.ca:8000/burke2020/2020burke/797
+#EXTINF:-1,CCTV 6
+http://66.northerniptv.ca:8000/burke2020/2020burke/3952
+#EXTINF:-1,CCTV7
+http://66.northerniptv.ca:8000/burke2020/2020burke/799
+#EXTINF:-1,CCTV 8
+http://66.northerniptv.ca:8000/burke2020/2020burke/801
+#EXTINF:-1,CCTV 9
+http://66.northerniptv.ca:8000/burke2020/2020burke/805
+#EXTINF:-1,CCTV10
+http://66.northerniptv.ca:8000/burke2020/2020burke/802
+#EXTINF:-1,CCTV11
+http://66.northerniptv.ca:8000/burke2020/2020burke/803
+#EXTINF:-1,CHC动作电影
+http://66.northerniptv.ca:8000/burke2020/2020burke/18082
+#EXTINF:-1,CHC家庭影院
+http://66.northerniptv.ca:8000/burke2020/2020burke/18081
+#EXTINF:-1,东方卫视 (DONGFANG)
+http://66.northerniptv.ca:8000/burke2020/2020burke/792
+#EXTINF:-1,云南卫视 (YUNNAN)
+http://66.northerniptv.ca:8000/burke2020/2020burke/3956
+#EXTINF:-1,北京卫视 (BEIJING)
+http://66.northerniptv.ca:8000/burke2020/2020burke/790
+#EXTINF:-1,四川卫视 (SICHUANG)
+http://66.northerniptv.ca:8000/burke2020/2020burke/3963
+#EXTINF:-1,天津卫视 (TIANJIN)
+http://66.northerniptv.ca:8000/burke2020/2020burke/3964
+#EXTINF:-1,安徽卫视 (AN HUI TV)
+http://66.northerniptv.ca:8000/burke2020/2020burke/55402
+#EXTINF:-1,广东卫视 (GUANGDONG)
+http://66.northerniptv.ca:8000/burke2020/2020burke/788
+#EXTINF:-1,广西电视台 (GUANGXI TV)
+http://66.northerniptv.ca:8000/burke2020/2020burke/3953
+#EXTINF:-1,江苏卫视 (JIANGSU TV)
+http://66.northerniptv.ca:8000/burke2020/2020burke/807
+#EXTINF:-1,河北卫视 (HEBEI TV)
+http://66.northerniptv.ca:8000/burke2020/2020burke/3960
+#EXTINF:-1,河南电视台 (HENAN TV)
+http://66.northerniptv.ca:8000/burke2020/2020burke/3957
+#EXTINF:-1,浙江卫视 (ZHE JIANG)
+http://66.northerniptv.ca:8000/burke2020/2020burke/789
+#EXTINF:-1,深圳卫视 (SHENZHEN)
+http://66.northerniptv.ca:8000/burke2020/2020burke/787
+#EXTINF:-1,湖南卫视 (HUNAN)
+http://66.northerniptv.ca:8000/burke2020/2020burke/791
+#EXTINF:-1,TFC (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/2
+#EXTINF:-1,TFC WEST (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/8524
+#EXTINF:-1,GMA PINOY (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5
+#EXTINF:-1,GMA NEWS (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4
+#EXTINF:-1,GMA NEWS (-12) (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82747
+#EXTINF:-1,GMA LIFE TV (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6
+#EXTINF:-1,CNN (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4398
+#EXTINF:-1,CNN (-12) (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82752
+#EXTINF:-1,GMA7 (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82746
+#EXTINF:-1,GMA7 (-12) (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82745
+#EXTINF:-1,ABS-CBN NEWS
+http://66.northerniptv.ca:8000/burke2020/2020burke/8104
+#EXTINF:-1,ABS-CBN (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82754
+#EXTINF:-1,ABS-CBN (-12) (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82753
+#EXTINF:-1,DZRH NEWS (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82729
+#EXTINF:-1,DZRH NEWS (-12) (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82728
+#EXTINF:-1,GLOBAL SPORTS 1 (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82735
+#EXTINF:-1,GLOBAL SPORTS 1 (-12) (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82734
+#EXTINF:-1,GLOBAL SPORTS 2 (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82733
+#EXTINF:-1,GLOBAL SPORTS 2 (-12) (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82732
+#EXTINF:-1,GLOBAL SPORTS 3 (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82731
+#EXTINF:-1,GLOBAL SPORTS 3 (-12) (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82730
+#EXTINF:-1,GLOBAL THEATRE 1 (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82739
+#EXTINF:-1,GLOBAL THEATRE 1 (-12) (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82738
+#EXTINF:-1,GLOBAL THEATRE 2 (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82737
+#EXTINF:-1,GLOBAL THEATRE 2 (-12) (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82736
+#EXTINF:-1,NET25 (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82743
+#EXTINF:-1,NET25 (-12) (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82742
+#EXTINF:-1,ONE MEDIA (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82756
+#EXTINF:-1,ONE MEDIA (-12) (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82755
+#EXTINF:-1,PTV4 (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82751
+#EXTINF:-1,PTV4 (-12) (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82750
+#EXTINF:-1,SPORTS ACTION (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82772
+#EXTINF:-1,SPORTS ACTION (-12) (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82744
+#EXTINF:-1,TV5 (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82749
+#EXTINF:-1,TV5 (-12) (PH)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82748
+#EXTINF:-1,HAITI NEWS
+http://66.northerniptv.ca:8000/burke2020/2020burke/55571
+#EXTINF:-1,NAGO TV
+http://66.northerniptv.ca:8000/burke2020/2020burke/3232
+#EXTINF:-1,SHALLOM TV
+http://66.northerniptv.ca:8000/burke2020/2020burke/3228
+#EXTINF:-1,TELE BOSTON
+http://66.northerniptv.ca:8000/burke2020/2020burke/69592
+#EXTINF:-1,TELE CARAIBES
+http://66.northerniptv.ca:8000/burke2020/2020burke/3227
+#EXTINF:-1,TELE GINEN
+http://66.northerniptv.ca:8000/burke2020/2020burke/3236
+#EXTINF:-1,TELE HIRONDELLE (LES CAYES)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64084
+#EXTINF:-1,TELE LOUNGE
+http://66.northerniptv.ca:8000/burke2020/2020burke/3235
+#EXTINF:-1,TELE METROPOLOE
+http://66.northerniptv.ca:8000/burke2020/2020burke/3234
+#EXTINF:-1,TELE SOLEIL
+http://66.northerniptv.ca:8000/burke2020/2020burke/8970
+#EXTINF:-1,TELE SUPERSTAR
+http://66.northerniptv.ca:8000/burke2020/2020burke/3233
+#EXTINF:-1,THM TV
+http://66.northerniptv.ca:8000/burke2020/2020burke/8336
+#EXTINF:-1,TNH
+http://66.northerniptv.ca:8000/burke2020/2020burke/3231
+#EXTINF:-1,TV1000 (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6807
+#EXTINF:-1,HAPPY CHANNEL (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10237
+#EXTINF:-1,MINIMAX (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10238
+#EXTINF:-1,MEGAMAX (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6668
+#EXTINF:-1,TVR 1 (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10232
+#EXTINF:-1,TVR 2 (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6678
+#EXTINF:-1,TVR 3 (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6667
+#EXTINF:-1,TVR INT (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10223
+#EXTINF:-1,ROMANIA TV (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10241
+#EXTINF:-1,B1 TV (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10239
+#EXTINF:-1,ANTENA STARS (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10236
+#EXTINF:-1,ANTENA 1 (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10228
+#EXTINF:-1,ANTENA 3 (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10233
+#EXTINF:-1,PRO TV (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6677
+#EXTINF:-1,PRO 2 (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10225
+#EXTINF:-1,PRO INT (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10227
+#EXTINF:-1,PRO CINEMA (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6674
+#EXTINF:-1,PRO GOLD (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6673
+#EXTINF:-1,PRIMA TV (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6662
+#EXTINF:-1,PRIMA LOVE (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6661
+#EXTINF:-1,PRIMA COOL (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6775
+#EXTINF:-1,REALITATEA TV (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77332
+#EXTINF:-1,DIGI SPORT 1 (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6771
+#EXTINF:-1,DIGI SPORT 2 (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6770
+#EXTINF:-1,DIGI SPORT 3 (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77335
+#EXTINF:-1,DIGI SPORT 4 (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77340
+#EXTINF:-1,TELEKOM SPORT 1 (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77366
+#EXTINF:-1,TELEKOM SPORT 2 (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77365
+#EXTINF:-1,TELEKOM SPORT 3 (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77334
+#EXTINF:-1,TELEKOM SPORT 4 (RO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77333
+#EXTINF:-1,TVP 1 (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10883
+#EXTINF:-1,TVP 2 (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10884
+#EXTINF:-1,TVP ABC (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10862
+#EXTINF:-1,TVP INFO (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10886
+#EXTINF:-1,TVP ROZRYWKA (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10859
+#EXTINF:-1,TVP SERIALE (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10888
+#EXTINF:-1,DISCOVERY HISTORIA (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10885
+#EXTINF:-1,POLSAT (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10870
+#EXTINF:-1,POLSAT 2 (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10871
+#EXTINF:-1,POLSAT CAFE (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10872
+#EXTINF:-1,POLSAT NEWS (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10873
+#EXTINF:-1,POLSAT PLAY (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10874
+#EXTINF:-1,POLSAT SPORT (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10876
+#EXTINF:-1,POLSAT SPORT EXTRA (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10875
+#EXTINF:-1,TVN (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10878
+#EXTINF:-1,TVN 24 (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10882
+#EXTINF:-1,TVN 7 (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10879
+#EXTINF:-1,TVN FABULA (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10860
+#EXTINF:-1,TVN STYLE (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10880
+#EXTINF:-1,TVN TURBO (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10881
+#EXTINF:-1,CINEMAX 2 (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/20693
+#EXTINF:-1,FOOD NETWORK (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/20692
+#EXTINF:-1,KUCHNIA (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10869
+#EXTINF:-1,TV REPUBLIKA (PL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10877
+#EXTINF:-1,ALPHASAT (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/86831
+#EXTINF:-1,MEGA COSMOS (NA) (GR) - NEW
+http://66.northerniptv.ca:8000/burke2020/2020burke/67105
+#EXTINF:-1,ERT (NA) (GR) - NEW
+http://66.northerniptv.ca:8000/burke2020/2020burke/66060
+#EXTINF:-1,ODYSSEY 1 (NA) (GR) - NEW
+http://66.northerniptv.ca:8000/burke2020/2020burke/67099
+#EXTINF:-1,GREEK MUSIC CHANNEL (NA) (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/95959
+#EXTINF:-1,NEW GREEK TELEVISION (NA) (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/95960
+#EXTINF:-1,NOVA CINEMA 1 (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77730
+#EXTINF:-1,NOVA CINEMA 4 (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77729
+#EXTINF:-1,OTE CINEMA 1 (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4748
+#EXTINF:-1,OTE CINEMA 2 (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4747
+#EXTINF:-1,OTE CINEMA 3 (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4746
+#EXTINF:-1,CINEMEEK 1 (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77743
+#EXTINF:-1,GREEK CINEMA (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77713
+#EXTINF:-1,ACTION24 (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77777
+#EXTINF:-1,OTE SPORT 1 (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4743
+#EXTINF:-1,OTE SPORT 2 (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4742
+#EXTINF:-1,OTE SPORT 3 (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4741
+#EXTINF:-1,OTE SPORT 4 (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4740
+#EXTINF:-1,OTE SPORT 5 (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4739
+#EXTINF:-1,OTE SPORT 6 (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4738
+#EXTINF:-1,OTE SPORT 7 (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4737
+#EXTINF:-1,OTE SPORT 8 (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4736
+#EXTINF:-1,OTE SPORT 9 (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4119
+#EXTINF:-1,OTE SPORTS HIGHLIGHTS (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4117
+#EXTINF:-1,EUROSPORT 1 (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/84092
+#EXTINF:-1,EUROSPORT 2 (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/84093
+#EXTINF:-1,TILESPORT (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77672
+#EXTINF:-1,4E (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77781
+#EXTINF:-1,ABC CHANNEL (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/84088
+#EXTINF:-1,ALPHA CY (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77776
+#EXTINF:-1,ANT1 CY (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77780
+#EXTINF:-1,ART TV (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77778
+#EXTINF:-1,BEST TV (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77724
+#EXTINF:-1,BLUE SKY (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/84089
+#EXTINF:-1,CHANNEL 9 TV (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77720
+#EXTINF:-1,DELTA TV (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77719
+#EXTINF:-1,EOE TV (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77715
+#EXTINF:-1,EPIRUS TV1 (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77771
+#EXTINF:-1,ERT (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/84090
+#EXTINF:-1,ERT 1 (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4105
+#EXTINF:-1,ERT 2 (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4104
+#EXTINF:-1,ERT 3 (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4103
+#EXTINF:-1,ERT WORLD (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/84091
+#EXTINF:-1,EXTRA (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77768
+#EXTINF:-1,HIGH TV (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77711
+#EXTINF:-1,IONIAN TV (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/84094
+#EXTINF:-1,KPHTI TV (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77708
+#EXTINF:-1,MAD (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4129
+#EXTINF:-1,MAKEDONIA (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4097
+#EXTINF:-1,MEGA (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77782
+#EXTINF:-1,OPEN BEYOND (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/84095
+#EXTINF:-1,RIK 1 CY (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77760
+#EXTINF:-1,RIKSAT CY (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77759
+#EXTINF:-1,RISE (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77654
+#EXTINF:-1,SIGMA (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77756
+#EXTINF:-1,SKAI (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/78186
+#EXTINF:-1,SMILE TV (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/84096
+#EXTINF:-1,STAR TV (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77675
+#EXTINF:-1,TILE MUSIKI (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77673
+#EXTINF:-1,TV 100 (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77731
+#EXTINF:-1,VOULI (GR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77650
+#EXTINF:-1,LIG TV 1 (TR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/27119
+#EXTINF:-1,LIG TV 2 (TR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/27120
+#EXTINF:-1,LIG TV 3 (TR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/27121
+#EXTINF:-1,ANIMAL PLANET (TR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/27126
+#EXTINF:-1,ATV (TR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10125
+#EXTINF:-1,DREAM TV (TR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/27116
+#EXTINF:-1,HALK TV (TR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/27111
+#EXTINF:-1,ISTANBUL 1 (TR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/27133
+#EXTINF:-1,ISTANBUL 2 (TR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/27132
+#EXTINF:-1,KANAL D (TR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/27140
+#EXTINF:-1,POWER TURK HD (TR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/27112
+#EXTINF:-1,SHOW TV (TR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10133
+#EXTINF:-1,SPORTS TV (TR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/27113
+#EXTINF:-1,GLOBO HD (NA)
+http://66.northerniptv.ca:8000/burke2020/2020burke/42674
+#EXTINF:-1,GLOBO RJ (BR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/8296
+#EXTINF:-1,GLOBO SP (BR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/26278
+#EXTINF:-1,RECORD (NA)
+http://66.northerniptv.ca:8000/burke2020/2020burke/455
+#EXTINF:-1,RECORD AMAZONAS (BR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/81732
+#EXTINF:-1,RECORD NEWS (BR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/81720
+#EXTINF:-1,BAND NEWS (BR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/8011
+#EXTINF:-1,SPORTV 1 (BR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/7978
+#EXTINF:-1,SPORTV 2 (BR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/7977
+#EXTINF:-1,SPORTV 3 (BR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/7976
+#EXTINF:-1,ESPN (BR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/7972
+#EXTINF:-1,ESPN 2 (BR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72804
+#EXTINF:-1,ESPN BRASIL (BR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/7973
+#EXTINF:-1,CANAL BRASIL (BR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/8052
+#EXTINF:-1,MULTISHOW (BR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/94680
+#EXTINF:-1,HRT 1 (HR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/8758
+#EXTINF:-1,HRT 2 (HR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/8745
+#EXTINF:-1,HRT 3 (HR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/8744
+#EXTINF:-1,HRT 4 (HR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/8754
+#EXTINF:-1,HRT 5 (HR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/8756
+#EXTINF:-1,CMC TV (HR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/8759
+#EXTINF:-1,RTL 1 (HR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/81384
+#EXTINF:-1,RTL 2 (HR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/81385
+#EXTINF:-1,ARENA SPORTS 1 (HR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/81386
+#EXTINF:-1,ARENA SPORTS 2 (HR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/81387
+#EXTINF:-1,ARENA SPORTS 3 (HR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/81388
+#EXTINF:-1,ARENA SPORTS 4 (HR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/40958
+#EXTINF:-1,ARENA SPORTS 5 (HR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/40957
+#EXTINF:-1,PINK (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/40956
+#EXTINF:-1,PINK 2 (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/40955
+#EXTINF:-1,PINK 3 (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/40954
+#EXTINF:-1,PINK ACTION (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6120
+#EXTINF:-1,PINK CLASSIC (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77474
+#EXTINF:-1,PINK COMEDY (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6119
+#EXTINF:-1,PINK CRIME & MYSTERY (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6180
+#EXTINF:-1,PINK EXTRA (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6179
+#EXTINF:-1,PINK FAMILY (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6221
+#EXTINF:-1,PINK FILM (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6172
+#EXTINF:-1,PINK FOLK 1 (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6177
+#EXTINF:-1,PINK FOLK 2 (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6173
+#EXTINF:-1,PINK HAHA (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6226
+#EXTINF:-1,PINK HITS (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6167
+#EXTINF:-1,PINK HORROR (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6174
+#EXTINF:-1,PINK KIDS (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6211
+#EXTINF:-1,PINK KUVAR (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6183
+#EXTINF:-1,PINK M (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77314
+#EXTINF:-1,PINK MOVIES (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6220
+#EXTINF:-1,PINK MUSIC (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6225
+#EXTINF:-1,PINK MUSIC 2 (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6210
+#EXTINF:-1,PINK PANTHER (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77472
+#EXTINF:-1,PINK PEDIA (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6251
+#EXTINF:-1,PINK PLUS (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6235
+#EXTINF:-1,PINK PREMIUM (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6234
+#EXTINF:-1,PINK REALITY (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6233
+#EXTINF:-1,PINK ROMANCE (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6232
+#EXTINF:-1,PINK SCI-FI & FANTASY (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6219
+#EXTINF:-1,PINK SERIJE (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6213
+#EXTINF:-1,PINK SHOW (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6223
+#EXTINF:-1,PINK SOAP (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77478
+#EXTINF:-1,PINK STYLE (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6222
+#EXTINF:-1,PINK THRILLER (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6191
+#EXTINF:-1,PINK WESTERN (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6217
+#EXTINF:-1,PINK WORLD (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77469
+#EXTINF:-1,PINK WORLD CINEMA (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77477
+#EXTINF:-1,PINK ZABAVA (RS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77475
+#EXTINF:-1,24 VESTI (MK)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6814
+#EXTINF:-1,KANAL 5 (MK)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6227
+#EXTINF:-1,KANAL 5 PLUS (MK)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6228
+#EXTINF:-1,KANAL 21 (MK)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10124
+#EXTINF:-1,MRT 1 (MK)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77479
+#EXTINF:-1,MRT 2 (MK)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77473
+#EXTINF:-1,SITEL 1 (MK)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77476
+#EXTINF:-1,SITEL 2 (MK)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77470
+#EXTINF:-1,SITEL 3 (MK)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77471
+#EXTINF:-1,ALPHA (MK)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6229
+#EXTINF:-1,NOVA TV (MK)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6209
+#EXTINF:-1,ERA TV (MK)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6214
+#EXTINF:-1,FOLK TV (MK)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6215
+#EXTINF:-1,PINK LOL (MK)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77318
+#EXTINF:-1,SKY FOLK (MK)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6216
+#EXTINF:-1,TELMA (MK)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6230
+#EXTINF:-1,TOP HD (AL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6266
+#EXTINF:-1,KTV (AL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/84181
+#EXTINF:-1,KLAN (AL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6264
+#EXTINF:-1,VIZION PLUS (AL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6267
+#EXTINF:-1,NEWS 24 (AL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10231
+#EXTINF:-1,TRING SHAQIP (AL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6804
+#EXTINF:-1,TRING JULLY (AL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6739
+#EXTINF:-1,TRING FANTASY (AL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/8753
+#EXTINF:-1,TRING SUPER (AL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/8755
+#EXTINF:-1,TRING COMEDY (AL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6265
+#EXTINF:-1,TRING LIFE (AL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6806
+#EXTINF:-1,TRING SMILE (AL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/8738
+#EXTINF:-1,TRING TRING (AL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6212
+#EXTINF:-1,TRING SPORT 1 (AL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6218
+#EXTINF:-1,TRING SPORT 2 (AL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/8737
+#EXTINF:-1,TRING SPORT 3 (AL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/84179
+#EXTINF:-1,TRING SPORT 4 (AL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/84180
+#EXTINF:-1,TORONTO 1 LIVE (1)
+http://66.northerniptv.ca:8000/burke2020/2020burke/88838
+#EXTINF:-1,TORONTO 1 LIVE (2)
+http://66.northerniptv.ca:8000/burke2020/2020burke/88839
+#EXTINF:-1,TORONTO 1 LIVE (3)
+http://66.northerniptv.ca:8000/burke2020/2020burke/88840
+#EXTINF:-1,TORONTO 1 LIVE (4)
+http://66.northerniptv.ca:8000/burke2020/2020burke/88841
+#EXTINF:-1,TORONTO 1 LIVE (5)
+http://66.northerniptv.ca:8000/burke2020/2020burke/88842
+#EXTINF:-1,WIN TV HD
+http://66.northerniptv.ca:8000/burke2020/2020burke/88919
+#EXTINF:-1,CEEN TV HD
+http://66.northerniptv.ca:8000/burke2020/2020burke/88918
+#EXTINF:-1,FEVA TV HD
+http://66.northerniptv.ca:8000/burke2020/2020burke/88920
+#EXTINF:-1,ONE CARIBBEAN TV
+http://66.northerniptv.ca:8000/burke2020/2020burke/84201
+#EXTINF:-1,THM CANADA
+http://66.northerniptv.ca:8000/burke2020/2020burke/84204
+#EXTINF:-1,CABLE 12 BAHAMAS
+http://66.northerniptv.ca:8000/burke2020/2020burke/86273
+#EXTINF:-1,CARIBVISION BARBADOS
+http://66.northerniptv.ca:8000/burke2020/2020burke/84230
+#EXTINF:-1,CVM
+http://66.northerniptv.ca:8000/burke2020/2020burke/84210
+#EXTINF:-1,HOPE TV
+http://66.northerniptv.ca:8000/burke2020/2020burke/84211
+#EXTINF:-1,TV CARIB
+http://66.northerniptv.ca:8000/burke2020/2020burke/84216
+#EXTINF:-1,TELE MIX
+http://66.northerniptv.ca:8000/burke2020/2020burke/4800
+#EXTINF:-1,TELE ARUBA
+http://66.northerniptv.ca:8000/burke2020/2020burke/84225
+#EXTINF:-1,PARLIAMENT BAHAMAS
+http://66.northerniptv.ca:8000/burke2020/2020burke/84228
+#EXTINF:-1,ZNS BAHAMAS
+http://66.northerniptv.ca:8000/burke2020/2020burke/84229
+#EXTINF:-1,CBC TV8 BARBADOS
+http://66.northerniptv.ca:8000/burke2020/2020burke/84231
+#EXTINF:-1,NOS PAIS
+http://66.northerniptv.ca:8000/burke2020/2020burke/84214
+#EXTINF:-1,SUPER TV 55 DOM REP
+http://66.northerniptv.ca:8000/burke2020/2020burke/84235
+#EXTINF:-1,MAIMON TV DOM REP
+http://66.northerniptv.ca:8000/burke2020/2020burke/84238
+#EXTINF:-1,RNN DOM REP
+http://66.northerniptv.ca:8000/burke2020/2020burke/84240
+#EXTINF:-1,GBN GRENADA
+http://66.northerniptv.ca:8000/burke2020/2020burke/84241
+#EXTINF:-1,FAMILY NETWORK GRENADA
+http://66.northerniptv.ca:8000/burke2020/2020burke/84242
+#EXTINF:-1,CNS6 GUYANA
+http://66.northerniptv.ca:8000/burke2020/2020burke/84243
+#EXTINF:-1,TVG28 GUYANA
+http://66.northerniptv.ca:8000/burke2020/2020burke/84245
+#EXTINF:-1,OPA TV HAITI
+http://66.northerniptv.ca:8000/burke2020/2020burke/84247
+#EXTINF:-1,CANAL 11 HONDURAS
+http://66.northerniptv.ca:8000/burke2020/2020burke/84248
+#EXTINF:-1,BASHMENT 2 JAMAICA
+http://66.northerniptv.ca:8000/burke2020/2020burke/84249
+#EXTINF:-1,CVM JAMAICA
+http://66.northerniptv.ca:8000/burke2020/2020burke/84250
+#EXTINF:-1,HYPE TV JAMAICA
+http://66.northerniptv.ca:8000/burke2020/2020burke/84252
+#EXTINF:-1,JAM VISION JAMAICA
+http://66.northerniptv.ca:8000/burke2020/2020burke/84264
+#EXTINF:-1,MELLO TV JAMAICA
+http://66.northerniptv.ca:8000/burke2020/2020burke/84255
+#EXTINF:-1,MTM JAMAICA
+http://66.northerniptv.ca:8000/burke2020/2020burke/84254
+#EXTINF:-1,RE TV JAMAICA
+http://66.northerniptv.ca:8000/burke2020/2020burke/84256
+#EXTINF:-1,SPORTSMAX 1 JAMAICA
+http://66.northerniptv.ca:8000/burke2020/2020burke/84257
+#EXTINF:-1,SPORTSMAX 2 JAMAICA
+http://66.northerniptv.ca:8000/burke2020/2020burke/84258
+#EXTINF:-1,SPORTSMAX CRICKET JAMAICA
+http://66.northerniptv.ca:8000/burke2020/2020burke/84259
+#EXTINF:-1,SPORTSMAX PLUS JAMAICA
+http://66.northerniptv.ca:8000/burke2020/2020burke/84260
+#EXTINF:-1,TVJ JAMAICA
+http://66.northerniptv.ca:8000/burke2020/2020burke/84261
+#EXTINF:-1,TVJ SPORTS JAMAICA
+http://66.northerniptv.ca:8000/burke2020/2020burke/84262
+#EXTINF:-1,NEVIS TV NEVIS
+http://66.northerniptv.ca:8000/burke2020/2020burke/84266
+#EXTINF:-1,WSVI TV ST CROIX
+http://66.northerniptv.ca:8000/burke2020/2020burke/84267
+#EXTINF:-1,TIN TV TRINIDAD
+http://66.northerniptv.ca:8000/burke2020/2020burke/84272
+#EXTINF:-1,TRINITY TV TRINIDAD
+http://66.northerniptv.ca:8000/burke2020/2020burke/84273
+#EXTINF:-1,TTEN TV TRINIDAD
+http://66.northerniptv.ca:8000/burke2020/2020burke/84274
+#EXTINF:-1,POWER 106 RADIO
+http://66.northerniptv.ca:8000/burke2020/2020burke/84276
+#EXTINF:-1,RJR 94 RADIO
+http://66.northerniptv.ca:8000/burke2020/2020burke/84278
+#EXTINF:-1,FAME 95 RADIO
+http://66.northerniptv.ca:8000/burke2020/2020burke/84279
+#EXTINF:-1,HITZ 92 RADIO
+http://66.northerniptv.ca:8000/burke2020/2020burke/84280
+#EXTINF:-1,99 MUSIC RADIO
+http://66.northerniptv.ca:8000/burke2020/2020burke/84277
+#EXTINF:-1,MEDIASET (NA)
+http://66.northerniptv.ca:8000/burke2020/2020burke/452
+#EXTINF:-1,TLN HD (NA) - NEW
+http://66.northerniptv.ca:8000/burke2020/2020burke/453
+#EXTINF:-1,RAI (CDN) - NEW
+http://66.northerniptv.ca:8000/burke2020/2020burke/66071
+#EXTINF:-1,RAI NEWS 24 (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/8587
+#EXTINF:-1,RAI 1 HD (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6040
+#EXTINF:-1,RAI 2 HD (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6039
+#EXTINF:-1,RAI 3 HD (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6038
+#EXTINF:-1,RAI 4 HD (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6037
+#EXTINF:-1,RAI 5 (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6036
+#EXTINF:-1,RAI MOVIE 1 (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6024
+#EXTINF:-1,RAI SPORT 1 (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5966
+#EXTINF:-1,RAI SCUOLA (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6034
+#EXTINF:-1,RAI YOYO (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5971
+#EXTINF:-1,RETE 4 (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/79802
+#EXTINF:-1,SKY CINEMA 1 (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5969
+#EXTINF:-1,SKY CINEMA COMEDY (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5970
+#EXTINF:-1,SKY CINEMA FAMILY (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5965
+#EXTINF:-1,SKY SPORT 1 (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6013
+#EXTINF:-1,SKY SPORT 2 (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6033
+#EXTINF:-1,SKY SPORT 24 (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/79804
+#EXTINF:-1,SKY SPORT 3 (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5990
+#EXTINF:-1,SKY TG24 (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/79805
+#EXTINF:-1,TGCOM 24 (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/79803
+#EXTINF:-1,NAT GEO (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6006
+#EXTINF:-1,MEDIASET 20 (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6003
+#EXTINF:-1,MEDIASET EXTRA (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6035
+#EXTINF:-1,LA5 (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6028
+#EXTINF:-1,LA7D (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6029
+#EXTINF:-1,ITALIA 1 (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6031
+#EXTINF:-1,ITALIA 2 (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/79809
+#EXTINF:-1,IRIS 1 (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77199
+#EXTINF:-1,EMOTION (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77196
+#EXTINF:-1,FOX LIFE (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77195
+#EXTINF:-1,PREMIUM ACTION (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/84084
+#EXTINF:-1,PREMIUM CINEMA (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/78379
+#EXTINF:-1,PREMIUM COMEDY (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77194
+#EXTINF:-1,PREMIUM STORIES (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/77201
+#EXTINF:-1,SPORTITALIA (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6020
+#EXTINF:-1,SUPERTENNIS (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6009
+#EXTINF:-1,CARTOONITO (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/84085
+#EXTINF:-1,CANALE 5 (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/84086
+#EXTINF:-1,BOING (IT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/84087
+#EXTINF:-1,RTN (NA) (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/68749
+#EXTINF:-1,C1R (NA) (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/27153
+#EXTINF:-1,NTV (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/27152
+#EXTINF:-1,24техно (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64019
+#EXTINF:-1,RTVI (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64016
+#EXTINF:-1,ROSSIYA 1 (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64015
+#EXTINF:-1,360 (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64014
+#EXTINF:-1,8 KANAL (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/67987
+#EXTINF:-1,CINEMA (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/67982
+#EXTINF:-1,INVESTIGATION DISC (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/67981
+#EXTINF:-1,EXTREAM SPORTS (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/68001
+#EXTINF:-1,MATCH (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/67973
+#EXTINF:-1,MATCH ARENA (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/67958
+#EXTINF:-1,MATCH IGRA (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/67947
+#EXTINF:-1,MATH NASH (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/75791
+#EXTINF:-1,MIR (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/75790
+#EXTINF:-1,MIR 24 (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/75734
+#EXTINF:-1,A MEDIA HIT (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/75732
+#EXTINF:-1,A MEDIA PREMIUM (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/75830
+#EXTINF:-1,MOSKVA 24 (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/75733
+#EXTINF:-1,Авто24 (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/75824
+#EXTINF:-1,TV1000 (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/75827
+#EXTINF:-1,TV1000 ACTION (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/75826
+#EXTINF:-1,TV1000 Русскоекино (RU)
+http://66.northerniptv.ca:8000/burke2020/2020burke/75825
+#EXTINF:-1,NBC SPORTS HD
+http://66.northerniptv.ca:8000/burke2020/2020burke/81965
+#EXTINF:-1,CHANNEL 20 (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6061
+#EXTINF:-1,HOT 3 (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6076
+#EXTINF:-1,BABY TV (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65912
+#EXTINF:-1,FOOD NETWORK (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65907
+#EXTINF:-1,FOODY (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65888
+#EXTINF:-1,HERO! (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65886
+#EXTINF:-1,HIDABROOT (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6057
+#EXTINF:-1,HOME PLUS (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65940
+#EXTINF:-1,HOP YALDUT (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/55376
+#EXTINF:-1,HOT ACTION (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/55377
+#EXTINF:-1,HOT DRAMA (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65922
+#EXTINF:-1,HOT ENTERTAINMENT (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65905
+#EXTINF:-1,HOT FUN (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65911
+#EXTINF:-1,HOT GOLD (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65921
+#EXTINF:-1,HOT HBO (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65924
+#EXTINF:-1,HOT ZONE (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65919
+#EXTINF:-1,KAN 11 (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65943
+#EXTINF:-1,LOGI (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65890
+#EXTINF:-1,NICK JR (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65941
+#EXTINF:-1,RESHET 13 (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65944
+#EXTINF:-1,SPORT 1 (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65927
+#EXTINF:-1,SPORT 2 (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65928
+#EXTINF:-1,SPORT 4 (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65926
+#EXTINF:-1,SPORT 4 (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/81632
+#EXTINF:-1,SPORT 5 GOLD (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65896
+#EXTINF:-1,SPORT 5 LIVE (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6082
+#EXTINF:-1,SPORT 5 PLUS (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65897
+#EXTINF:-1,SPORT 5 STARS (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65939
+#EXTINF:-1,TRAVEL CHANNEL (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6084
+#EXTINF:-1,VIVA (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65900
+#EXTINF:-1,VIVA+ (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65904
+#EXTINF:-1,YAM TICHONI (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65898
+#EXTINF:-1,YELADIM (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65893
+#EXTINF:-1,YES 3 (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/81633
+#EXTINF:-1,YES ACTION (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65934
+#EXTINF:-1,YES HOP  (IL)
+http://66.northerniptv.ca:8000/burke2020/2020burke/6067
+#EXTINF:-1,1TV AFGHAN (AFG)
+http://66.northerniptv.ca:8000/burke2020/2020burke/26343
+#EXTINF:-1,AFGHANISTAN (AFG)
+http://66.northerniptv.ca:8000/burke2020/2020burke/26345
+#EXTINF:-1,AMC TV (AFG)
+http://66.northerniptv.ca:8000/burke2020/2020burke/26344
+#EXTINF:-1,AREZO TV (AFG)
+http://66.northerniptv.ca:8000/burke2020/2020burke/26346
+#EXTINF:-1,ATN AFGHAN (AFG)
+http://66.northerniptv.ca:8000/burke2020/2020burke/48869
+#EXTINF:-1,ATN NEWS (AFG)
+http://66.northerniptv.ca:8000/burke2020/2020burke/48868
+#EXTINF:-1,ATV AYNA (AFG)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4261
+#EXTINF:-1,BATUR (AFG)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4246
+#EXTINF:-1,HEWAD TV (AFG)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4258
+#EXTINF:-1,JAHAN NUMA (AFG)
+http://66.northerniptv.ca:8000/burke2020/2020burke/26363
+#EXTINF:-1,LEMAR (AFG)
+http://66.northerniptv.ca:8000/burke2020/2020burke/26357
+#EXTINF:-1,KHURSHID (AFG)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4252
+#EXTINF:-1,NOOR TV (AFG)
+http://66.northerniptv.ca:8000/burke2020/2020burke/26349
+#EXTINF:-1,RAHE FARDA (AFG)
+http://66.northerniptv.ca:8000/burke2020/2020burke/26351
+#EXTINF:-1,SHAMSHAD TV (AFG)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4253
+#EXTINF:-1,TAMADON (AFG)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4250
+#EXTINF:-1,TOLO NEWS (AFG)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4245
+#EXTINF:-1,TOLO TV (AFG)
+http://66.northerniptv.ca:8000/burke2020/2020burke/4244
+#EXTINF:-1,ZHWANDOON TV (AFG)
+http://66.northerniptv.ca:8000/burke2020/2020burke/26352
+#EXTINF:-1,WBBH-TV FORT MYERS (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82649
+#EXTINF:-1,WMFP BOSTON (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82626
+#EXTINF:-1,WCVB-TV BOSTON (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64894
+#EXTINF:-1,WBZ-TV BOSTON (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64849
+#EXTINF:-1,WFXT BOSTON (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64824
+#EXTINF:-1,WMAQ-TV CHICAGO (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82628
+#EXTINF:-1,WLS-TV CHICAGO (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64887
+#EXTINF:-1,WBBM-TV CHICAGO (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82550
+#EXTINF:-1,WNBC NEW YORK (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82624
+#EXTINF:-1,WABC-TV NEW YORK (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82699
+#EXTINF:-1,WNBC NEW YORK CITY (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65030
+#EXTINF:-1,WCBS-TV NEW YORK CITY (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65029
+#EXTINF:-1,WNYW NEW YORK CITY (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65027
+#EXTINF:-1,WCAU PHILADELPHIA (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82646
+#EXTINF:-1,WPVI-TV PHILADELPHIA (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64884
+#EXTINF:-1,KYW-TV PHILADELPHIA (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82554
+#EXTINF:-1,WTXF-TV PHILADELPHIA (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64815
+#EXTINF:-1,KDKA-TV PITTSBURGH (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65048
+#EXTINF:-1,WPGH-TV PITTSBURGH (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65047
+#EXTINF:-1,WPXI PITTSBURGH (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64910
+#EXTINF:-1,WTAE-TV PITTSBURGH (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65049
+#EXTINF:-1,WRC-TV WASHINGTON D.C. (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64908
+#EXTINF:-1,WTTG WASHINGTON D.C. (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64817
+#EXTINF:-1,WUSA WASHINGTON D.C. (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64837
+#EXTINF:-1,WAGA-TV ATLANTA (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64826
+#EXTINF:-1,WGCL-TV ATLANTA (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64843
+#EXTINF:-1,WSB-TV ATLANTA (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82702
+#EXTINF:-1,WXIA-TV ATLANTA (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65007
+#EXTINF:-1,WESH ORLANDO (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64916
+#EXTINF:-1,WFTV ORLANDO (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64890
+#EXTINF:-1,WKMG-TV ORLANDO (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64841
+#EXTINF:-1,WOFL ORLANDO (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64821
+#EXTINF:-1,WBFS-TV MIAMI (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82549
+#EXTINF:-1,WFOR-TV MIAMI (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64845
+#EXTINF:-1,WPLG MIAMI (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64885
+#EXTINF:-1,WSVN MIAMI (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64803
+#EXTINF:-1,WTVJ MIAMI (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65013
+#EXTINF:-1,WBAL-TV BALTIMORE (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64920
+#EXTINF:-1,WJZ-TV BALTIMORE (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64842
+#EXTINF:-1,WMAR-TV BALTIMORE (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82703
+#EXTINF:-1,WITN-TV WASHINGTON (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82633
+#EXTINF:-1,WJLA-TV WASHINGTON (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82704
+#EXTINF:-1,KCPQ SEATTLE (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65008
+#EXTINF:-1,KING-TV SEATTLE (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64936
+#EXTINF:-1,KIRO-TV SEATTLE (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64854
+#EXTINF:-1,KOMO-TV SEATTLE (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64901
+#EXTINF:-1,WEWS-TV CLEVELAND (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64893
+#EXTINF:-1,WJW CLEVELAND (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65006
+#EXTINF:-1,WKYC CLEVELAND (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64913
+#EXTINF:-1,WOIO CLEVELAND (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64840
+#EXTINF:-1,KABC-TV LOS ANGELES (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82708
+#EXTINF:-1,KCAL-TV LOS ANGELES (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65036
+#EXTINF:-1,KCBS-TV LOS ANGELES (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64860
+#EXTINF:-1,KCOP-TV LOS ANGELES (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65031
+#EXTINF:-1,KGO-TV LOS ANGELES (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65033
+#EXTINF:-1,KNBC LOS ANGELES (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65035
+#EXTINF:-1,KTTV LOS ANGELES (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65032
+#EXTINF:-1,KGO-TV SAN FRANCISCO (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82707
+#EXTINF:-1,KPIX SAN FRANCISCO (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82562
+#EXTINF:-1,WDIV-TV DETROIT (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65037
+#EXTINF:-1,WJBK DETROIT (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64823
+#EXTINF:-1,WWJ-TV DETROIT (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64836
+#EXTINF:-1,WXYZ-TV DETROIT (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64879
+#EXTINF:-1,WGRZ BUFFALO (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64914
+#EXTINF:-1,WIVB-TV BUFFALO (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82533
+#EXTINF:-1,WUTV BUFFALO (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65044
+#EXTINF:-1,WFOX-TV JACKSONVILLE (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64804
+#EXTINF:-1,WJAX-TV JACKSONVILLE (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64805
+#EXTINF:-1,WTLV JACKSONVILLE (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82611
+#EXTINF:-1,WKRC CINCINNATI (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82528
+#EXTINF:-1,WLWT CINCINNATI (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82629
+#EXTINF:-1,WXIX-TV CINCINNATI (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64813
+#EXTINF:-1,WAVE LOUISVILLE (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82651
+#EXTINF:-1,WLKY LOUISVILLE (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65015
+#EXTINF:-1,KHOU HOUSTON (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64855
+#EXTINF:-1,KPRC-TV HOUSTON (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64927
+#EXTINF:-1,KRIV HOUSTON (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64831
+#EXTINF:-1,KTRK-TV HOUSTON (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64898
+#EXTINF:-1,KDFW DALLAS (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64834
+#EXTINF:-1,KTVT DALLAS (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64851
+#EXTINF:-1,KXAS-TV DALLAS (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64922
+#EXTINF:-1,WFAA DALLAS (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64892
+#EXTINF:-1,KARE MINNEAPOLIS (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64932
+#EXTINF:-1,KMSP-TV MINNEAPOLIS (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64833
+#EXTINF:-1,WCCO-TV MINNEAPOLIS (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64848
+#EXTINF:-1,KCTV KANSAS CITY (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64858
+#EXTINF:-1,KMBC-TV KANSAS CITY (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65026
+#EXTINF:-1,KSHB-TV KANSAS CITY (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64925
+#EXTINF:-1,WDAF-TV KANSAS CITY (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65025
+#EXTINF:-1,WFSB CONNECTICUT (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65039
+#EXTINF:-1,WVIT CONNECTICUT (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65038
+#EXTINF:-1,WRTV INDIANAPOLIS (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65042
+#EXTINF:-1,WTHR INDIANAPOLIS (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65040
+#EXTINF:-1,WXIN INDIANAPOLIS (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65041
+#EXTINF:-1,KDNL-TV ST. LOUIS (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65018
+#EXTINF:-1,KMOV ST. LOUIS (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65017
+#EXTINF:-1,KSDK ST. LOUIS (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64926
+#EXTINF:-1,KTVI ST. LOUIS (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65016
+#EXTINF:-1,WHBQ-TV MEMPHIS (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65023
+#EXTINF:-1,WMC-TV MEMPHIS (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65022
+#EXTINF:-1,WRAZ MEMPHIS (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65021
+#EXTINF:-1,KNXV-TV PHOENIX (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64902
+#EXTINF:-1,KPHO-TV PHOENIX (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64852
+#EXTINF:-1,KPNX PHOENIX (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64928
+#EXTINF:-1,KSAZ-TV PHOENIX (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64830
+#EXTINF:-1,WTSP TAMPA BAY (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64839
+#EXTINF:-1,WTVT TAMPA BAY (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64816
+#EXTINF:-1,WFSB HARTFORD (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64844
+#EXTINF:-1,WTNH HARTFORD (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64881
+#EXTINF:-1,WFRV-TV GREEN BAY (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82540
+#EXTINF:-1,WGBA-TV GREEN BAY (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64915
+#EXTINF:-1,KFMB-TV SAN DIEGO (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64856
+#EXTINF:-1,KGTV SAN DIEGO (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64904
+#EXTINF:-1,KNSD SAN DIEGO (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64930
+#EXTINF:-1,WCNC-TV CHARLOTTE (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64918
+#EXTINF:-1,WJZY CHARLOTTE (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64822
+#EXTINF:-1,WSOC-TV CHARLOTTE (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82701
+#EXTINF:-1,KARK-TV LITTLE ROCK (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82683
+#EXTINF:-1,KTHV LITTLE ROCK (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64944
+#EXTINF:-1,WBIR-TV KNOXVILLE (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82648
+#EXTINF:-1,WVLT-TV KNOXVILLE (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64987
+#EXTINF:-1,WFLA-TV TAMPA (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82638
+#EXTINF:-1,WFTS-TV TAMPA (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82705
+#EXTINF:-1,KSLA SHREVEPORT (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64993
+#EXTINF:-1,KTAL-TV SHREVEPORT (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82666
+#EXTINF:-1,WBNS-TV COLUMBUS (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82548
+#EXTINF:-1,WCBI-TV COLUMBUS (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82545
+#EXTINF:-1,WCMH-TV COLUMBUS (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82645
+#EXTINF:-1,WLTZ COLUMBUS (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82630
+#EXTINF:-1,KATU PORTLAND (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65010
+#EXTINF:-1,KGW PORTLAND (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64931
+#EXTINF:-1,KOIN PORTLAND (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82567
+#EXTINF:-1,WGME-TV PORTLAND (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82539
+#EXTINF:-1,WDSU NEW ORLEANS (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64917
+#EXTINF:-1,WVUE-DT NEW ORLEANS (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64814
+#EXTINF:-1,WWL-TV NEW ORLEANS (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65012
+#EXTINF:-1,KGMB HONOLULU (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64947
+#EXTINF:-1,KHNL HONOLULU (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82678
+#EXTINF:-1,KCNC-TV DENVER (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64859
+#EXTINF:-1,KDVR DENVER (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65009
+#EXTINF:-1,KMGH-TV DENVER (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64903
+#EXTINF:-1,KUSA DENVER (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82662
+#EXTINF:-1,KSL-TV SALT LAKE CITY (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64812
+#EXTINF:-1,KSTU SALT LAKE CITY (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65019
+#EXTINF:-1,KTVX SALT LAKE CITY (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64897
+#EXTINF:-1,KUTV SALT LAKE CITY (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65020
+#EXTINF:-1,WKRN NASHVILLE (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64888
+#EXTINF:-1,WSMV NASHVILLE (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64906
+#EXTINF:-1,WTVF NASHVILLE (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64838
+#EXTINF:-1,WDJT-TV MILWAUKEE (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64847
+#EXTINF:-1,WISN-TV MILWAUKEE (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64889
+#EXTINF:-1,WTMJ-TV MILWAUKEE (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82610
+#EXTINF:-1,KEYE-TV AUSTIN (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82577
+#EXTINF:-1,KTBC AUSTIN (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64829
+#EXTINF:-1,KXAN-TV AUSTIN (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82656
+#EXTINF:-1,KOLR SPRINGFIELD (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82564
+#EXTINF:-1,KYTV SPRINGFIELD (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82655
+#EXTINF:-1,WWLP SPRINGFIELD (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82606
+#EXTINF:-1,KCRA-TV SACRAMENTO (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64934
+#EXTINF:-1,KOVR SACRAMENTO (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64853
+#EXTINF:-1,KXTV SACRAMENTO (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64896
+#EXTINF:-1,KGPE-TV FRESNO (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82573
+#EXTINF:-1,KSEE FRESNO (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82668
+#EXTINF:-1,WJTV JACKSON (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82531
+#EXTINF:-1,WLBT JACKSON (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65043
+#EXTINF:-1,KDLT-TV SIOUX FALLS (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82681
+#EXTINF:-1,KELO-TV SIOUX FALLS (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82578
+#EXTINF:-1,WKYT-TV LEXINGTON (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82526
+#EXTINF:-1,WLEX-TV LEXINGTON (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82631
+#EXTINF:-1,KCCI DES MOINES (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82581
+#EXTINF:-1,KCEN-TV TEMPLE (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82682
+#EXTINF:-1,KCOY-TV SANTA MARIA (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82580
+#EXTINF:-1,KDBC-TV EL PASO (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82579
+#EXTINF:-1,KETK-TV TYLER (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82680
+#EXTINF:-1,KFVS-TV CAPE GIRARDEAU (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82576
+#EXTINF:-1,KGAN-TV CEDAR RAPIDS (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82575
+#EXTINF:-1,KGBT-TV HARLINGEN (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82574
+#EXTINF:-1,KGET-TV BAKERSFIELD (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82679
+#EXTINF:-1,KHQ-TV SPOKANE (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82677
+#EXTINF:-1,KIMA-TV YAKIMA (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82572
+#EXTINF:-1,KION-TV MONTEREY (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82571
+#EXTINF:-1,KJRH-TV TULSA (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82676
+#EXTINF:-1,KKTV COLORADO SPRINGS (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82570
+#EXTINF:-1,KLAS-TV LAS VEGAS (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82569
+#EXTINF:-1,KLFY-TV LAFAYETTE (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82568
+#EXTINF:-1,KMTV-TV OMAHA (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64983
+#EXTINF:-1,KNDO YAKIMA (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82675
+#EXTINF:-1,KNTV SAN JOSE (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82674
+#EXTINF:-1,KOAA-TV PUEBLO (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82673
+#EXTINF:-1,KOB ALBUQUERQUE (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82672
+#EXTINF:-1,KOLD-TV TUCSON (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82566
+#EXTINF:-1,KOLN LINCOLN (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82565
+#EXTINF:-1,KOTV OKLAHOMA (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82563
+#EXTINF:-1,KREM SPOKANE (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82561
+#EXTINF:-1,KRIS-TV CORPUS CHRISTI (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82671
+#EXTINF:-1,KRQEDT ALBUQUERQUE (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82560
+#EXTINF:-1,KSASPORTS1 (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72711
+#EXTINF:-1,KSASPORTS2 (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72710
+#EXTINF:-1,KSAT-TV SAN ANTONIO (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64900
+#EXTINF:-1,KSBW SALINAS (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82670
+#EXTINF:-1,KSBY SAN LUIS OBISPO (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82669
+#EXTINF:-1,KSNB SUPERIOR (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82667
+#EXTINF:-1,KSTP-TV SAINT PAUL (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82706
+#EXTINF:-1,KTIV SIOUXLAND (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82665
+#EXTINF:-1,KTSM-TV EL PASO (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82664
+#EXTINF:-1,KTVB BOISE (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82663
+#EXTINF:-1,KTVN RENO (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64938
+#EXTINF:-1,KTXA FORTH WORTH (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82559
+#EXTINF:-1,KVAL EUGENE (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82558
+#EXTINF:-1,KVEO-TV BROWNSVILLE (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82661
+#EXTINF:-1,KVLY-TV FARGO (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82660
+#EXTINF:-1,KVOA TUCSON (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82659
+#EXTINF:-1,KWCH WICHITA (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82557
+#EXTINF:-1,KWQC-TV DAVENPORT (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82658
+#EXTINF:-1,KWTV OKLAHOMA CITY (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82556
+#EXTINF:-1,KWTX-TV WACO (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82555
+#EXTINF:-1,KWWL WATERLOO (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82657
+#EXTINF:-1,KZTV CORPUS CHRISTI (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82553
+#EXTINF:-1,WAFF HUNTSVILLE (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82654
+#EXTINF:-1,WAGT AUGUSTA (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82653
+#EXTINF:-1,WAND DECATUR (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82652
+#EXTINF:-1,WIS COLUMBIA (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82634
+#EXTINF:-1,WAVY-TV PORTSMOUTH (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82650
+#EXTINF:-1,WBRE-TV WILKES-BARRE (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82647
+#EXTINF:-1,WBTW FLORENCE (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82547
+#EXTINF:-1,WCAX-TV BURLINGTON (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82546
+#EXTINF:-1,WCIA CHAMPAIGN (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82544
+#EXTINF:-1,WCSC-TV CHARLESTON (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82543
+#EXTINF:-1,WCSH MAINE (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82644
+#EXTINF:-1,WDBJ ROANOKE (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82542
+#EXTINF:-1,WDEF-TV CHATTANOOGA (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82541
+#EXTINF:-1,WDTN DAYTON (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82643
+#EXTINF:-1,WEAU EAU CLAIRE (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82642
+#EXTINF:-1,WECT CAPE FEAR (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82641
+#EXTINF:-1,WEEK-TV PEORIA (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82640
+#EXTINF:-1,WFIE EVANSVILLE (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82639
+#EXTINF:-1,WFMJ-TV YOUNGSTOWN (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82637
+#EXTINF:-1,WFMY-TV GREENSBORO (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64846
+#EXTINF:-1,WGAL LANCASTER (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82636
+#EXTINF:-1,WHBF-TV ROCK ISLAND (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82538
+#EXTINF:-1,WHEC-TV ROCHESTER (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65050
+#EXTINF:-1,WHIO-TV DAYTON (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82537
+#EXTINF:-1,WHP-TV HARRISBURG (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82536
+#EXTINF:-1,WIAT BIRMINGHAM (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82535
+#EXTINF:-1,WILX-TV LANSING (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82635
+#EXTINF:-1,WISC-TV MADISON (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82534
+#EXTINF:-1,WJHG-TV PANAMA CITY (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82632
+#EXTINF:-1,WJHL-TV JOHNSON CITY (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82532
+#EXTINF:-1,WKBN-TV YOUNGSTOWN (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82530
+#EXTINF:-1,WKBT LA CROSSE (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82529
+#EXTINF:-1,WKRG-TV MOBILE (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82527
+#EXTINF:-1,WLNS-TV LANSING (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82525
+#EXTINF:-1,WLNY-TV RIVERHEAD (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82524
+#EXTINF:-1,WLTX COLUMBIA (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82523
+#EXTINF:-1,WMBD-TV PEORIA (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82522
+#EXTINF:-1,WMBF-TV MYRTLE BEACH (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82627
+#EXTINF:-1,WMTV MADISON (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82625
+#EXTINF:-1,WNCN GOLDSBORO (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82521
+#EXTINF:-1,WNCT-TV GREENVILLE (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82520
+#EXTINF:-1,WNDU-TV SOUTH BEND (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82623
+#EXTINF:-1,WNEM-TV BAY CITY (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82519
+#EXTINF:-1,WNYT ALBANY (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82622
+#EXTINF:-1,WOGX GAINESVILLE (FOX)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64820
+#EXTINF:-1,WOOD-TV GRAND RAPIDS (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82621
+#EXTINF:-1,WOWK-TV HUNTINGTON (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82518
+#EXTINF:-1,WOWT OMAHA (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82620
+#EXTINF:-1,WPEC WEST PALM BEACH (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64941
+#EXTINF:-1,WPRI-TV PROVIDENCE (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82517
+#EXTINF:-1,WPSD-TV PADUCAH (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82619
+#EXTINF:-1,WPTA FORT WAYNE (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82618
+#EXTINF:-1,WPTV-TV WEST PALM BEACH (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82617
+#EXTINF:-1,WPTZ PLATTSBURGH (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82616
+#EXTINF:-1,WRAL-TV RALEIGH (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64909
+#EXTINF:-1,WRDW-TV AUGUSTA (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82516
+#EXTINF:-1,WRGB SCHENECTADY (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82515
+#EXTINF:-1,WSAV-TV SAVANNAH (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82615
+#EXTINF:-1,WSAZ-TV HUNTINGTON (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82614
+#EXTINF:-1,WSBK-TV BOSTON (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82514
+#EXTINF:-1,WSFA MONTGOMERY (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82613
+#EXTINF:-1,WSLS-TV ROANOKE (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82612
+#EXTINF:-1,WSPA GREENVILLE (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82513
+#EXTINF:-1,WTAJ-TV ALTOONA (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82512
+#EXTINF:-1,WTNH NEW HAVEN (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64982
+#EXTINF:-1,WTOC-TV SAVANNAH (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64943
+#EXTINF:-1,WTOL TOLEDO (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82511
+#EXTINF:-1,WTVD DURHAM (ABC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82700
+#EXTINF:-1,WTVF TENNESSEE (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82510
+#EXTINF:-1,WTVH SYRACUSE (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82509
+#EXTINF:-1,WVTM-TV BIRMINGHAM (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82609
+#EXTINF:-1,WVVA BLUEFIELD (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82608
+#EXTINF:-1,WWAY WILMINGTON (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82508
+#EXTINF:-1,WWBT RICHMOND (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82607
+#EXTINF:-1,WWMT KALAMAZOO (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/64937
+#EXTINF:-1,WWTV CADILLAC (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82507
+#EXTINF:-1,WXII-TV WINSTON-SALEM (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82605
+#EXTINF:-1,WYFF GREENVILLE (NBC)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82604
+#EXTINF:-1,WYOU SCRANTON (CBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82506
+#EXTINF:-1,NBC SPORTS BAY AREA
+http://66.northerniptv.ca:8000/burke2020/2020burke/65066
+#EXTINF:-1,NBC SPORTS CALIFORNIA
+http://66.northerniptv.ca:8000/burke2020/2020burke/64809
+#EXTINF:-1,NBC SPORTS CALIFORNIA PLUS
+http://66.northerniptv.ca:8000/burke2020/2020burke/64806
+#EXTINF:-1,NBC SPORTS CHICAGO
+http://66.northerniptv.ca:8000/burke2020/2020burke/64878
+#EXTINF:-1,NBC SPORTS CHICAGO PLUS
+http://66.northerniptv.ca:8000/burke2020/2020burke/65065
+#EXTINF:-1,NBC SPORTS NETWORK
+http://66.northerniptv.ca:8000/burke2020/2020burke/64876
+#EXTINF:-1,NBC SPORTS NEW ENGLAND
+http://66.northerniptv.ca:8000/burke2020/2020burke/64877
+#EXTINF:-1,NBC SPORTS NORTHWEST
+http://66.northerniptv.ca:8000/burke2020/2020burke/64808
+#EXTINF:-1,NBC SPORTS PHILADELPHIA PLUS
+http://66.northerniptv.ca:8000/burke2020/2020burke/64875
+#EXTINF:-1,NBC SPORTS WASHINGTON
+http://66.northerniptv.ca:8000/burke2020/2020burke/64807
+#EXTINF:-1,FOX SPORTS ARIZONA
+http://66.northerniptv.ca:8000/burke2020/2020burke/64862
+#EXTINF:-1,FOX SPORTS DETROIT
+http://66.northerniptv.ca:8000/burke2020/2020burke/64863
+#EXTINF:-1,FOX SPORTS FLORIDA
+http://66.northerniptv.ca:8000/burke2020/2020burke/65060
+#EXTINF:-1,FOX SPORTS MIDWEST
+http://66.northerniptv.ca:8000/burke2020/2020burke/64864
+#EXTINF:-1,FOX SPORTS NORTH
+http://66.northerniptv.ca:8000/burke2020/2020burke/64865
+#EXTINF:-1,FOX SPORTS OHIO
+http://66.northerniptv.ca:8000/burke2020/2020burke/64866
+#EXTINF:-1,FOX SPORTS PRIME TICKET
+http://66.northerniptv.ca:8000/burke2020/2020burke/64867
+#EXTINF:-1,FOX SPORTS SAN DIEGO
+http://66.northerniptv.ca:8000/burke2020/2020burke/64868
+#EXTINF:-1,FOX SPORTS SOUTH
+http://66.northerniptv.ca:8000/burke2020/2020burke/64869
+#EXTINF:-1,FOX SPORTS SOUTHEAST
+http://66.northerniptv.ca:8000/burke2020/2020burke/64870
+#EXTINF:-1,FOX SPORTS SOUTHWEST
+http://66.northerniptv.ca:8000/burke2020/2020burke/64872
+#EXTINF:-1,FOX SPORTS SOUTHWEST PLUS
+http://66.northerniptv.ca:8000/burke2020/2020burke/64871
+#EXTINF:-1,FOX SPORTS SPORTSTIME OHIO
+http://66.northerniptv.ca:8000/burke2020/2020burke/65054
+#EXTINF:-1,FOX SPORTS SUN
+http://66.northerniptv.ca:8000/burke2020/2020burke/65053
+#EXTINF:-1,FOX SPORTS TENNESSEE
+http://66.northerniptv.ca:8000/burke2020/2020burke/65052
+#EXTINF:-1,FOX SPORTS WEST
+http://66.northerniptv.ca:8000/burke2020/2020burke/64873
+#EXTINF:-1,FOX SPORTS WISCONSIN
+http://66.northerniptv.ca:8000/burke2020/2020burke/64874
+#EXTINF:-1,FOX SPORTS YES
+http://66.northerniptv.ca:8000/burke2020/2020burke/64861
+#EXTINF:-1,LANAplus (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/69316
+#EXTINF:-1,LANATV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72665
+#EXTINF:-1,LBCHD (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5328
+#EXTINF:-1,LBCSAT (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5400
+#EXTINF:-1,LDC (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5394
+#EXTINF:-1,LIBYA218 (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5539
+#EXTINF:-1,LIBYAALHADATH (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72720
+#EXTINF:-1,LibyaAlhrar (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5610
+#EXTINF:-1,LIBYAALWATNYAH (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5661
+#EXTINF:-1,LibyaPanoramaTV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/69298
+#EXTINF:-1,LIBYARSMIACh (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5523
+#EXTINF:-1,LIBYASCHANNEL (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5522
+#EXTINF:-1,LogosTV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5447
+#EXTINF:-1,LORESTAN TV (IRN)
+http://66.northerniptv.ca:8000/burke2020/2020burke/43409
+#EXTINF:-1,MaanTV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/69294
+#EXTINF:-1,MAJESTICCINEMA (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5552
+#EXTINF:-1,MAN VS WILD 24X7 - NEW
+http://66.northerniptv.ca:8000/burke2020/2020burke/8091
+#EXTINF:-1,MANAR (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5578
+#EXTINF:-1,MANOTO (IRN)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10280
+#EXTINF:-1,MariamTV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5530
+#EXTINF:-1,MARRIED WITH CHILDREN 24X7
+http://66.northerniptv.ca:8000/burke2020/2020burke/6582
+#EXTINF:-1,MasperoZaman (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5708
+#EXTINF:-1,MAZANDARAN TV (IRN)
+http://66.northerniptv.ca:8000/burke2020/2020burke/43412
+#EXTINF:-1,MAZAZIKH (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72649
+#EXTINF:-1,Mazzika (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/69291
+#EXTINF:-1,MBC IRAQ (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/69065
+#EXTINF:-1,MBC1 (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5514
+#EXTINF:-1,MBC2 (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5837
+#EXTINF:-1,MBC3 (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5512
+#EXTINF:-1,MBC4 (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5511
+#EXTINF:-1,MBCAction (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5510
+#EXTINF:-1,MBCBollywood (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5507
+#EXTINF:-1,MBCDrama (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5509
+#EXTINF:-1,MBCMaser (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5505
+#EXTINF:-1,MBCMAX (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5508
+#EXTINF:-1,MCINEMA (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72642
+#EXTINF:-1,MClassic (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5528
+#EXTINF:-1,Mecca (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5529
+#EXTINF:-1,Medi1TV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5369
+#EXTINF:-1,Mehwer (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5408
+#EXTINF:-1,MEKAMELEENTV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5348
+#EXTINF:-1,MELLO TV (JAMAICA)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82908
+#EXTINF:-1,MESat (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5392
+#EXTINF:-1,MICKEYCHANNEL (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5591
+#EXTINF:-1,MIRACLE TV - NEW
+http://66.northerniptv.ca:8000/burke2020/2020burke/46721
+#EXTINF:-1,MiracleTV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5786
+#EXTINF:-1,MISREDUCATION (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72725
+#EXTINF:-1,MODYKIDS (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5391
+#EXTINF:-1,MOSALSALATTUBE (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5340
+#EXTINF:-1,MTM (JAMAICA)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82909
+#EXTINF:-1,MTunisia (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5613
+#EXTINF:-1,MTVLebanon (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5573
+#EXTINF:-1,MUSAWA (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72703
+#EXTINF:-1,MusicAlhanen (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5781
+#EXTINF:-1,MYHARTO 24X7
+http://66.northerniptv.ca:8000/burke2020/2020burke/6128
+#EXTINF:-1,MYX TV
+http://66.northerniptv.ca:8000/burke2020/2020burke/8525
+#EXTINF:-1,NBN (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5572
+#EXTINF:-1,NeelainSport (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5768
+#EXTINF:-1,Nessma (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5382
+#EXTINF:-1,NEXTV (PANAMA)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65595
+#EXTINF:-1,NHK (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5735
+#EXTINF:-1,NileCinema (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5455
+#EXTINF:-1,NILECOMEDY (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5453
+#EXTINF:-1,NileCulture (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5456
+#EXTINF:-1,NileDrama (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5457
+#EXTINF:-1,NileFamily (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5778
+#EXTINF:-1,NileFM (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/69313
+#EXTINF:-1,NileLife (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5458
+#EXTINF:-1,NILENEWS (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5454
+#EXTINF:-1,NileSport (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5459
+#EXTINF:-1,niletv (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5412
+#EXTINF:-1,NogoumFMRadio (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5666
+#EXTINF:-1,NogoumFMTV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5790
+#EXTINF:-1,NOOR TV (IRN)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10295
+#EXTINF:-1,NOORDUBAI (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5520
+#EXTINF:-1,NOORJORDAN (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72702
+#EXTINF:-1,NourAlSharq (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5445
+#EXTINF:-1,NOURELSHAM (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5678
+#EXTINF:-1,NourKoddass (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5444
+#EXTINF:-1,Noursat (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5571
+#EXTINF:-1,NoursatAlchabab (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5614
+#EXTINF:-1,NumidiaNewsTV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5581
+#EXTINF:-1,OMANTVCULTURE (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72673
+#EXTINF:-1,OMANTVGENERAL (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72731
+#EXTINF:-1,OMANTVLIVE (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72674
+#EXTINF:-1,OMANTVSPORT (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72672
+#EXTINF:-1,ONDrama (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/69290
+#EXTINF:-1,ONSport (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5686
+#EXTINF:-1,ONTVEgypt (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5646
+#EXTINF:-1,orient (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5685
+#EXTINF:-1,OTV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5440
+#EXTINF:-1,Palestine (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5769
+#EXTINF:-1,PalestineLive (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/69300
+#EXTINF:-1,PalestineNews (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/69301
+#EXTINF:-1,PalestineSport (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/69302
+#EXTINF:-1,PalestineToday (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5770
+#EXTINF:-1,PanoramaDrama (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5398
+#EXTINF:-1,PanoramaFood (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5395
+#EXTINF:-1,PEACETV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72732
+#EXTINF:-1,PMC (IRN)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10292
+#EXTINF:-1,POOYATV & NAHAL (IRN)
+http://66.northerniptv.ca:8000/burke2020/2020burke/43414
+#EXTINF:-1,POWER 106 (RADIO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/71345
+#EXTINF:-1,PRESS TV (IRN)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10282
+#EXTINF:-1,PROFESSOR LIVE 24X7 (SPORT)
+http://66.northerniptv.ca:8000/burke2020/2020burke/7832
+#EXTINF:-1,PYROBOOBY 24X7
+http://66.northerniptv.ca:8000/burke2020/2020burke/6127
+#EXTINF:-1,QOM TV IRIB NOOR (IRN)
+http://66.northerniptv.ca:8000/burke2020/2020burke/43402
+#EXTINF:-1,QuestArabiya (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5734
+#EXTINF:-1,QURANTV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5337
+#EXTINF:-1,REMI GAILLARD 24X7
+http://66.northerniptv.ca:8000/burke2020/2020burke/5874
+#EXTINF:-1,RETV (JAMAICA)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82907
+#EXTINF:-1,RIVER (IRN)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10297
+#EXTINF:-1,RJR 94 (RADIO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/71343
+#EXTINF:-1,ROMAN ATWOOD 24X7
+http://66.northerniptv.ca:8000/burke2020/2020burke/6594
+#EXTINF:-1,RonahiTV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5319
+#EXTINF:-1,Rotana (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5496
+#EXTINF:-1,ROTANAAFLMAHD (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5324
+#EXTINF:-1,RotanaCinema (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5497
+#EXTINF:-1,ROTANACINEMAKSA (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5630
+#EXTINF:-1,RotanaClassic (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5499
+#EXTINF:-1,RotanaClip (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5501
+#EXTINF:-1,ROTANADRAMA (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72644
+#EXTINF:-1,RotanaKhalijia (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5500
+#EXTINF:-1,RotanaMasriya (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5498
+#EXTINF:-1,ROYA (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5680
+#EXTINF:-1,RTARABIC (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5771
+#EXTINF:-1,RUBIX (IRN)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10296
+#EXTINF:-1,RudawHD (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5783
+#EXTINF:-1,SadaElBalad (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5407
+#EXTINF:-1,SadaElBalad2 (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/69303
+#EXTINF:-1,SadaElBaladDrama (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5580
+#EXTINF:-1,SAFATV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5344
+#EXTINF:-1,SamaDubai (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5729
+#EXTINF:-1,SAMARRATV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5421
+#EXTINF:-1,SamaTV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5357
+#EXTINF:-1,SamiraTV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5411
+#EXTINF:-1,SAT7ARABIC (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72677
+#EXTINF:-1,SAT7KIDS (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5425
+#EXTINF:-1,Saudi-1 (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5777
+#EXTINF:-1,Saudi-2 (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5776
+#EXTINF:-1,SAUDI24 (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5658
+#EXTINF:-1,SaudiAlHaj (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5705
+#EXTINF:-1,SaudiChForSunnah (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/69289
+#EXTINF:-1,SAUDIQURANTV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72714
+#EXTINF:-1,SBC (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72666
+#EXTINF:-1,shamfmtv (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5789
+#EXTINF:-1,SHARK TANK 24x7 - NEW
+http://66.northerniptv.ca:8000/burke2020/2020burke/8888
+#EXTINF:-1,SKY AT THE RACES
+http://66.northerniptv.ca:8000/burke2020/2020burke/2197
+#EXTINF:-1,SKY BOOMERANG
+http://66.northerniptv.ca:8000/burke2020/2020burke/9626
+#EXTINF:-1,SKY BOX NATION
+http://66.northerniptv.ca:8000/burke2020/2020burke/209
+#EXTINF:-1,SKY CARTOON NETWORK
+http://66.northerniptv.ca:8000/burke2020/2020burke/1773
+#EXTINF:-1,SKY DISNEY CHANNEL
+http://66.northerniptv.ca:8000/burke2020/2020burke/1745
+#EXTINF:-1,SKY DISNEY JR
+http://66.northerniptv.ca:8000/burke2020/2020burke/1746
+#EXTINF:-1,SKY DISNEY XD
+http://66.northerniptv.ca:8000/burke2020/2020burke/1747
+#EXTINF:-1,SKY MOVIES FAMILY
+http://66.northerniptv.ca:8000/burke2020/2020burke/1736
+#EXTINF:-1,SKY MOVIES DISNEY
+http://66.northerniptv.ca:8000/burke2020/2020burke/1743
+#EXTINF:-1,SKY NICK JR
+http://66.northerniptv.ca:8000/burke2020/2020burke/1716
+#EXTINF:-1,SKY NICKTOONS
+http://66.northerniptv.ca:8000/burke2020/2020burke/1729
+#EXTINF:-1,SKY RTE JR
+http://66.northerniptv.ca:8000/burke2020/2020burke/9625
+#EXTINF:-1,SKY SPORTS ACTION
+http://66.northerniptv.ca:8000/burke2020/2020burke/206
+#EXTINF:-1,SKY SPORTS ARENA
+http://66.northerniptv.ca:8000/burke2020/2020burke/207
+#EXTINF:-1,SKY SPORTS CRICKET
+http://66.northerniptv.ca:8000/burke2020/2020burke/205
+#EXTINF:-1,SKY SPORTS F1 HD
+http://66.northerniptv.ca:8000/burke2020/2020burke/210
+#EXTINF:-1,SKY SPORTS MAIN EVENT
+http://66.northerniptv.ca:8000/burke2020/2020burke/204
+#EXTINF:-1,SKY SPORTS MIX
+http://66.northerniptv.ca:8000/burke2020/2020burke/194
+#EXTINF:-1,SKY SPORTS NEWS
+http://66.northerniptv.ca:8000/burke2020/2020burke/203
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
+http://66.northerniptv.ca:8000/burke2020/2020burke/208
+#EXTINF:-1,SkyNewsArabia (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5479
+#EXTINF:-1,SM (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5752
+#EXTINF:-1,SONY SIX HD
+http://66.northerniptv.ca:8000/burke2020/2020burke/193
+#EXTINF:-1,SPACETOONARABIC (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5399
+#EXTINF:-1,SPORTS MAX 1 (JAMAICA)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82906
+#EXTINF:-1,SPORTS MAX 2 (JAMAICA)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82905
+#EXTINF:-1,SPORTS MAX CRICKET (JAMAICA)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82904
+#EXTINF:-1,SPORTS MAX PLUS (JAMAICA)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82903
+#EXTINF:-1,SSBC (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/69310
+#EXTINF:-1,SSPORT LALIGA AF
+http://66.northerniptv.ca:8000/burke2020/2020burke/81963
+#EXTINF:-1,SSPORT PSL AF
+http://66.northerniptv.ca:8000/burke2020/2020burke/81962
+#EXTINF:-1,SSPORT PREMIER LEAGUE AF
+http://66.northerniptv.ca:8000/burke2020/2020burke/81961
+#EXTINF:-1,SSPORT GRANDSTAND AF
+http://66.northerniptv.ca:8000/burke2020/2020burke/81960
+#EXTINF:-1,SSPORT VARIETY 1 AF
+http://66.northerniptv.ca:8000/burke2020/2020burke/81959
+#EXTINF:-1,SSPORT VARIETY 2 AF
+http://66.northerniptv.ca:8000/burke2020/2020burke/81958
+#EXTINF:-1,SSPORT ACTION AF
+http://66.northerniptv.ca:8000/burke2020/2020burke/81957
+#EXTINF:-1,SSPORT FOOTBALL AF
+http://66.northerniptv.ca:8000/burke2020/2020burke/81952
+#EXTINF:-1,SSPORT MOTORSPORT AF
+http://66.northerniptv.ca:8000/burke2020/2020burke/81950
+#EXTINF:-1,SSPORT TENNIS AF
+http://66.northerniptv.ca:8000/burke2020/2020burke/81949
+#EXTINF:-1,SSPORT RUGBY AF
+http://66.northerniptv.ca:8000/burke2020/2020burke/81948
+#EXTINF:-1,SSPORT CRICKET AF
+http://66.northerniptv.ca:8000/burke2020/2020burke/81947
+#EXTINF:-1,STAR SPORTS 2 HD
+http://66.northerniptv.ca:8000/burke2020/2020burke/202
+#EXTINF:-1,STAR SPORTS HINDI
+http://66.northerniptv.ca:8000/burke2020/2020burke/201
+#EXTINF:-1,STAR TREK THE NEX GEN 24X7
+http://66.northerniptv.ca:8000/burke2020/2020burke/70539
+#EXTINF:-1,STARCINEMA1 (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5403
+#EXTINF:-1,STARCINEMA2 (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5402
+#EXTINF:-1,SUDANIA24HD (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72687
+#EXTINF:-1,Sudanmonwaat (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5732
+#EXTINF:-1,SUDANMUSIC (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72684
+#EXTINF:-1,SUDANSPORT (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72685
+#EXTINF:-1,SudanTV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5677
+#EXTINF:-1,SUHAILTV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5434
+#EXTINF:-1,SUPERWOMAN 24X7
+http://66.northerniptv.ca:8000/burke2020/2020burke/6590
+#EXTINF:-1,SUROYOTV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72686
+#EXTINF:-1,SYRIADRAMA (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5594
+#EXTINF:-1,SYRIASATELLITETV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5683
+#EXTINF:-1,TAHA (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5570
+#EXTINF:-1,TAL2ARO3B (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5604
+#EXTINF:-1,TAMAZIGHT (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72729
+#EXTINF:-1,TanasohTV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5793
+#EXTINF:-1,Tanasuh (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5756
+#EXTINF:-1,TATT7 (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5338
+#EXTINF:-1,TEATROTUBE (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5339
+#EXTINF:-1,TELE AZTECA (HONDURAS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65591
+#EXTINF:-1,TelelibanTV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5747
+#EXTINF:-1,TELEMUNDO KBLR-LAS VEGAS
+http://66.northerniptv.ca:8000/burke2020/2020burke/82401
+#EXTINF:-1,TELEMUNDO KCSO-SACRAMENTO
+http://66.northerniptv.ca:8000/burke2020/2020burke/82402
+#EXTINF:-1,TELEMUNDO KDEN-DENVER
+http://66.northerniptv.ca:8000/burke2020/2020burke/82403
+#EXTINF:-1,TELEMUNDO KHRR-TUSCON
+http://66.northerniptv.ca:8000/burke2020/2020burke/82411
+#EXTINF:-1,TELEMUNDO KNSD-SAN DIEGO
+http://66.northerniptv.ca:8000/burke2020/2020burke/82391
+#EXTINF:-1,TELEMUNDO KNSO-FRESNO
+http://66.northerniptv.ca:8000/burke2020/2020burke/82410
+#EXTINF:-1,TELEMUNDO KSTS-SAN JOSE
+http://66.northerniptv.ca:8000/burke2020/2020burke/82409
+#EXTINF:-1,TELEMUNDO KTAZ-PHOENIX
+http://66.northerniptv.ca:8000/burke2020/2020burke/82408
+#EXTINF:-1,TELEMUNDO KTDO-EL PASO
+http://66.northerniptv.ca:8000/burke2020/2020burke/82407
+#EXTINF:-1,TELEMUNDO KTLM-RIO GRANDE
+http://66.northerniptv.ca:8000/burke2020/2020burke/82406
+#EXTINF:-1,TELEMUNDO KTMD-HOUSTON
+http://66.northerniptv.ca:8000/burke2020/2020burke/82405
+#EXTINF:-1,TELEMUNDO KUAN-SAN DIEGO
+http://66.northerniptv.ca:8000/burke2020/2020burke/82404
+#EXTINF:-1,TELEMUNDO KVDA-SAN ANTONIO
+http://66.northerniptv.ca:8000/burke2020/2020burke/82400
+#EXTINF:-1,TELEMUNDO KVEA-LOS ANGELES
+http://66.northerniptv.ca:8000/burke2020/2020burke/82399
+#EXTINF:-1,TELEMUNDO KXTX-DALLAS
+http://66.northerniptv.ca:8000/burke2020/2020burke/82398
+#EXTINF:-1,TELEMUNDO WKTB-ATLANTA
+http://66.northerniptv.ca:8000/burke2020/2020burke/82397
+#EXTINF:-1,TELEMUNDO WNEU-BOSTON
+http://66.northerniptv.ca:8000/burke2020/2020burke/82396
+#EXTINF:-1,TELEMUNDO WNJU-NEW YORK CITY
+http://66.northerniptv.ca:8000/burke2020/2020burke/82395
+#EXTINF:-1,TELEMUNDO WRDM-HARTFORD
+http://66.northerniptv.ca:8000/burke2020/2020burke/82390
+#EXTINF:-1,TELEMUNDO WRMD-TAMPA
+http://66.northerniptv.ca:8000/burke2020/2020burke/82387
+#EXTINF:-1,TELEMUNDO WSCV-FORT LAUDERDALE
+http://66.northerniptv.ca:8000/burke2020/2020burke/82394
+#EXTINF:-1,TELEMUNDO WSNS-CHICAGO
+http://66.northerniptv.ca:8000/burke2020/2020burke/82389
+#EXTINF:-1,TELEMUNDO WWDT-FORT MEYERS
+http://66.northerniptv.ca:8000/burke2020/2020burke/82388
+#EXTINF:-1,TELEMUNDO WWSI-PHILADELPHIA
+http://66.northerniptv.ca:8000/burke2020/2020burke/82393
+#EXTINF:-1,TELEMUNDO WZDC-WASHINGTON DC
+http://66.northerniptv.ca:8000/burke2020/2020burke/82392
+#EXTINF:-1,TELEORO (PUERTO RICO)
+http://66.northerniptv.ca:8000/burke2020/2020burke/65594
+#EXTINF:-1,TELEPACIFIC
+http://66.northerniptv.ca:8000/burke2020/2020burke/3230
+#EXTINF:-1,Ten (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5486
+#EXTINF:-1,TEN 1
+http://66.northerniptv.ca:8000/burke2020/2020burke/4193
+#EXTINF:-1,TEN 2
+http://66.northerniptv.ca:8000/burke2020/2020burke/4194
+#EXTINF:-1,TEN 3
+http://66.northerniptv.ca:8000/burke2020/2020burke/4195
+#EXTINF:-1,THE A-TEAM 24X7
+http://66.northerniptv.ca:8000/burke2020/2020burke/70538
+#EXTINF:-1,TheSavior (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5446
+#EXTINF:-1,TimeSHA3BEYAT (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5389
+#EXTINF:-1,TOKTOKAFLAM (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5710
+#EXTINF:-1,TokTokCima (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5477
+#EXTINF:-1,TopCinema (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5706
+#EXTINF:-1,TRTELARABIYE (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72683
+#EXTINF:-1,TunisiaNat1 (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5660
+#EXTINF:-1,TunisiaNat2 (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5621
+#EXTINF:-1,TunisieTelevsion1 (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5622
+#EXTINF:-1,TUNISNA (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5779
+#EXTINF:-1,TV5 (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72715
+#EXTINF:-1,TVJ 1 (JAMAICA)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82902
+#EXTINF:-1,UBERAFLAM (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5728
+#EXTINF:-1,UBERCIMA (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5726
+#EXTINF:-1,UBERCLASSIC (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5727
+#EXTINF:-1,UBERDRAMA (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5724
+#EXTINF:-1,UBERFILM (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5723
+#EXTINF:-1,UMF TV 24X7
+http://66.northerniptv.ca:8000/burke2020/2020burke/7831
+#EXTINF:-1,VITALYZD TV 24X7
+http://66.northerniptv.ca:8000/burke2020/2020burke/6592
+#EXTINF:-1,VO ATV PERSIAN (IRN)
+http://66.northerniptv.ca:8000/burke2020/2020burke/10272
+#EXTINF:-1,VRAK (FR)
+http://66.northerniptv.ca:8000/burke2020/2020burke/2408
+#EXTINF:-1,WANASAH (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5452
+#EXTINF:-1,WATANTV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/69293
+#EXTINF:-1,WESALTV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72712
+#EXTINF:-1,Yemen (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5307
+#EXTINF:-1,YEMENSHABAB (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5808
+#EXTINF:-1,YEMENTODAYTV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72681
+#EXTINF:-1,ZADTV (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72678
+#EXTINF:-1,ZANJAN TV (IRN)
+http://66.northerniptv.ca:8000/burke2020/2020burke/43405
+#EXTINF:-1,ZAYTOONA (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5439
+#EXTINF:-1,ZEEAFLAM (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/72458
+#EXTINF:-1,ZeeAlwan (ARB)
+http://66.northerniptv.ca:8000/burke2020/2020burke/5598
+#EXTINF:-1,MLB NET HD
+http://66.northerniptv.ca:8000/burke2020/2020burke/96564
+#EXTINF:-1,MLB STRIKE ZONE HD
+http://66.northerniptv.ca:8000/burke2020/2020burke/96565
+#EXTINF:-1,SPECTRUM SPORTSNET LA HD
+http://66.northerniptv.ca:8000/burke2020/2020burke/96567
+#EXTINF:-1,MLB 1 (ESPN)
+http://66.northerniptv.ca:8000/burke2020/2020burke/96568
+#EXTINF:-1,MLB 2 (ESPN 2)
+http://66.northerniptv.ca:8000/burke2020/2020burke/96569
+#EXTINF:-1,MLB 3 (FOX EAST)
+http://66.northerniptv.ca:8000/burke2020/2020burke/96570
+#EXTINF:-1,MLB 4 (FOX SPORTS 1)
+http://66.northerniptv.ca:8000/burke2020/2020burke/96571
+#EXTINF:-1,MLB 5 (TBS)
+http://66.northerniptv.ca:8000/burke2020/2020burke/96572
+#EXTINF:-1,UNIVISION WUVG-ATLANTA
+http://66.northerniptv.ca:8000/burke2020/2020burke/82378
+#EXTINF:-1,UNIVISION WQHS-CLEVELAND
+http://66.northerniptv.ca:8000/burke2020/2020burke/82379
+#EXTINF:-1,UNIVISION WLTV-FORT LAUDERDALE
+http://66.northerniptv.ca:8000/burke2020/2020burke/82380
+#EXTINF:-1,UNIVISION WGBO-CHICAGO
+http://66.northerniptv.ca:8000/burke2020/2020burke/82381
+#EXTINF:-1,UNIVISION KXLN-HOUSTON
+http://66.northerniptv.ca:8000/burke2020/2020burke/82382
+#EXTINF:-1,UNIVISION KUVN-DALLAS
+http://66.northerniptv.ca:8000/burke2020/2020burke/82383
+#EXTINF:-1,UNIVISION KMEX-LOS ANGELES
+http://66.northerniptv.ca:8000/burke2020/2020burke/82384
+#EXTINF:-1,UNIVISION KFTV-FRESNO
+http://66.northerniptv.ca:8000/burke2020/2020burke/82385
+#EXTINF:-1,UNIVISION KAKW-AUSTIN
+http://66.northerniptv.ca:8000/burke2020/2020burke/82386
+#EXTINF:-1,NFL NETWORK
+http://66.northerniptv.ca:8000/burke2020/2020burke/105005
+#EXTINF:-1,REDZONE HD
+http://66.northerniptv.ca:8000/burke2020/2020burke/105006
+#EXTINF:-1,NFL 1
+http://66.northerniptv.ca:8000/burke2020/2020burke/105007
+#EXTINF:-1,NFL 2
+http://66.northerniptv.ca:8000/burke2020/2020burke/105008
+#EXTINF:-1,NFL 3
+http://66.northerniptv.ca:8000/burke2020/2020burke/105009
+#EXTINF:-1,NFL 4
+http://66.northerniptv.ca:8000/burke2020/2020burke/105010
+#EXTINF:-1,NFL 5
+http://66.northerniptv.ca:8000/burke2020/2020burke/105011
+#EXTINF:-1,NFL 6
+http://66.northerniptv.ca:8000/burke2020/2020burke/105012
+#EXTINF:-1,NFL 7
+http://66.northerniptv.ca:8000/burke2020/2020burke/105013
+#EXTINF:-1,NFL 8
+http://66.northerniptv.ca:8000/burke2020/2020burke/105014
+#EXTINF:-1,NFL 9
+http://66.northerniptv.ca:8000/burke2020/2020burke/105015
+#EXTINF:-1,NFL 10
+http://66.northerniptv.ca:8000/burke2020/2020burke/105016
+#EXTINF:-1,NFL 11
+http://66.northerniptv.ca:8000/burke2020/2020burke/105017
+#EXTINF:-1,NFL 12
+http://66.northerniptv.ca:8000/burke2020/2020burke/105018
+#EXTINF:-1,NFL 13
+http://66.northerniptv.ca:8000/burke2020/2020burke/105019
+#EXTINF:-1,NFL FILMS PRESENT (24X7)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82794
+#EXTINF:-1,NFL MIC'D UP (24X7)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82793
+#EXTINF:-1,NFL SUPERBOWL (24X7)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82792
+#EXTINF:-1,NFL THROWBACK (24X7)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82791
+#EXTINF:-1,NFL TOP 10 (24X7)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82790
+#EXTINF:-1,NFL TOP 100 GOAT (24X7)
+http://66.northerniptv.ca:8000/burke2020/2020burke/82789
+#EXTINF:-1,PPV 1 - (EN) UFC - 09/26 - 10PM EST
+http://66.northerniptv.ca:8000/burke2020/2020burke/83342
+#EXTINF:-1,PPV 2 - (EN) UFC - 09/26 - 10PM EST
+http://66.northerniptv.ca:8000/burke2020/2020burke/83343
+#EXTINF:-1,PPV 3 - (EN) BOXING - 09/26 - 7PM EST
+http://66.northerniptv.ca:8000/burke2020/2020burke/85523
