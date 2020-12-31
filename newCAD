@@ -1,1621 +1,288 @@
 #EXTM3U
-#EXTINF:-1,--||  Sénégal  ||--
-http://localhost/acantv.ph
-#EXTINF:-1,AF: Telesud
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5840
-#EXTINF:-1,AF: Louga Tv ( SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3776
-#EXTINF:-1,AF: AMANI TV (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/11572
-#EXTINF:-1,AF: Alkhayria Coran Tv (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4846
-#EXTINF:-1,AF: ZIG (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6523
-#EXTINF:-1,RAF: MTV senegal
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/10578
-#EXTINF:-1,AF: Chabiba TV (sn)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5069
-#EXTINF:-1,AAF: Africa Gospel TV (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4407
-#EXTINF:-1,AF: ANN (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/27515
-#EXTINF:-1,AF: Africa Sports senegal
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/10705
-#EXTINF:-1,AF: DAKAR TV (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5330
-#EXTINF:-1,AF:D5Music (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6294
-#EXTINF:-1,RAF: SEN TV (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3195
-#EXTINF:-1,RAF: WALF TV (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3308
-#EXTINF:-1,AF: TFM (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3190
+#EXTINF:0, CNN (Eng.)
+http://203.162.235.41:16918
 
-#EXTINF:-1,AF: RTF [SENGAL}
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/11453
-#EXTINF:-1,AF: 2S TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3189
-#EXTINF:-1,AF: RTS1
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3193
-#EXTINF:-1,AF: RTS2 (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3194
-#EXTINF:-1,AF: 2Si racines
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/11549
-#EXTINF:-1,AF: mouridetv
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3526
-#EXTINF:-1,YAF: LOBS TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5629
-#EXTINF:-1,AF: ITV [ Sénégal ]
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/10704
-#EXTINF:-1,AF: Africa Sports TV (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/27516
-#EXTINF:-1,AF: RTJ TV (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5631
-#EXTINF:-1,AF:LERAL TV (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5628
-#EXTINF:-1,RAF: DTV (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3206
-#EXTINF:-1,RAF: Bichri TV (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4380
-#EXTINF:-1,AF: TOUBA TV (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3213
-#EXTINF:-1,AF: Touba Monde (Sn)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5636
-#EXTINF:-1,AF: ALAZHAR TOUBA TV (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/10858
-#EXTINF:-1,RAF: 7TV (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4042
-#EXTINF:-1,RAF: SERIE (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6298
-#EXTINF:-1,AF: A2ITV MUSIC (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3957
-#EXTINF:-1,AF: A2i TV Religion (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3956
-#EXTINF:-1,AF: MALIKA TV (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3211
-#EXTINF:-1,AF: D5TV  (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3634
-#EXTINF:-1,RAF: RDV (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3204
-#EXTINF:-1,AF: MourchidTV (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3312
-#EXTINF:-1,AF: Lamp Fall SENEGAL
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4863
-#EXTINF:-1,AF: Africa7 senegal tv
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/10575
-#EXTINF:-1,AF: A2i TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3896
-#EXTINF:-1,RAF: Ctv Afrique
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5921
-#EXTINF:-1,AF: TMS SENEGAL
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/10855
-#EXTINF:-1,AF: Asfiyahi Tv senegal
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5630
-#EXTINF:-1,AF: Al Mouridiyyah TV (SENEGAL)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/11586
-#EXTINF:-1,AF: TNT Events Senegal
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/11548
-#EXTINF:-1,AF: TVS Senegal
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/11550
-#EXTINF:-1,AF: tele-ecole
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5632
-#EXTINF:-1,# DSTV AFRICA #
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28455
-#EXTINF:-1,AF:  SuperSport 1
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28426
-#EXTINF:-1,AF:  SuperSport 2
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28427
-#EXTINF:-1,AF: SuperSport 3
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28428
-#EXTINF:-1,AF: SuperSport 4
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28429
-#EXTINF:-1,AF: SuperSport 5
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28430
-#EXTINF:-1,AF: SuperSport 6
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28431
-#EXTINF:-1,AF: SuperSport 7
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28432
-#EXTINF:-1,AF: SuperSport 8
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28433
-#EXTINF:-1,AF: SuperSport 9
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28434
-#EXTINF:-1,AF: SuperSport 10
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28435
-#EXTINF:-1,AF: SuperSport 11
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28436
-#EXTINF:-1,AF: SuperSport 12
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28437
-#EXTINF:-1,AF: SUPERSPORT MAXIMO
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28438
-#EXTINF:-1,AF: SUPERSPORT BLITZ
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28439
-#EXTINF:-1,AF: Africa Magic Family
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28440
-#EXTINF:-1,AF: Africa Magic Urban
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28441
-#EXTINF:-1,AF: AfricaMagic Epic
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28442
-#EXTINF:-1,AF: Dumisa
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28443
-#EXTINF:-1,AF: Mzansi Magic
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28444
-#EXTINF:-1,AF: Mzansi Magic Music
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28445
-#EXTINF:-1,AF: Newzroom Afrika
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28446
-#EXTINF:-1,AF: SABC 3
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28447
-#EXTINF:-1,AF: SABC News
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28448
-#EXTINF:-1,AF: SOUNDCITY
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28449
-#EXTINF:-1,AF: TNT Africa
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28450
-#EXTINF:-1,AF: Dish on TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28451
-#EXTINF:-1,----Côte d\'Ivoire----
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/29281
-#EXTINF:-1,AF: Benie TV (CI)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3920
-#EXTINF:-1,AF: christ TV (CI)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/11571
-#EXTINF:-1,AF: NTV (CI)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7619
-#EXTINF:-1,AF: Surnaturel Tv(CI)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3997
-#EXTINF:-1,AF: RTI1
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3185
-#EXTINF:-1,AF: RTI2
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3191
-#EXTINF:-1,AF: LA 3  (CI)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7718
-#EXTINF:-1,AF:Ivoire Channel (CI)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/10576
-#EXTINF:-1,AF: A12 TV (CI)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3188
-#EXTINF:-1,AF: LUMIÈRE TV  (CI)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5833
-#EXTINF:-1,AF:  NTV (CI)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6141
-#EXTINF:-1,--||  MALI  ||--
+#EXTINF:-1 tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="USA",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1,RAF: africacable (ML)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3183
-#EXTINF:-1,RAF: ORTM TV (ML)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3200
-#EXTINF:-1,AF: ORTM 2 TV (ML)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3207
-#EXTINF:-1,RAF: M7 Mali
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4912
-#EXTINF:-1,RAF: ORTB (BJ)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3198
-#EXTINF:-1,AF: RTB (BF)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3196
-#EXTINF:-1,--||  Trace Music ||--
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-3)
+http://45.126.83.51/qwr9ew/s/s17/index.m3u8
 
-#EXTINF:-1,AF: TRACE SPORTS STARTS
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28453
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="24/7 WORLD NEWS",Arirang (KR) (Opt-1)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1,AF:Trace Kitoko
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5756
-#EXTINF:-1,AF: TRACE AFRICA (FR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3199
-#EXTINF:-1,AF: TRACE TOCA
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3502
-#EXTINF:-1,AF: TRACE MISIKI
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3503
-#EXTINF:-1,AF: Trace Naija
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3904
-#EXTINF:-1,AF: TRACE AFRICANO
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3504
-#EXTINF:-1,AF: Trace Urbaine (FR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3639
-#EXTINF:-1,--||  Bblack TV  ||--
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg Television Asia
+http://45.126.83.51/uq2663/h/h03/index.m3u8
 
-#EXTINF:-1,AF: Bblack Africa (FR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3313
-#EXTINF:-1,AF: Bblack Carrabean (FR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3314
-#EXTINF:-1,AF: BBlack Classik (FR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3315
-#EXTINF:-1,AF: Digital Black Music (FR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4226
-#EXTINF:-1,AF: MY COMEDY (FR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3322
-#EXTINF:-1,AF: 7 Entertainment  AFRICA (FR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3323
-#EXTINF:-1,YAF: Suivez  SIKKA (FR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3560
-#EXTINF:-1,AF: France24 (FR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3319
-#EXTINF:-1,AF: chiconi TV (FR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7476
-#EXTINF:-1,AF: EMCI TV (FR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5397
-#EXTINF:-1,AF: Euronews (FR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3320
-#EXTINF:-1,AF: Grand Lille TV (FR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6293
-#EXTINF:-1,AF: MDL (FR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3971
-#EXTINF:-1,AF: Lèeekô TV (FR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6018
-#EXTINF:-1,AF: Monde Du Loisir TV (FR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6142
-#EXTINF:-1,AF: Novelastv (FR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5287
-#EXTINF:-1,AF: RT (FR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3321
-#EXTINF:-1,AF: TheoTV (FR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5400
-#EXTINF:-1,AF: TV5 MONDE (FR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3637
-#EXTINF:-1,AF: Tv Francophonie24 (FR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3638
-#EXTINF:-1,AF: Hit TV Africa (MA)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4054
-#EXTINF:-1,AF: DBM TV (FR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3636
-#EXTINF:-1,AF: Afro Music (PT)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4403
-#EXTINF:-1,RAF: AFRO Music Swahili
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/11448
-#EXTINF:-1,RAF: AFRO MUSIC[cotediv ]
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/11447
-#EXTINF:-1,RAF:AFRO GOSPEL
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/11446
-#EXTINF:-1,RAF:AFRO MUSiC mandigo
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/11449
-#EXTINF:-1,AAF: TELE SHALOM (HT)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3991
-#EXTINF:-1,AF: Télé Conscience Haïtienne (HT)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4002
-#EXTINF:-1,AF: FASO TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4001
-#EXTINF:-1,AF: Tele Planet Compas (HT)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5328
-#EXTINF:-1,AF: Kajou TV (HT)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3949
-#EXTINF:-1,AF: Tele Kiskeya  (HT)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6204
-#EXTINF:-1,AF: Tele Boston (haiti)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6971
-#EXTINF:-1,AF: NAGO TV (haiti)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7811
-#EXTINF:-1,AF: Tele Pacific HAITI
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7812
-#EXTINF:-1,AF: Tele Louange (haiti)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5829
-#EXTINF:-1,AF: Notélé
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6132
-#EXTINF:-1,AF: TELE BOSTON (HT)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4402
-#EXTINF:-1,--||  Congo   ||--
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="24/7 WORLD NEWS",CGTN (CN) (Opt-1)
+http://live.cgtn.com/500/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="24/7 WORLD NEWS",CGTN (CN) (Opt-2)
+http://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1,RAF: RTNC 1 (CD)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3192
-#EXTINF:-1,AF: RTNC 3 (CD)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5331
-#EXTINF:-1,AF: TELE congo
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3210
-#EXTINF:-1,AF: Ratelki Congo
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6521
-#EXTINF:-1,AF: digital congo (CD)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3955
-#EXTINF:-1,AAF:  BOSS BROTHERS TV (congo)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3525
-#EXTINF:-1,AF: CANAL CVV (CG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6025
-#EXTINF:-1,RAF: DRTV (CG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3209
-#EXTINF:-1,AF: VOX TV (CG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3954
-#EXTINF:-1,AF: Obosso TV (CG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7477
-#EXTINF:-1,AF:Cis TV (GQ)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6235
-#EXTINF:-1,AF: B-ONE (CD)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3775
-#EXTINF:-1,AF: Tele 50
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5866
-#EXTINF:-1,--||  Cameron  ||--
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS",CNA (SG) (Opt-2)
+http://210.210.155.35/uq2663/h/h29/01.m3u8?fluxustv.m3u8
 
-#EXTINF:-1,AF:Humanitarian TV (CM)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7985
-#EXTINF:-1,AF: DBS
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/10862
-#EXTINF:-1,YAF: Afrique Média (cameroun)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7319
-#EXTINF:-1,RAF: EQUINOXE CAMEROUN
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5863
-#EXTINF:-1,AF: DIVIN AMOUR TV {cameron]
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/11445
-#EXTINF:-1,AF:  Plex TV (Cameroun)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/10585
-#EXTINF:-1,AF: MY TV (CM)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6985
-#EXTINF:-1,RAF: BOOM TV (CM)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7321
-#EXTINF:-1,AF: LMTV (CM)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7320
-#EXTINF:-1,RAF:VoX Africa
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7318
-#EXTINF:-1,AF: CRTV (CM)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3187
-#EXTINF:-1,AF: CANAL2 MOVIES (CM)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4306
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS",CNA (SG) (Opt-3)
+http://45.126.83.51/uq2663/h/h29/index.m3u8
 
-#EXTINF:-1,AF: PLAY TV  (CM)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5818
-#EXTINF:-1,AF: CGTN Africa (CN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3922
-#EXTINF:-1,AF: CGTN FRANCE (CN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3923
-#EXTINF:-1,AF: CGTN English
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4275
-#EXTINF:-1,AF: Vision 4 TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4234
-#EXTINF:-1,AF: CRTV NEWS
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3642
-#EXTINF:-1,RAF: CANAL2
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3205
-#EXTINF:-1,YAF: Afrique Media TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3555
-#EXTINF:-1,YAF: Africanews (ferance)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4463
-#EXTINF:-1,YAF: AFRICA NEWS
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3201
-#EXTINF:-1,AF: Voxafrica (GB)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3316
-#EXTINF:-1,YAF: France info
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4037
-#EXTINF:-1,AF: Propulstars Internationale
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3779
-#EXTINF:-1,AF: Espace TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3891
-#EXTINF:-1,--|| ghana tvl ||--
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4900
-#EXTINF:-1,AF: MOGPA TV GHANA
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/10528
-#EXTINF:-1,GAF: XYZ [GH]
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6972
-#EXTINF:-1,AF: Thunder TV (GH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/28490
-#EXTINF:-1,AF: Jericho (GH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/27560
-#EXTINF:-1,RAF: ETV GHANA
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/10577
-#EXTINF:-1,AF: PAN AFRICA (GH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4895
-#EXTINF:-1,AF: Precious  TV (GH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4918
-#EXTINF:-1,AF: SAGANI TV (GH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5626
-#EXTINF:-1,AF: Chief TV (GH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7934
-#EXTINF:-1,AF: Powerline TV (GH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6405
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="24/7 WORLD NEWS",DW (DE)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
-#EXTINF:-1,RAF: CITY TV (GH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/26424
-#EXTINF:-1,YAF: MFM [GHANA]
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/10719
-#EXTINF:-1,GAF: GH Canada TV (GH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4245
-#EXTINF:-1,GAF: ROCK (ghana)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3992
-#EXTINF:-1,GAF: ELIJAH TV (GH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4842
-#EXTINF:-1,AF: RTV (GH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3937
-#EXTINF:-1,AF: tvm3 (CH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5066
-#EXTINF:-1,GAF: OGYABA TV (GH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4837
-#EXTINF:-1,GAF:Omega tv (GH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4834
-#EXTINF:-1,GAF: OBTV  (GH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4840
-#EXTINF:-1,AF: BBS TV (UG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4845
-#EXTINF:-1,AAF: GBC24 (GH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4843
-#EXTINF:-1,GAF: Atinka tv (GH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4839
-#EXTINF:-1,GAF: ROYAL TV (GH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4838
-#EXTINF:-1,YAF: CNBC AFRICA
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4826
-#EXTINF:-1,GAF: Ghana KessbenTV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3913
-#EXTINF:-1,YAF: ADOM  (GH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4806
-#EXTINF:-1,AAF: Ghana Broadcasting Corporation
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4010
-#EXTINF:-1,AF: MTA AFRICA
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/10579
-#EXTINF:-1,AF: STUDIO1 TV (ghana)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6217
-#EXTINF:-1,AF: Hope Channel Africa (US)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4038
-#EXTINF:-1,GAF:JOY PRIME (GH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4830
-#EXTINF:-1,YAF: JOY NEWS  GHANA
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4829
-#EXTINF:-1,GAF: GH ONE TV (GH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4828
-#EXTINF:-1,GAF: ROK TV (GH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4408
-#EXTINF:-1,GAF:  GHTV HOLLAND(GH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4831
-#EXTINF:-1,AAF: GISPORTSTV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3985
-#EXTINF:-1,GAF: tv3 ghana
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4844
-#EXTINF:-1,AF: BEN
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3552
-#EXTINF:-1,YAF: Joy  News Ghana (GH)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4223
-#EXTINF:-1,GAF:NTV  Ghana
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4810
-#EXTINF:-1,AF: 3ABN KIDS
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4542
-#EXTINF:-1,AF: 3ABN International (US)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3935
-#EXTINF:-1,AF: 3ABN Français (US)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3934
-#EXTINF:-1,--||  Nigeria  ||--
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4901
-#EXTINF:-1,AF: PASSION TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/29280
-#EXTINF:-1,YAF:Arise News
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4417
-#EXTINF:-1,AF: ABN TV (NG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4405
-#EXTINF:-1,AF: ABN TV+
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5323
-#EXTINF:-1,AF: Rave TV (NG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5838
-#EXTINF:-1,AAF: FLAMING SWORD TV (NG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4000
-#EXTINF:-1,YAF: Plus TV Africa (NG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7721
-#EXTINF:-1,AF: OST (NG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5076
-#EXTINF:-1,AF: Eagles TV(NG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7354
-#EXTINF:-1,YAF: TVC News Nigeria Live
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/24991
-#EXTINF:-1,AF: lagos tv [nigeria]
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/10857
-#EXTINF:-1,AF: nollywood
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3271
-#EXTINF:-1,AAF: nollywood MOVIE (NG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3184
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:-1,AF: bride tv  (NG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7772
-#EXTINF:-1,AF: EMCI TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5096
-#EXTINF:-1,AAF: ET
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3986
-#EXTINF:-1,AF: Hope Channel Africa
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4875
-#EXTINF:-1,AF: LIGHT TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4216
-#EXTINF:-1,AAF: Metro TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4009
-#EXTINF:-1,AF: L’OBS TV (SN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4003
-#EXTINF:-1,AF: KALAC TV (guinéenne)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3987
-#EXTINF:-1,AF: New Beginning Tv Network
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5083
-#EXTINF:-1,AAF: Guinée TV1
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3995
-#EXTINF:-1,AAF: Global Impact Tv
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3988
-#EXTINF:-1,AF: TVC Entertainment
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4891
-#EXTINF:-1,AAF: Africa Gospel TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3989
-#EXTINF:-1,AF: Spydar Tv Network
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4033
-#EXTINF:-1,AF: NUSMILES TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5082
-#EXTINF:-1,AF: UBC STAR (UG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5085
-#EXTINF:-1,YAF: Biafra TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3977
-#EXTINF:-1,AF: Biafra Nigeria
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3911
-#EXTINF:-1,AF: BET+
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3020
-#EXTINF:-1,AAF: BOSS BROTHERS TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3996
-#EXTINF:-1,AF: More Grace TV (NG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4412
-#EXTINF:-1,AF:  Notélé
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5758
-#EXTINF:-1,AF: LoveWorld Sat TV (ZA)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3982
-#EXTINF:-1,AF: LoveWorld PLUS (NG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3975
-#EXTINF:-1,AF: Western4U Tv Network
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4018
-#EXTINF:-1,AF: God TV Africa (GB)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4039
-#EXTINF:-1,AF: Dove TV (NG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3635
-#EXTINF:-1,AF:  RTP Africa (PT)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5086
-#EXTINF:-1,AAF:Evandis Gospel TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5109
-#EXTINF:-1,YAF: tv360 nigeria (NG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3994
-#EXTINF:-1,AF: Dunamis TV (NG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5084
-#EXTINF:-1,AF: TV Continental (NG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3933
-#EXTINF:-1,AAF:  NTA NEWS (NG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3993
-#EXTINF:-1,AF: Rave TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4892
-#EXTINF:-1,AF:Bulsho TV SOMALI
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3938
-#EXTINF:-1,AF: Salvation TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4899
-#EXTINF:-1,AF: Fashion TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3318
-#EXTINF:-1,AF: Ebru Africa (KE)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3943
-#EXTINF:-1,YAF: Channels24 Nigeria
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5757
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="24/7 WORLD NEWS",NHK World (JP) (Opt-2)
+http://45.126.83.51/uq2663/h/h23/index.m3u8
 
-#EXTINF:-1,****New World TV TOGO****
-#EXTINF:-1,RAF: TVT (TG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7482
-#EXTINF:-1,RAF: Nw INFO 1 (TG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5642
-#EXTINF:-1,GAF: Golfe TV Africa
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5638
-#EXTINF:-1,RAF: Nw magazine (TG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5641
-#EXTINF:-1,RAF: EDEN  (BJ)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5640
-#EXTINF:-1,--||  Kenya  ||--
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4TEMhxH.png" group-title="USA",30A TV
+http://30a-tv.com/my999.m3u8?fluxustv.m3u8
 
-#EXTINF:-1,AF:KBC TV Kenya
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6964
-#EXTINF:-1,AF:  Inooro TV (KE)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6095
-#EXTINF:-1,AF:  Kameme  tv
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6986
-#EXTINF:-1,AF: ZTV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/8195
-#EXTINF:-1,AF: SWITCH TV (KE)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7722
-#EXTINF:-1,YAF: NTV LIVE KENYA
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7547
-#EXTINF:-1,YAF:  KTN KENYA NEWS
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4011
-#EXTINF:-1,yAF: Kenya CitizenTV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5104
-#EXTINF:-1,AF: TV 47 (KE)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6526
-#EXTINF:-1,YAF: k24 tv kenya
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4036
-#EXTINF:-1,GAF: ARK TV (OG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4836
-#EXTINF:-1,AF: Kass TV (KE)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3965
-#EXTINF:-1,AF: ALPHAETOMEGA TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4387
-#EXTINF:-1,AF: KWANZA (TZ)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4399
-#EXTINF:-1,--|| SOUDAN  ||--
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="USA",30A Music
+http://30a-tv.com/music.m3u8?fluxustv.m3u8
 
-#EXTINF:-1,YAF: AFRICA24
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3522
-#EXTINF:-1,AF: Tele Vizyon SHILO (HT)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5073
-#EXTINF:-1,AF: DW NEWS
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6297
-#EXTINF:-1,AF: TELE SAHEL
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6469
-#EXTINF:-1,--||  SOMAL  ||--
-http://goiptv.co:8080/live/ge003/1234567890/5288.ts
-#EXTINF:-1,AF: Dacwa TV (SO)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6136
-#EXTINF:-1,AF: dayax TV (SO)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/29266
-#EXTINF:-1,AF: Hctv TV (SO)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/29267
-#EXTINF:-1,AF: SOMovie (so)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/29269
-#EXTINF:-1,AF: horyaal24 tv somalia
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/27556
-#EXTINF:-1,AF: ERI TV 1 (ER)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3945
-#EXTINF:-1,AF: Galmudug (SO)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6009
-#EXTINF:-1,AF: Jubbaland TV (SO)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5282
-#EXTINF:-1,AF: Puntland TV (SO)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5283
-#EXTINF:-1,AF:DALKA TV (SO)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5347
-#EXTINF:-1,AF: RTN (SO)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6539
-#EXTINF:-1,AF: PLTV (SO)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4243
-#EXTINF:-1,AF: SNTV (SO)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4240
-#EXTINF:-1,AF: SOMALI HCTV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6961
-#EXTINF:-1,AF: TVA Chaine 30 (HT)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4244
-#EXTINF:-1,AF:Kalsan TV Somali AF
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4221
-#EXTINF:-1,AF:Somali Cable TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4222
-#EXTINF:-1,AF: Universal (SO)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4242
-#EXTINF:-1,AF: Saab (SO)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6010
-#EXTINF:-1,AF:  SBC TV  (SO)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4230
-#EXTINF:-1,AF: National TV (SO)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5284
-#EXTINF:-1,EAF: ETV QUANQUAWOCH (ET)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4052
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d2o69uW.png" group-title="USA",Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 
-#EXTINF:-1,--||  Mozambique  ||--
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5332
-#EXTINF:-1,AF: TVM1
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4847
-#EXTINF:-1,AF: TVM2
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3899
-#EXTINF:-1,--||  Africa tv ||--
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5333
-#EXTINF:-1,AF: RTV HFF Madagascar
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3960
-#EXTINF:-1,AF:MY HOLYFIELD TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/29302
-#EXTINF:-1,AF: NOURDINE TV (GUINEE)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3317
-#EXTINF:-1,AF:  kolo TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/29249
-#EXTINF:-1,AF: ORTC TV ( Comores)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/27647
-#EXTINF:-1,AF: TPA 1 angola
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/27553
-#EXTINF:-1,AF: MBC MALAWI
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6522
-#EXTINF:-1,RAF: QTV GAMBIA
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/26147
-#EXTINF:-1,AF: NCI  (CI)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/11575
-#EXTINF:-1,AF: energy 100fm namibia
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/11579
-#EXTINF:-1,AF:amaze tv sierra leone
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/11574
-#EXTINF:-1,AF:Obosso Tv
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/11576
-#EXTINF:-1,AF: MY MUSIC AFRICA HD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6965
-#EXTINF:-1,YAF:  TV Tunisia 2
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6307
-#EXTINF:-1,AF:TBN Africa
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5075
-#EXTINF:-1,AF: Quran TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6962
-#EXTINF:-1,YAF: Al Magharibia  Algeria
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6529
-#EXTINF:-1,AF: AYV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7724
-#EXTINF:-1,RAF:  CANAL 3 NIGER
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6963
-#EXTINF:-1,AF: Better Life TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6260
-#EXTINF:-1,AF: Dream Tv Network
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5079
-#EXTINF:-1,AF: Biscon TV (UG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4053
-#EXTINF:-1,RAF: EVASION
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5068
-#EXTINF:-1,AF: GNN TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7398
-#EXTINF:-1,AF: Tv Maná Maputo Mozambique
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6990
-#EXTINF:-1,AF: OCeans
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7486
-#EXTINF:-1,AF: Sigma TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6090
-#EXTINF:-1,GAF: TPA angola
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4046
-#EXTINF:-1,AF:  ALJAZEERA
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4832
-#EXTINF:-1,AF:  IBN TV Africa (TJ)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5348
-#EXTINF:-1,AF:  MEDI 1 TV Afrique (MA)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6519
-#EXTINF:-1,AF:  SIERRA LEONE tv
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6137
-#EXTINF:-1,AF:  Traveling 4U
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5828
-#EXTINF:-1,AF: 218 TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4886
-#EXTINF:-1,AF: 2M TV (MA)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6019
-#EXTINF:-1,AF: 3 TV (BF)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7483
-#EXTINF:-1,AF: Action Sports 4U
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5817
-#EXTINF:-1,AF: AFRICA TV 1 (SD)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4823
-#EXTINF:-1,AF: AFRICA TV 2 (SD)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4824
-#EXTINF:-1,AF: iL TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4466
-#EXTINF:-1,RAF: Arewa 24 (NG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7464
-#EXTINF:-1,AF: ARRYADIA TV (MA)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4821
-#EXTINF:-1,AF: ROUGE TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5844
-#EXTINF:-1,RAF: BF1 (BF)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3208
-#EXTINF:-1,AF: bip tv
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5926
-#EXTINF:-1,AF: Black Music Artist TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5845
-#EXTINF:-1,AF: ETELE BENIN
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7728
-#EXTINF:-1,YAF: C News
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4041
-#EXTINF:-1,AF: Leeeko Tv
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4398
-#EXTINF:-1,YAF: Chosen TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4890
-#EXTINF:-1,AF: ACNN TV (NG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5837
-#EXTINF:-1,AF: Dare to Dream (US)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3936
-#EXTINF:-1,AF: MATÉLÉ
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5862
-#EXTINF:-1,AF: Documentaries 4U
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5834
-#EXTINF:-1,AF: DUA TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4539
-#EXTINF:-1,AF: EL WATANIYA 1 (TN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4825
-#EXTINF:-1,AF: ESPACE (GN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5072
-#EXTINF:-1,GAF: BURKINA INFO (BF)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5329
-#EXTINF:-1,YAF: GABON 24
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7567
-#EXTINF:-1,AF: GEB America (US)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5782
-#EXTINF:-1,AF: Generations TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4464
-#EXTINF:-1,AF: Guinée Buzz
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3641
-#EXTINF:-1,AF: House Of Refuge
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5826
-#EXTINF:-1,AF: IBN TV (TZ)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4410
-#EXTINF:-1,AF: Kalac TV (UG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4214
-#EXTINF:-1,AF: Kalac TV Guinea
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5071
-#EXTINF:-1,AF: ACN TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5842
-#EXTINF:-1,AF: Laayoune TV (MA)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6020
-#EXTINF:-1,AF: Lagos TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4898
-#EXTINF:-1,AF: MATA AFRICA
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7620
-#EXTINF:-1,AF: MB Live TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6131
-#EXTINF:-1,AF: MEKAMELEEN TV (EG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6270
-#EXTINF:-1,YAF: MOUV’ TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3963
-#EXTINF:-1,AF: Movee 4U  Togo
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5808
-#EXTINF:-1,AF: MyHolyfield TV Togo
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5810
-#EXTINF:-1,AF: Natural AFRIQUE (TR)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5342
-#EXTINF:-1,AF: SALAM TV (UG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7729
-#EXTINF:-1,AF: TOP TV (UG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7484
-#EXTINF:-1,AF: NBS TV (UG)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3967
-#EXTINF:-1,AF: UBC UGANDA
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7773
-#EXTINF:-1,AF: New Beginning 4U
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5820
-#EXTINF:-1,AF: nPowered TV Togo
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5812
-#EXTINF:-1,YAF: NTV Uganda
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4413
-#EXTINF:-1,AF: Numidia  (DZ)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6528
-#EXTINF:-1,AF: Africable (bacup)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5819
-#EXTINF:-1,RAF:Savane (BF)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5816
-#EXTINF:-1,AF: Resurrection TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4850
-#EXTINF:-1,AF: RT FRANCE
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3970
-#EXTINF:-1,AF: RTG guinée
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5634
-#EXTINF:-1,AF: RTM8 - TAMAZIGHE (MA)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6026
-#EXTINF:-1,AF: RTV  (RW)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4070
-#EXTINF:-1,GAF:GTVSPÖRTST
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5785
-#EXTINF:-1,AF: salaam tv
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4544
-#EXTINF:-1,AF: Set Free TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5822
-#EXTINF:-1,AF: Smile TV (US)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5070
-#EXTINF:-1,AF: SNRT TV (MA)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4822
-#EXTINF:-1,AF: TBC (TZ)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5067
-#EXTINF:-1,AF: Star TV Tanzania
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5322
-#EXTINF:-1,AF: Studio 1 tv
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4517
-#EXTINF:-1,AF: Tamazgha monde TV (DZ)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4833
-#EXTINF:-1,AF: Tanasuh TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4545
-#EXTINF:-1,AF: TCV Cabo
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4910
-#EXTINF:-1,AF: TELE TCHAD
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4047
-#EXTINF:-1,AF: Tma caraibes TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3948
-#EXTINF:-1,AF: WEST AFRICA TV (	GN)
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5399
-#EXTINF:-1,AF: Tv Francophonie 24
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3782
-#EXTINF:-1,AF: Afroculture TV
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/10527
-#EXTINF:-1,AF: TV5 Afrique
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5637
-#EXTINF:-1,AF: TV7 Colmar
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/3646
-#EXTINF:-1,AF: TVGE Guinea
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/7572
-#EXTINF:-1,AF: WLPC Detroit
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/5823
-#EXTINF:-1,AF: CANAL 3 MONDE
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/9517
-#EXTINF:-1,RAF:GRTS - Gambia
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/9133
-#EXTINF:-1,AF:Libya’s Channel
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/4888
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://web-cdn.blivenyc.com/generic/mee.logo-golden-trans.png" group-title="USA",AKC TV 
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 
-#EXTINF:-1,Daratt \ Tchad
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28500.mkv
-#EXTINF:-1,T-Junction (Tanzania)
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28497.mkv
-#EXTINF:-1,Bahasha\ Tanzania
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28504.mkv
-#EXTINF:-1,Seasons of a Life\ Malawi
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28505.mkv
-#EXTINF:-1,Back to Freeport\ Trinidad and Tobago
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28506.mkv
-#EXTINF:-1,The Unseen\ Namibie
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28507.mkv
-#EXTINF:-1,AN UNCOMMON WOMAN\ Burkina Faso
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28508.mkv
-#EXTINF:-1,RIEN MAIS LA VÉRITÉ  \ Afrique du Sud
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28509.mkv
-#EXTINF:-1,La pirogue \ Sénégal
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28510.mkv
-#EXTINF:-1,Between Friends\ Trinidad and Tobago
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28511.mkv
-#EXTINF:-1,Beat the Drum\ Afrique du Sud
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28512.mkv
-#EXTINF:-1,O-Town \ nigeria
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28513.mkv
-#EXTINF:-1,AFRIQUE UNIE\ Rwanda
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28514.mkv
-#EXTINF:-1,LE VENDEUR COFFIN\ Nigeria
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28515.mkv
-#EXTINF:-1,Flower Girl\ Nigeria
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28516.mkv
-#EXTINF:-1,Uncovered\ Afrique du Sud
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28518.mkv
-#EXTINF:-1,Mona\ Royaume-Uni
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28519.mkv
-#EXTINF:-1,Ojuju\ nigeria
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28520.mkv
-#EXTINF:-1,Small Small Thing\ Liberia
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28521.mkv
-#EXTINF:-1,Wahenga\ Tanzanie
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28522.mkv
-#EXTINF:-1,EMPREINTES DU PANAFRICANISME\ Ghana
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28523.mkv
-#EXTINF:-1,L'HOMME QUI RÉPARE LES FEMMES \ Congo
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28524.mkv
-#EXTINF:-1,MAMA C \ Tanzanie
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28525.mkv
-#EXTINF:-1,L’ART D’AMA ATA AIDOO /Royaume-Uni
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28527.mkv
-#EXTINF:-1,2 Graves in the Desert 2020
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/27504.mkv
-#EXTINF:-1,Amílcar Cabral\ Cape Verde & Guinea
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28528.mkv
-#EXTINF:-1,El Coyote 2019
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/27505.mp4
-#EXTINF:-1,BURKINABÈ RISING\ Burkina Faso
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28529.mkv
-#EXTINF:-1,L'horizon n'appartient à personne \ Senegal
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28530.mkv
-#EXTINF:-1,B POUR BOY\ Nigeria
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28531.mkv
-#EXTINF:-1,Stateless \ Rwanda
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28532.mkv
-#EXTINF:-1,100% DAKAR \ SÉNÉGAL
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28533.mkv
-#EXTINF:-1,LA MÈRE DE LA RÉVOLUTION AFRICAINE\ ANGOLA & DR CONGO
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28535.mkv
-#EXTINF:-1,PORTRAIT D'UN FERMIER SEUL /NIGERIA
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28534.mkv
-#EXTINF:-1,LE DIEU MANQUANT\ Nigeria
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28503.mkv
-#EXTINF:-1,UN HÔTEL APPELÉ MÉMOIRE \ Nigéria
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28502.mkv
-#EXTINF:-1,Qui suis-je \ KENYA
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28538.mkv
-#EXTINF:-1,Les Etoiles filantes\ SIERRA LEONE
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28539.mkv
-#EXTINF:-1,SiDiKi\ Guinée
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28540.mkv
-#EXTINF:-1,COMME VIEUX COMME MA LANGUE/ ZANZIBAR
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28541.mkv
-#EXTINF:-1,Retour à Gorée\ Senegal
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28542.mkv
-#EXTINF:-1,JOURS VERTS PAR LA RIVIÈRE \ Trinidad & Tobago
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28498.mkv
-#EXTINF:-1,Music Is Our Weapon \ EAST AFRICA
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28537.mkv
-#EXTINF:-1,KIRIKOU ET LA SORCEREUSE\ Sénégal
-http://goiptv.co:8080/movie/kennythetiger244/n6wfNmBlQA/28536.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bkikN6d.png" group-title="USA",Apple Sauce Network
+https://nimble.dashmedia.tv/onestudio/applesaucetv/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1,beIN Sport 1 HD
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/1
-#EXTINF:-1,beIN Sport 2 HD
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/2
-#EXTINF:-1,beIN Sport 3 HD
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/3
-#EXTINF:-1,beIN Sport 4 HD
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/4
-#EXTINF:-1,beIN Sport 5 HD
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/5
-#EXTINF:-1,beIN Sport 6 HD
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/6
-#EXTINF:-1,beIN Sport 7 HD
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/7
-#EXTINF:-1,beIN Sport 8 HD
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/8
-#EXTINF:-1,beIN Sport 9 HD
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/9
-#EXTINF:-1,beIN Sport 10 HD
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/10
-#EXTINF:-1,beIN Sport 1 SD
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/12
-#EXTINF:-1,beIN Sport 2 SD
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/13
-#EXTINF:-1,beIN Sport 3 SD
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/14
-#EXTINF:-1,beIN Sport 4 SD
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/15
-#EXTINF:-1,beIN Sport 5 SD
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/16
-#EXTINF:-1,beIN Sport 6 SD
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/17
-#EXTINF:-1,beIN Sport 7 SD
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/18
-#EXTINF:-1,beIN Sport 8 SD
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/19
-#EXTINF:-1,bein sport low1
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/20
-#EXTINF:-1,bein sport low2
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/21
-#EXTINF:-1,bein sport low3
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/22
-#EXTINF:-1,bein sport low4
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/23
-#EXTINF:-1,bein sport low5
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/24
-#EXTINF:-1,bein sport low6
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/25
-#EXTINF:-1,BEIN SPORTS 1 FRA
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/273
-#EXTINF:-1,BEIN SPORTS 2 FRA
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/274
-#EXTINF:-1,BEIN SPORTS 3 FRA
-http://207.244.236.232:25461/BEST-LIVE2233/BEST-LIVE2233/275
-#EXTINF:-1,(FR) TF1 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/544
-#EXTINF:-1,(FR) M6 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/1588
-#EXTINF:-1,(FR) France 2 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/550
-#EXTINF:-1,(FR) France 3 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/642
-#EXTINF:-1,(FR) France 4 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/643
-#EXTINF:-1,(FR) France 5 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/644
-#EXTINF:-1,(FR) France O HD
-http://hbox.cdnss.me:80/xblack/skypertyui/1621
-#EXTINF:-1,(FR) TF1 Series Films HD
-http://hbox.cdnss.me:80/xblack/skypertyui/2572
-#EXTINF:-1,(FR) Canal+
-http://hbox.cdnss.me:80/xblack/skypertyui/546
-#EXTINF:-1,(FR) Canal+Cinema HD
-http://hbox.cdnss.me:80/xblack/skypertyui/547
-#EXTINF:-1,(FR) Canal+Decale HD
-http://hbox.cdnss.me:80/xblack/skypertyui/4010
-#EXTINF:-1,(FR) Cine+Emotion HD
-http://hbox.cdnss.me:80/xblack/skypertyui/1234
-#EXTINF:-1,(FR) Canal+Family HD
-http://hbox.cdnss.me:80/xblack/skypertyui/1224
-#EXTINF:-1,(FR) Cine+Famiz
-http://hbox.cdnss.me:80/xblack/skypertyui/1222
-#EXTINF:-1,(FR) Cine+Frisson
-http://hbox.cdnss.me:80/xblack/skypertyui/1221
-#EXTINF:-1,(FR) Cine+Premier
-http://hbox.cdnss.me:80/xblack/skypertyui/549
-#EXTINF:-1,(FR) Cine+Classic HD
-http://hbox.cdnss.me:80/xblack/skypertyui/637
-#EXTINF:-1,(FR) Canal+Series
-http://hbox.cdnss.me:80/xblack/skypertyui/3385
-#EXTINF:-1,(FR) Serie Club HD
-http://hbox.cdnss.me:80/xblack/skypertyui/1227
-#EXTINF:-1,(FR) Comedie+
-http://hbox.cdnss.me:80/xblack/skypertyui/1219
-#EXTINF:-1,(FR) Paris Premiere
-http://hbox.cdnss.me:80/xblack/skypertyui/4258
-#EXTINF:-1,(FR) 13eme Rue
-http://hbox.cdnss.me:80/xblack/skypertyui/4431
-#EXTINF:-1,(FR) Syfy HD
-http://hbox.cdnss.me:80/xblack/skypertyui/638
-#EXTINF:-1,(FR) Arte HD
-http://hbox.cdnss.me:80/xblack/skypertyui/2125
-#EXTINF:-1,(FR) TMC HD
-http://hbox.cdnss.me:80/xblack/skypertyui/1237
-#EXTINF:-1,(FR) Tv Breizh
-http://hbox.cdnss.me:80/xblack/skypertyui/2519
-#EXTINF:-1,(FR) Ocs_Geants HD
-http://hbox.cdnss.me:80/xblack/skypertyui/1228
-#EXTINF:-1,(FR) Ocs_Choc HD
-http://hbox.cdnss.me:80/xblack/skypertyui/524
-#EXTINF:-1,(FR) Ocs_City HD
-http://hbox.cdnss.me:80/xblack/skypertyui/3380
-#EXTINF:-1,(FR) Ocs_Max HD
-http://hbox.cdnss.me:80/xblack/skypertyui/2331
-#EXTINF:-1,(FR) Rtl 9 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/4027
-#EXTINF:-1,(FR) Action
-http://hbox.cdnss.me:80/xblack/skypertyui/1235
-#EXTINF:-1,(FR) Cine FX
-http://hbox.cdnss.me:80/xblack/skypertyui/2049
-#EXTINF:-1,(FR) Cine Polar
-http://hbox.cdnss.me:80/xblack/skypertyui/2048
-#EXTINF:-1,(FR) Tcm Cinema HD
-http://hbox.cdnss.me:80/xblack/skypertyui/3393
-#EXTINF:-1,(FR) AB1
-http://hbox.cdnss.me:80/xblack/skypertyui/2524
-#EXTINF:-1,(FR) W9 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/1623
-#EXTINF:-1,(FR) Cherie 25
-http://hbox.cdnss.me:80/xblack/skypertyui/2050
-#EXTINF:-1,(FR) NRJ 12
-http://hbox.cdnss.me:80/xblack/skypertyui/2537
-#EXTINF:-1,(FR) Voyage
-http://hbox.cdnss.me:80/xblack/skypertyui/2040
-#EXTINF:-1,(FR) Rouge TV
-http://hbox.cdnss.me:80/xblack/skypertyui/3790
-#EXTINF:-1,(FR) M6 Music
-http://hbox.cdnss.me:80/xblack/skypertyui/2120
-#EXTINF:-1,(FR) MCM TOP HD
-http://hbox.cdnss.me:80/xblack/skypertyui/5965
-#EXTINF:-1,(FR) MTV Dance
-http://hbox.cdnss.me:80/xblack/skypertyui/5966
-#EXTINF:-1,(FR) BFM TV
-http://hbox.cdnss.me:80/xblack/skypertyui/2052
-#EXTINF:-1,(FR) Euronews TV
-http://hbox.cdnss.me:80/xblack/skypertyui/2047
-#EXTINF:-1,(FR) NT1 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/2876
-#EXTINF:-1,(FR) LCI
-http://hbox.cdnss.me:80/xblack/skypertyui/2580
-#EXTINF:-1,(FR)  La Tele
-http://hbox.cdnss.me:80/xblack/skypertyui/3911
-#EXTINF:-1,(FR) C News
-http://hbox.cdnss.me:80/xblack/skypertyui/1625
-#EXTINF:-1,(FR) France 24
-http://hbox.cdnss.me:80/xblack/skypertyui/2121
-#EXTINF:-1,(FR) Trek
-http://hbox.cdnss.me:80/xblack/skypertyui/1622
-#EXTINF:-1,(FR) TEVA HD
-http://hbox.cdnss.me:80/xblack/skypertyui/2041
-#EXTINF:-1,(FR) C8 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/2526
-#EXTINF:-1,(FR) Seasons
-http://hbox.cdnss.me:80/xblack/skypertyui/4029
-#EXTINF:-1,(FR) 6TER
-http://hbox.cdnss.me:80/xblack/skypertyui/2123
-#EXTINF:-1,(FR) C Star
-http://hbox.cdnss.me:80/xblack/skypertyui/4028
-#EXTINF:-1,(FR) ALTICE STUDIO HD
-http://hbox.cdnss.me:80/xblack/skypertyui/4033
-#EXTINF:-1,(FR) NRJ Hits TV
-http://hbox.cdnss.me:80/xblack/skypertyui/6977
-#EXTINF:-1,(FR) KTO TV
-http://hbox.cdnss.me:80/xblack/skypertyui/6958
-#EXTINF:-1,(FR) WEO TV
-http://hbox.cdnss.me:80/xblack/skypertyui/6960
-#EXTINF:-1,(FR) CDirect tv
-http://hbox.cdnss.me:80/xblack/skypertyui/7143
-#EXTINF:-1,(FR)  TZiK  TV
-http://hbox.cdnss.me:80/xblack/skypertyui/7144
-#EXTINF:-1,(FR)   Ici TV 
-http://hbox.cdnss.me:80/xblack/skypertyui/7147
-#EXTINF:-1,(FR) GONG MAX
-http://hbox.cdnss.me:80/xblack/skypertyui/6982
-#EXTINF:-1,(FR) Gulli HD
-http://hbox.cdnss.me:80/xblack/skypertyui/1624
-#EXTINF:-1,(FR) Canal J
-http://hbox.cdnss.me:80/xblack/skypertyui/1241
-#EXTINF:-1,(FR) Mangas
-http://hbox.cdnss.me:80/xblack/skypertyui/1240
-#EXTINF:-1,(FR) Disney Junior
-http://hbox.cdnss.me:80/xblack/skypertyui/3788
-#EXTINF:-1,(FR) Boomerang
-http://hbox.cdnss.me:80/xblack/skypertyui/1242
-#EXTINF:-1,(FR) Nickelodeon Junior
-http://hbox.cdnss.me:80/xblack/skypertyui/1246
-#EXTINF:-1,(FR) Disney Channel
-http://hbox.cdnss.me:80/xblack/skypertyui/1244
-#EXTINF:-1,(FR) TIJI
-http://hbox.cdnss.me:80/xblack/skypertyui/4032
-#EXTINF:-1,(FR) Teletoon HD
-http://hbox.cdnss.me:80/xblack/skypertyui/2575
-#EXTINF:-1,(FR) Disney Cinema
-http://hbox.cdnss.me:80/xblack/skypertyui/4030
-#EXTINF:-1,(FR) Gong
-http://hbox.cdnss.me:80/xblack/skypertyui/4034
-#EXTINF:-1,(FR) Piwi+
-http://hbox.cdnss.me:80/xblack/skypertyui/4031
-#EXTINF:-1,(FR) Game One
-http://hbox.cdnss.me:80/xblack/skypertyui/2518
-#EXTINF:-1,(FR) Cartoon Network
-http://hbox.cdnss.me:80/xblack/skypertyui/639
-#EXTINF:-1,(FR) Ushuaia tv HD
-http://hbox.cdnss.me:80/xblack/skypertyui/1236
-#EXTINF:-1,(FR) Nat Geo HD
-http://hbox.cdnss.me:80/xblack/skypertyui/1232
-#EXTINF:-1,(FR) Science et Vie
-http://hbox.cdnss.me:80/xblack/skypertyui/636
-#EXTINF:-1,(FR) Planete + CI HD
-http://hbox.cdnss.me:80/xblack/skypertyui/551
-#EXTINF:-1,(FR) Chasse Peche
-http://hbox.cdnss.me:80/xblack/skypertyui/2051
-#EXTINF:-1,(FR) Animaux
-http://hbox.cdnss.me:80/xblack/skypertyui/2532
-#EXTINF:-1,(FR) RMC Decouverte
-http://hbox.cdnss.me:80/xblack/skypertyui/2043
-#EXTINF:-1,(FR) Histoire
-http://hbox.cdnss.me:80/xblack/skypertyui/3403
-#EXTINF:-1,(FR) Planete+ HD
-http://hbox.cdnss.me:80/xblack/skypertyui/2044
-#EXTINF:-1,(FR) Discovery HD
-http://hbox.cdnss.me:80/xblack/skypertyui/1249
-#EXTINF:-1,(FR) Discovery Science HD
-http://hbox.cdnss.me:80/xblack/skypertyui/1245
-#EXTINF:-1,(FR) Nat Geo Wild HD
-http://hbox.cdnss.me:80/xblack/skypertyui/1239
-#EXTINF:-1,(FR) RMC STORY
-http://hbox.cdnss.me:80/xblack/skypertyui/2573
-#EXTINF:-1,(FR) GOLF+
-http://hbox.cdnss.me:80/xblack/skypertyui/4386
-#EXTINF:-1,(Sport) Canal+Sport
-http://hbox.cdnss.me:80/xblack/skypertyui/1226
-#EXTINF:-1,(Sport) Beinsports-FR-1-HD
-http://hbox.cdnss.me:80/xblack/skypertyui/6041
-#EXTINF:-1,(Sport) Beinsports-FR-2-HD
-http://hbox.cdnss.me:80/xblack/skypertyui/6042
-#EXTINF:-1,(Sport) Beinsports-FR-3-HD
-http://hbox.cdnss.me:80/xblack/skypertyui/6043
-#EXTINF:-1,(Sport) RMC Sport 1
-http://hbox.cdnss.me:80/xblack/skypertyui/3072
-#EXTINF:-1,(Sport) RMC Sport 2
-http://hbox.cdnss.me:80/xblack/skypertyui/3073
-#EXTINF:-1,(Sport) RMC Sport 3
-http://hbox.cdnss.me:80/xblack/skypertyui/3074
-#EXTINF:-1,(Sport) RMC Sport 4
-http://hbox.cdnss.me:80/xblack/skypertyui/5950
-#EXTINF:-1,(Sport) Extreme Sports
-http://hbox.cdnss.me:80/xblack/skypertyui/2077
-#EXTINF:-1,(Sport) Infosport+
-http://hbox.cdnss.me:80/xblack/skypertyui/1238
-#EXTINF:-1,(Sport) Foot +24
-http://hbox.cdnss.me:80/xblack/skypertyui/2521
-#EXTINF:-1,(Sport) Equidia Live HD
-http://hbox.cdnss.me:80/xblack/skypertyui/2522
-#EXTINF:-1,(Sport) EuroSport 1 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/2127
-#EXTINF:-1,(Sport) EuroSport 2 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/2055
-#EXTINF:-1,(Sport) Bein_Sport Max 4
-http://hbox.cdnss.me:80/xblack/skypertyui/3954
-#EXTINF:-1,(Sport) Bein_Sport Max 5
-http://hbox.cdnss.me:80/xblack/skypertyui/3953
-#EXTINF:-1,(Sport) Bein_Sport Max 6
-http://hbox.cdnss.me:80/xblack/skypertyui/3952
-#EXTINF:-1,(Sport) Bein_Sport Max 7
-http://hbox.cdnss.me:80/xblack/skypertyui/3951
-#EXTINF:-1,(Sport) Bein_Sport Max 8
-http://hbox.cdnss.me:80/xblack/skypertyui/3950
-#EXTINF:-1,(Sport) Bein_Sport Max 9
-http://hbox.cdnss.me:80/xblack/skypertyui/3949
-#EXTINF:-1,(Sport) Bein_Sport Max 10
-http://hbox.cdnss.me:80/xblack/skypertyui/3948
-#EXTINF:-1,(FR) Canal_Play 1
-http://hbox.cdnss.me:80/xblack/skypertyui/1600
-#EXTINF:-1,(FR) Canal_Play 2
-http://hbox.cdnss.me:80/xblack/skypertyui/1601
-#EXTINF:-1,(FR) Canal_Play 3
-http://hbox.cdnss.me:80/xblack/skypertyui/1602
-#EXTINF:-1,(FR) Canal_Play 4
-http://hbox.cdnss.me:80/xblack/skypertyui/1603
-#EXTINF:-1,(FR) Canal_Play 5
-http://hbox.cdnss.me:80/xblack/skypertyui/1604
-#EXTINF:-1,(FR) Canal_Play 6
-http://hbox.cdnss.me:80/xblack/skypertyui/1605
-#EXTINF:-1,(FR) Canal_Play 7
-http://hbox.cdnss.me:80/xblack/skypertyui/1606
-#EXTINF:-1,(FR) Canal_Play 8
-http://hbox.cdnss.me:80/xblack/skypertyui/1607
-#EXTINF:-1,(FR) Canal_Play 9
-http://hbox.cdnss.me:80/xblack/skypertyui/1608
-#EXTINF:-1,(FR) Canal_Play 11
-http://hbox.cdnss.me:80/xblack/skypertyui/1610
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hSYez3V.png" group-title="USA",Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
 
-#EXTINF:-1,(ES) NATIONAL GEOGRAPHIC HD.LOCAL
-http://hbox.cdnss.me:80/xblack/skypertyui/4382
-#EXTINF:-1,(ES) Movistar  DEPORTES 1 HD.LOCAL
-http://hbox.cdnss.me:80/xblack/skypertyui/2839
-#EXTINF:-1,(ES) M.Futbol HD
-http://hbox.cdnss.me:80/xblack/skypertyui/2838
-#EXTINF:-1,(ES) beIN Sports Espana HD
-http://hbox.cdnss.me:80/xblack/skypertyui/2849
-#EXTINF:-1,(ES) Calle 13 (Local)
-http://hbox.cdnss.me:80/xblack/skypertyui/2850
-#EXTINF:-1,(ES) Real Madrid
-http://hbox.cdnss.me:80/xblack/skypertyui/2321
-#EXTINF:-1,(ES) Nat Geo Wild
-http://hbox.cdnss.me:80/xblack/skypertyui/2851
-EXTINF:-1,beIN-Sports-1HD VIP
-http://hbox.cdnss.me:80/xblack/skypertyui/5014
-#EXTINF:-1,beIN-Sports-2HD VIP
-http://hbox.cdnss.me:80/xblack/skypertyui/5013
-#EXTINF:-1,beIN-Sports-3HD VIP
-http://hbox.cdnss.me:80/xblack/skypertyui/5012
-#EXTINF:-1,beIN-Sports-4HD VIP
-http://hbox.cdnss.me:80/xblack/skypertyui/5011
-#EXTINF:-1,beIN-Sports-5HD VIP
-http://hbox.cdnss.me:80/xblack/skypertyui/5010
-#EXTINF:-1,beIN-Sports-6HD VIP
-http://hbox.cdnss.me:80/xblack/skypertyui/5009
-#EXTINF:-1,beIN-Sports-7HD VIP
-http://hbox.cdnss.me:80/xblack/skypertyui/5008
-#EXTINF:-1,beIN-Sports-8HD VIP
-http://hbox.cdnss.me:80/xblack/skypertyui/5007
-#EXTINF:-1,beIN-Sports-9HD VIP
-http://hbox.cdnss.me:80/xblack/skypertyui/5006
-#EXTINF:-1,beIN-Sports-10HD VIP
-http://hbox.cdnss.me:80/xblack/skypertyui/5005
-#EXTINF:-1,(PT) Real  Madrid
-http://hbox.cdnss.me:80/xblack/skypertyui/4633
-#EXTINF:-1,(PT) SPORT TV +
-http://hbox.cdnss.me:80/xblack/skypertyui/4600
-#EXTINF:-1,(PT) Sport TV 1
-http://hbox.cdnss.me:80/xblack/skypertyui/2975
-#EXTINF:-1,(PT) Sport TV 2
-http://hbox.cdnss.me:80/xblack/skypertyui/2976
-#EXTINF:-1,(PT) SPORT TV 3
-http://hbox.cdnss.me:80/xblack/skypertyui/4572
-#EXTINF:-1,(PT) SPORT TV 5
-http://hbox.cdnss.me:80/xblack/skypertyui/4601
-#EXTINF:-1,(PT) Sporting TV
-http://hbox.cdnss.me:80/xblack/skypertyui/4578
-#EXTINF:-1,(PT) Nat Geo Wild
-http://hbox.cdnss.me:80/xblack/skypertyui/4582
-#EXTINF:-1,(PT) NATIONAL GEOGRAPHIC HD
-http://hbox.cdnss.me:80/xblack/skypertyui/4388
-#EXTINF:-1,(PL) Canal + Sport HD
-http://hbox.cdnss.me:80/xblack/skypertyui/2921
-#EXTINF:-1,(USA) FOX SPORTS 2 FHD
-http://hbox.cdnss.me:80/xblack/skypertyui/4961
-#EXTINF:-1,(USA) FOX SPORT 1 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/4963
-#EXTINF:-1,(USA) LIFETIME MOVIES HD
-http://hbox.cdnss.me:80/xblack/skypertyui/4977
-#EXTINF:-1,(USA) HBO HD SIGNATURE
-http://hbox.cdnss.me:80/xblack/skypertyui/4978
-#EXTINF:-1,(USA) CINEMAX ACTION MAX FHD 
-http://hbox.cdnss.me:80/xblack/skypertyui/4968
-#EXTINF:-1,(USA) AMC HD
-http://hbox.cdnss.me:80/xblack/skypertyui/4971
-#EXTINF:-1,(USA) HALLMARK DRAMA
-http://hbox.cdnss.me:80/xblack/skypertyui/4980
-#EXTINF:-1,(USA) ABC HD
-http://hbox.cdnss.me:80/xblack/skypertyui/4975
-#EXTINF:-1,(Sport) Bein Sports 1 HD backup
-http://hbox.cdnss.me:80/xblack/skypertyui/553
-#EXTINF:-1,(Sport) Bein Sports 2 HD backup
-http://hbox.cdnss.me:80/xblack/skypertyui/552
-#EXTINF:-1,(Sport) Bein Sports 3 HD backup
-http://hbox.cdnss.me:80/xblack/skypertyui/554
-#EXTINF:-1,(Sport) Bein Sports 4 HD backup
-http://hbox.cdnss.me:80/xblack/skypertyui/555
-#EXTINF:-1,(Sport) Bein Sports 5 HD backup
-http://hbox.cdnss.me:80/xblack/skypertyui/556
-#EXTINF:-1,(Sport) Bein Sports 6 HD backup
-http://hbox.cdnss.me:80/xblack/skypertyui/557
-#EXTINF:-1,(Sport) Bein Sports 7 HD backup
-http://hbox.cdnss.me:80/xblack/skypertyui/587
-#EXTINF:-1,(Sport) Bein Sports 8 HD backup
-http://hbox.cdnss.me:80/xblack/skypertyui/588
-#EXTINF:-1,(Sport) Bein Sports 9 HD backup
-http://hbox.cdnss.me:80/xblack/skypertyui/589
-#EXTINF:-1,(Sport) Bein Sports 10 HD backup
-http://hbox.cdnss.me:80/xblack/skypertyui/590
-#EXTINF:-1,(Sport) Bein_Sports NewsHD
-http://hbox.cdnss.me:80/xblack/skypertyui/2301
-#EXTINF:-1,(Sport) Bein 1 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/3943
-#EXTINF:-1,(Sport) Bein 2 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/3944
-#EXTINF:-1,(Sport) Bein 3 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/3945
-#EXTINF:-1,(Sport) Bein 4 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/3946
-#EXTINF:-1,(Sport) Bein 5 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/4194
-#EXTINF:-1,(Sport) Bein 6 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/4195
-#EXTINF:-1,(Sport) Bein 7 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/4196
-#EXTINF:-1,(Sport) Bein 8 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/4197
-#EXTINF:-1,(Sport) Bein 9 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/4366
-#EXTINF:-1,(Sport) Bein 10 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/4365
-#EXTINF:-1,(Sport) Bein 11 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/4364
-#EXTINF:-1,(Sport) Bein 12 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/4363
-#EXTINF:-1,(Sport) Nile Sports
-http://hbox.cdnss.me:80/xblack/skypertyui/1819
-#EXTINF:-1,(Sport) Abu Dhabi Sports 1 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/2316
-#EXTINF:-1,(Sport) Abu Dhabi Sports 2 HD
-http://hbox.cdnss.me:80/xblack/skypertyui/2315
-#EXTINF:-1,(Sport) Abu Dhabi Sports 3 hd
-http://hbox.cdnss.me:80/xblack/skypertyui/4532
-#EXTINF:-1,(Sport) Abu Dhabi Sports 4 hd
-http://hbox.cdnss.me:80/xblack/skypertyui/4533
-#EXTINF:-1,(Sport) Jordan Sport TV
-http://hbox.cdnss.me:80/xblack/skypertyui/2176
-#EXTINF:-1,(Sport) Saudi Sport
-http://hbox.cdnss.me:80/xblack/skypertyui/3919
-#EXTINF:-1,(Sport) Alkass One HD
-http://hbox.cdnss.me:80/xblack/skypertyui/2146
-#EXTINF:-1,(Sport) Alkass Two HD
-http://hbox.cdnss.me:80/xblack/skypertyui/2147
-#EXTINF:-1,(Sport)  Alkass Five HD
-http://hbox.cdnss.me:80/xblack/skypertyui/2330
-#EXTINF:-1,(Sport) Alkass Four HD
-http://hbox.cdnss.me:80/xblack/skypertyui/2329
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tHopHL9.png" group-title="USA",Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/KiyYqPK.jpg" tvg-country="CD" tvg-url="" group-title="General",Congo Planet Television
-https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/KiyYqPK.jpg" tvg-country="CD" tvg-url="" group-title="General",Congo Planet Television
-https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tHopHL9.png" group-title="USA",Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tHopHL9.png" group-title="USA",Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="USA",Bloomberg Television (Opt-1)
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="USA",Bloomberg Television (Opt-2)
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Buzzr_%28TV_Network%29_Logo.png" group-title="USA",Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PbpvywI.png" group-title="USA",BYUtv (New!)
+http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Wd4xnGt.png" group-title="USA",C-SPAN
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ltcivXp.png" group-title="USA",C-SPAN 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cyU21ML.png" group-title="USA",C-SPAN 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AjnHVZw.png" group-title="USA",Cartoons 4U
+https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="USA",CBS (WFOR) (EST)
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="USA",CBS News (Opt-1)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="USA",CBS News (Opt-2)
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azOTXMy.png" group-title="USA",Channel 7
+http://radio.7chan.org:8000/CH7
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2OnFFoP.png" group-title="USA",Cheddar Business (New!)
+https://live.chdrstatic.com/cheddar/primary/1.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xWVT3Dg.png" group-title="USA",Cheddar News (New!)
+https://live.chdrstatic.com/cbn/primary/1.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="USA",Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="USA",CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="USA",CMC-USA (New!)
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SxRzFO8.png" group-title="USA",Cooking 4U
+https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/haiti/flag-button-square-250.png" group-title="LABEL",~ Haiti TV ~
+http://www.lengua.com/anthems/Haiti.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uisopuM.png" group-title="HAITI",Nago TV
+http://haititivi.com:8088/haititv/tele6NY/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/UxEzPeX.png" tvg-country="UNSORTED" tvg-url="" group-title="",Connecticut Network
 http://video.ct-n.com/live/ctnstream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/BMB9xq3.png" tvg-country="CM" tvg-url="" group-title="",Conso TV Afrique
-http://connectiktv.ddns.net:5000/consotv/consotv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="",ASIA: NAT GEO
-http://193.64.188.131:8021/bysid/449
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="",ASIA: NAT GEO WILD
-http://153.99.180.70:5021/live/263/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="FR" tvg-url="" group-title="News",Euronews
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 1 ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-country="AE" tvg-url="" group-title="Sport",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" tvg-country="AE" tvg-url="" group-title="Sport",Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 3 ARB" tvg-name="Abu Dhabi Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U6XDpXY.png" tvg-country="AE" tvg-url="" group-title="Sport",Abu Dhabi Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 4 ARB" tvg-name="Abu Dhabi Sports 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VqomZ5.png" tvg-country="AE" tvg-url="" group-title="Sport",Abu Dhabi Sports 4
-https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.alkass.net/alkass/assets/images/logo.png" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Online
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlmtuyvwjhd/master.m3u8
-#EXTINF:-1 tvg-id="Al Kass One ARB" tvg-name="Al Kass One ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Sports 1
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vytrsvjs5r/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Sports 2
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2msfjofcxcw/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Sports 4
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fincy/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Sports 5
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5pve/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="Sport",All Sports
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" tvg-country="BR" tvg-url="" group-title="Sport",ALL Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/liFebM9.png" tvg-country="MA" tvg-url="" group-title="Sport",Arryadia
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/liFebM9.png" tvg-country="MA" tvg-url="" group-title="Sport",Arryadia
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Swedish" tvg-logo="https://i.imgur.com/5CdW62M.png" tvg-country="SE" tvg-url="" group-title="Sport",ATG
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-country="US" tvg-url="" group-title="Sport",Bek Sports East
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-country="US" tvg-url="" group-title="Sport",Bek Sports West
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Sport",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://www.livenewsmag.com/wp-content/uploads/2017/03/DD-Sports-TV.jpg" tvg-country="IN" tvg-url="" group-title="Sport",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="Dubai Racing ARB" tvg-name="Dubai Racing ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" tvg-country="AE" tvg-url="" group-title="Sport",Dubai Racing
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" tvg-country="AE" tvg-url="" group-title="Sport",Dubai Racing 2
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" tvg-country="AE" tvg-url="" group-title="Sport",Dubai Racing 3
-https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 1 ARB" tvg-name="Dubai Sports 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" tvg-country="AE" tvg-url="" group-title="Sport",Dubai Sports 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" tvg-country="AE" tvg-url="" group-title="Sport",Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" tvg-country="AE" tvg-url="" group-title="Sport",Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54" tvg-country="US" tvg-url="" group-title="Sport",Edge Sports
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/BuKv5Vj.png" tvg-country="CM" tvg-url="" group-title="",My TV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/V6FiGak.jpg" tvg-country="CM" tvg-url="" group-title="",Golden House TV
 http://connectiktv.ddns.net:5000/goldentv/goldentv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/BT6jnfv.jpg" tvg-country="SN" tvg-url="" group-title="Music",Leeeko TV
 http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://tbc.go.tz/wp-content/uploads/2018/04/Logo-website.jpg" tvg-country="TZ" tvg-url="" group-title="",TBC
 https://tbc.swahiliflix.tv:8443/live/livestream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rjLxSfx.png" tvg-country="NG" tvg-url="" group-title="English",Lagos Television
 http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="ID" tvg-url="" group-title="",ANIMAL PLANET HD
-http://136.243.177.164/ANIMALPLANET/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xT3X6L9.png" tvg-country="UK" tvg-url="" group-title="English",MTA Africa
-https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/bcHP3Vg.png" tvg-country="CA" tvg-url="" group-title="",Global British Columbia
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/7R10c5i.png" tvg-country="CA" tvg-url="" group-title="",Global Edmonton
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mhhVQE6.png" tvg-country="CA" tvg-url="" group-title="",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="",Global Punjab
 https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/wlqYdqN.png" tvg-country="CA" tvg-url="" group-title="",Global Toronto
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",& PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/tbcqI3o.jpg" tvg-country="UNSORTED" tvg-url="" group-title="",SPORT | Tennis Plus 4
 https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/f.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/WctAqnI.png" tvg-country="UNSORTED" tvg-url="" group-title="",SPORT | Africa Sports TV
 https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/str_africasportstv_africasportstv/str_africasportstv_player_1080p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="UK EDGE Sport" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Mg7BTDP.jpg" tvg-country="UNSORTED" tvg-url="" group-title="",SPORT | EDGE Sport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/tbcqI3o.jpg" tvg-country="UNSORTED" tvg-url="" group-title="",SPORT | Tennis Plus 4
 https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/f.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="News",France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="News",France 24 English
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="News",France 24 English
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="News",France 24 French
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+
 #EXTINF:-1 tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-3)
 http://45.126.83.51/qwr9ew/s/s17/index.m3u8
+
 #EXTINF:-1 tvg-id="Fine Living" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="Lifestyle",Fine Living
 http://5.135.92.133:52841/out/u/498_1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/KNXV_Logo.png" tvg-country="UNSORTED" tvg-url="" group-title="News",ABC 15
 https://content.uplynk.com/61fb4f9811b64bddaf2cfb0e2e4a32db.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/11llLr1.jpg" tvg-country="UA" tvg-url="" group-title="News",100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+
 #EXTINF:-1, NBC 5 News (Chicago)
 http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+
 #EXTINF:0,DW-TV English
 http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="FRANCE",TV5 Monde Info (Opt-2)
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+
 #EXTINF:0,France 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
 #EXTINF:0,France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
 #EXTINF:0,France 24 [USA]
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8?
+
 #EXTINF:0,NRB Network [USA]
 https://uni10rtmp.tulix.tv/nrbtvlive/nrbtvlive.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-2)
-http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
+
 #EXTINF:0,Sky News Extra 2
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master960x540_v2.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-2)
 http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="NEWS",CBS News (Opt-1)
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24 (FR) (Opt-1)
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24 (FR) (Opt-2)
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="24/7 WORLD NEWS",RT America (RU) (Opt-1)
 https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="24/7 WORLD NEWS",RT America (RU) (Opt-2)
 http://ott-cdn.ucom.am/s96/index.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="24/7 WORLD NEWS",RT America (RU) (Opt-3)
 http://45.126.83.51/qwr9ew/s/s23/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="24/7 WORLD NEWS",TeleSUR (VE)
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="24/7 WORLD NEWS",RT UK (RU)
 https://rt-uk.secure.footprint.net/1106.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="SPORTS",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" group-title="SPORTS",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQhdVG1.png" group-title="USA",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WBiCDLB.png" group-title="USA",Fox News Channel (Opt-2) (No-Audio)
 http://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="FRANCE",TV5 Monde Info (Opt-2)
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/cbcnews-300.png" group-title="CANADA GEO",CBC News Network (Geo)
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/lvrvwtm.png" group-title="",Francophonie
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+
 #EXTINF:28,Francophonie 24
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:60,ICI RDI HD
+
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+
 #EXTINF:-1 tvg-id="LCI" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+
 #EXTINF:0,ICI Télé HD
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0RQvs8y.png" group-title="",Alpe d’Huez TV
 https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/cThInij.png" group-title="",D5 TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist.m3u8
+
 #EXTINF:-1,Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
