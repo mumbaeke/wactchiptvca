@@ -1,6 +1,98 @@
 #EXTM3U
 #EXTINF:0, CNN (Eng.)
 http://203.162.235.41:16918
+#EXTINF:-1,CA: AMC HD
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16306
+#EXTINF:-1,CA: BNN HD
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16307
+#EXTINF:-1,CA: Bravo TV HD
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16308
+#EXTINF:-1,CA: CBC HD
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16309
+#EXTINF:-1,CA: CBC Charlottetown HD
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16310
+#EXTINF:-1,CA: CBC MONTREAL
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16311
+#EXTINF:-1,CA: CBC Toronto
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16312
+#EXTINF:-1,CA: CBC Ottawa HD
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16313
+#EXTINF:-1,CA: CBC
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16314
+#EXTINF:-1,CA: CBC Toronto HD
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16315
+#EXTINF:-1,CA: CBC Vancouver HD
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16316
+#EXTINF:-1,CA: City FHD
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16317
+#EXTINF:-1,CA: Comedy HD
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16318
+#EXTINF:-1,CA: CP24 HD
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16319
+#EXTINF:-1,CA: CPAC HD
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16320
+#EXTINF:-1,CA: Fight Network HD
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16321
+#EXTINF:-1,CA: FOX HD
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16322
+#EXTINF:-1,CA: FX FHD
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16323
+#EXTINF:-1,CA: SHOWCASE HD
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16324
+#EXTINF:-1,CA: FXX
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16325
+#EXTINF:-1,CA: HBO 1
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16326
+#EXTINF:-1,CA: HBO 2 HD
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16327
+#EXTINF:-1,CA: Lifetime FHD
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16328
+#EXTINF:-1,CA: National Geographic HD
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16329
+#EXTINF:-1,CA: NTV News HD
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16330
+#EXTINF:-1,CA: Slice HD
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16331
+#EXTINF:-1,CA: Treehouse
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16332
+#EXTINF:-1,CA: TLC HD
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16333
+#EXTINF:-1,CA: TSN 3 FHD
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16334
+#EXTINF:-1,CA: CBC Montreal
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16335
+#EXTINF:-1,CA: Casa
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16336
+#EXTINF:-1,CA: ICI Montreal
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16337
+#EXTINF:-1,CA: RDI
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16338
+#EXTINF:-1,CA: Frissons TV
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16339
+#EXTINF:-1,CA: RDS Info
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16340
+#EXTINF:-1,CA: Super Ecran 1
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16341
+#EXTINF:-1,CA: Super Ecran 2
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16342
+#EXTINF:-1,CA: Super Ecran 3
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16343
+#EXTINF:-1,CA: Tele Quebec
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16344
+#EXTINF:-1,CA: Super Ecran 4
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16345
+#EXTINF:-1,CA: Zeste
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16346
+#EXTINF:-1,CA: TMN 2
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16347
+#EXTINF:-1,CA: VRAK TV
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16348
+#EXTINF:-1,CA: Z-Tele
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16349
+#EXTINF:-1,CA: TV5 Quebec
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/16350
+#EXTINF:-1,CTV
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="USA",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
